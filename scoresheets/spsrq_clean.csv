@@ -1,0 +1,103 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+spsrq_illegal,NA,Do you often refrain from doing something because you are afraid of it being illegal?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_money_positive,NA,Does the good prospect of obtaining money motivate you strongly to do something?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_certain_obtain,NA,prefer not to ask for something when you are not sure you will obtain it?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_others_value,NA,Are you frequently encouraged to act by the possibility of being va ... r friends or with your family?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_fear_unexpected,NA,Are you often afraid of new or unexpected situations?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_physical_attract,NA,Do you often meet people that you find physically attractive?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_telephone,NA,Is it difficult for you to telephone someone you do not know?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_drug_pleasant,NA,Do you like to take some drugs because of the pleasure you get from them?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_right,NA,Do you often renounce your rights when you know you can avoid a qua ... h a person or an organization?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_praise,NA,Do you often do things to be praised?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_punish_concern,NA,"As a child, were you trouble by punishments at home or in school?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_attention,NA,Do you like being the center of attention at a party or a social meeting?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_failure,NA,"In tasks that you are not prepared for, do you attach great importance to the possibility of failure?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_good_image,NA,Do you spend a lot of your time on obtaining a good image?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_discourage,NA,Are you easily discouraged in difficult situations?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_affection,NA,Do you need people to show their affection for you all the time?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_shy,NA,Are you a shy person?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_intelligent,NA,"When you are in a group, do you try to make your opinions the most intelligent or the funniest?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_embarassed,NA,"Whenever possible, do you avoid demonstrating your skills for fear of being embarrassed?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_pick_up,NA,Do you often take the opportunity to pick up people you find attractive?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_topic,NA,"When you are with a group, do you have difficulties selecting a good topic to talk about?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_approval,NA,"As a child, did you do a lot of things to get people’s approval?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_fall_asleep,NA,Is it often difficult for you to fall asleep when you think about things you have done or must do?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_unfair,NA,"Does the possibility of social advancement, move you to action, even if this involves not playing fair?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_meal_complain,NA,Do you think a lot before complaining in a restaurant if your meal is not well prepared?,raw,0,NA,NA,NA,NA,NA,NA
+spsqr_immediate_gain,NA,Do you generally give preferences to those activities that imply an immediate gain?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_wrong_change,NA,Would you be bothered if you had to return to a store when you noticed you were given the wrong change?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_forbidden,NA,Do you often have trouble resisting the temptation of doing forbidden things? ,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_unknown_place,NA,"Whenever you can, do you avoid going to unknown places?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_win,NA,Do you like to compete and do everything you can to win?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_worry,NA,Are you often worried by things that you said or did?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_pleasant_relate,NA,Is it easy for you to associate tastes and smells to very pleasant events?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_salary_increase,NA,Would it be difficult for you to ask your boss for a raise (salary increase)?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_pleasant_remind,NA,Are there a large number of objects or sensations that remind you of pleasant events?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_public_speak,NA,Do you generally try to avoid speaking in public?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_slot_machine,NA,"When you start to play with a slot machine, is it often difficult for you to stop?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_do_more,NA,"Do you, on a regular basis, think that you could do more things if it was not for your insecurity or fear?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_quick_gain,NA,Do you sometimes do things for quick gains?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_fear,NA,"Comparing yourself to people you know, are you afraid of many things?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_stray_off,NA,Does your attention easily stray from your work in the presence of an attractive stranger?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_inhibition,NA,Do you often find yourself worrying about things to the extent that performance in intellectual abilities is impaired?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_money_risk,NA,Are you interested in money to the point of being able to do risky jobs?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_rejection,NA,Do you often refrain from doing something you like in order not to be rejected or disapproved of by others?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_competitive,NA,Do you like to put competitive ingredients in all of your activities?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_threat_attend,NA,"Generally, do you pay more attention to threats than to pleasant events?",raw,0,NA,NA,NA,NA,NA,NA
+spsrq_social_power,NA,Would you like to be a socially powerful person?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_fear_embarrase,NA,Do you often refrain from doing something because of your fear of being embarrassed?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_physical_danger,NA,Do you like displaying your physical abilities even though this may involve danger?,raw,0,NA,NA,NA,NA,NA,NA
+spsrq_complete,NA,Complete?,raw,0,"incomplete = 0, complete = 2",NA,NA,NA,NA,NA
+"spsrq_illegal, spsrq_money_positive, spsrq_certain_obtain, spsrq_others_value, spsrq_fear_unexpected, spsrq_physical_attract, spsrq_telephone, spsrq_drug_pleasant, spsrq_right, spsrq_praise, spsrq_punish_concern, spsrq_attention, spsrq_failure, spsrq_good_image, spsrq_discourage, spsrq_affection, spsrq_shy, spsrq_intelligent, spsrq_embarassed, spsrq_pick_up, spsrq_topic, spsrq_approval, spsrq_fall_asleep, spsrq_unfair, spsrq_meal_complain, spsqr_immediate_gain, spsrq_wrong_change, spsrq_forbidden, spsrq_unknown_place, spsrq_win, spsrq_worry, spsrq_pleasant_relate, spsrq_salary_increase, spsrq_pleasant_remind, spsrq_public_speak, spsrq_slot_machine, spsrq_do_more, spsrq_quick_gain, spsrq_fear, spsrq_stray_off, spsrq_inhibition, spsrq_money_risk, spsrq_rejection, spsrq_competitive, spsrq_threat_attend, spsrq_social_power, spsrq_fear_embarrase, spsrq_physical_danger, spsrq_complete",NA,,select,1,NA,NA,NA,NA,NA,NA
+spsrq_illegal,spsrq_1_illegal,Do you often refrain from doing something because you are afraid of it being illegal?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_money_positive,spsrq_2_money_positive,Does the good prospect of obtaining money motivate you strongly to do something?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_certain_obtain,spsrq_3_certain_obtain,prefer not to ask for something when you are not sure you will obtain it?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_others_value,spsrq_4_others_value,Are you frequently encouraged to act by the possibility of being va ... r friends or with your family?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_fear_unexpected,spsrq_5_fear_unexpected,Are you often afraid of new or unexpected situations?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_physical_attract,spsrq_6_physical_attract,Do you often meet people that you find physically attractive?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_telephone,spsrq_7_telephone,Is it difficult for you to telephone someone you do not know?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_drug_pleasant,spsrq_8_drug_pleasant,Do you like to take some drugs because of the pleasure you get from them?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_right,spsrq_9_right,Do you often renounce your rights when you know you can avoid a qua ... h a person or an organization?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_praise,spsrq_10_praise,Do you often do things to be praised?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_punish_concern,spsrq_11_punish_concern,"As a child, were you trouble by punishments at home or in school?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_attention,spsrq_12_attention,Do you like being the center of attention at a party or a social meeting?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_failure,spsrq_13_failure,"In tasks that you are not prepared for, do you attach great importance to the possibility of failure?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_good_image,spsrq_14_good_image,Do you spend a lot of your time on obtaining a good image?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_discourage,spsrq_15_discourage,Are you easily discouraged in difficult situations?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_affection,spsrq_16_affection,Do you need people to show their affection for you all the time?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_shy,spsrq_17_shy,Are you a shy person?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_intelligent,spsrq_18_intelligent,"When you are in a group, do you try to make your opinions the most intelligent or the funniest?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_embarassed,spsrq_19_embarassed,"Whenever possible, do you avoid demonstrating your skills for fear of being embarrassed?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_pick_up,spsrq_20_pick_up,Do you often take the opportunity to pick up people you find attractive?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_topic,spsrq_21_topic,"When you are with a group, do you have difficulties selecting a good topic to talk about?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_approval,spsrq_22_approval,"As a child, did you do a lot of things to get people’s approval?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_fall_asleep,spsrq_23_fall_asleep,Is it often difficult for you to fall asleep when you think about things you have done or must do?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_unfair,spsrq_24_unfair,"Does the possibility of social advancement, move you to action, even if this involves not playing fair?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_meal_complain,spsrq_25_meal_complain,Do you think a lot before complaining in a restaurant if your meal is not well prepared?,rename,2,NA,NA,NA,NA,NA,NA
+spsqr_immediate_gain,spsqr_26_immediate_gain,Do you generally give preferences to those activities that imply an immediate gain?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_wrong_change,spsrq_27_wrong_change,Would you be bothered if you had to return to a store when you noticed you were given the wrong change?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_forbidden,spsrq_28_forbidden,Do you often have trouble resisting the temptation of doing forbidden things? ,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_unknown_place,spsrq_29_unknown_place,"Whenever you can, do you avoid going to unknown places?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_win,spsrq_30_win,Do you like to compete and do everything you can to win?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_worry,spsrq_31_worry,Are you often worried by things that you said or did?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_pleasant_relate,spsrq_32_pleasant_relate,Is it easy for you to associate tastes and smells to very pleasant events?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_salary_increase,spsrq_33_salary_increase,Would it be difficult for you to ask your boss for a raise (salary increase)?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_pleasant_remind,spsrq_34_pleasant_remind,Are there a large number of objects or sensations that remind you of pleasant events?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_public_speak,spsrq_35_public_speak,Do you generally try to avoid speaking in public?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_slot_machine,spsrq_36_slot_machine,"When you start to play with a slot machine, is it often difficult for you to stop?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_do_more,spsrq_37_do_more,"Do you, on a regular basis, think that you could do more things if it was not for your insecurity or fear?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_quick_gain,spsrq_38_quick_gain,Do you sometimes do things for quick gains?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_fear,spsrq_39_fear,"Comparing yourself to people you know, are you afraid of many things?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_stray_off,spsrq_40_stray_off,Does your attention easily stray from your work in the presence of an attractive stranger?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_inhibition,spsrq_41_inhibition,Do you often find yourself worrying about things to the extent that performance in intellectual abilities is impaired?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_money_risk,spsrq_42_money_risk,Are you interested in money to the point of being able to do risky jobs?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_rejection,spsrq_43_rejection,Do you often refrain from doing something you like in order not to be rejected or disapproved of by others?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_competitive,spsrq_44_competitive,Do you like to put competitive ingredients in all of your activities?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_threat_attend,spsrq_45_threat_attend,"Generally, do you pay more attention to threats than to pleasant events?",rename,2,NA,NA,NA,NA,NA,NA
+spsrq_social_power,spsrq_46_social_power,Would you like to be a socially powerful person?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_fear_embarrase,spsrq_47_fear_embarrase,Do you often refrain from doing something because of your fear of being embarrassed?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_physical_danger,spsrq_48_physical_danger,Do you like displaying your physical abilities even though this may involve danger?,rename,2,NA,NA,NA,NA,NA,NA
+spsrq_complete,NA,Complete?,rename,2,NA,NA,NA,NA,NA,NA
+"spsrq_2_money_positive, spsrq_4_others_value, spsrq_6_physical_attract, spsrq_8_drug_pleasant, spsrq_10_praise, spsrq_12_attention, spsrq_14_good_image, spsrq_16_affection, spsrq_18_intelligent, spsrq_20_pick_up, spsrq_22_approval, spsrq_24_unfair, spsqr_26_immediate_gain, spsrq_28_forbidden, spsrq_30_win, spsrq_32_pleasant_relate, spsrq_34_pleasant_remind, spsrq_36_slot_machine, spsrq_38_quick_gain, spsrq_40_stray_off, spsrq_42_money_risk, spsrq_44_competitive, spsrq_46_social_power, spsrq_48_physical_danger",NA,spsrq_reward_SUM,sum,3,NA,NA,NA,NA,NA,NA
+"spsrq_1_illegal, spsrq_3_certain_obtain, spsrq_5_fear_unexpected, spsrq_7_telephone, spsrq_9_right, spsrq_11_punish_concern, spsrq_13_failure, spsrq_15_discourage, spsrq_17_shy, spsrq_19_embarassed, spsrq_21_topic, spsrq_23_fall_asleep, spsrq_25_meal_complain, spsrq_27_wrong_change, spsrq_29_unknown_place, spsrq_31_worry, spsrq_33_salary_increase, spsrq_35_public_speak, spsrq_37_do_more, spsrq_39_fear, spsrq_41_inhibition, spsrq_43_rejection, spsrq_45_threat_attend, spsrq_47_fear_embarrase",NA,spsrq_punishiment_SUM,sum,3,NA,NA,NA,NA,NA,NA
+"spsrq_1_illegal, spsrq_2_money_positive, spsrq_3_certain_obtain, spsrq_4_others_value, spsrq_5_fear_unexpected, spsrq_6_physical_attract, spsrq_7_telephone, spsrq_8_drug_pleasant, spsrq_9_right, spsrq_10_praise, spsrq_11_punish_concern, spsrq_12_attention, spsrq_13_failure, spsrq_14_good_image, spsrq_15_discourage, spsrq_16_affection, spsrq_17_shy, spsrq_18_intelligent, spsrq_19_embarassed, spsrq_20_pick_up, spsrq_21_topic, spsrq_22_approval, spsrq_23_fall_asleep, spsrq_24_unfair, spsrq_25_meal_complain, spsqr_26_immediate_gain, spsrq_27_wrong_change, spsrq_28_forbidden, spsrq_29_unknown_place, spsrq_30_win, spsrq_31_worry, spsrq_32_pleasant_relate, spsrq_33_salary_increase, spsrq_34_pleasant_remind, spsrq_35_public_speak, spsrq_36_slot_machine, spsrq_37_do_more, spsrq_38_quick_gain, spsrq_39_fear, spsrq_40_stray_off, spsrq_41_inhibition, spsrq_42_money_risk, spsrq_43_rejection, spsrq_44_competitive, spsrq_45_threat_attend, spsrq_46_social_power, spsrq_47_fear_embarrase, spsrq_48_physical_danger",NA,NA,select,4,NA,NA,NA,NA,NA,NA
