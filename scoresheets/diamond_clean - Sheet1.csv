@@ -1,0 +1,126 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+record_id,NA,Record ID,raw,0,NA,NA,NA,NA,NA,NA
+diamond_ocd,NA,Obsessive-Compulsive Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_ocd_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_body,NA,Body Dysmorphic Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_body_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_socialax,NA,Social Anxiety Disorder (social phobia),raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_socialax_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_panic,NA,Panic Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_panic_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_agora,NA,Agoraphobia,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_agora_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_generalax,NA,Generalized Anxiety Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_generalax_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_phobia,NA,Specific Phobia,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_phobia_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_separationax,NA,Separation Anxiety Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_separationax_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_manic,NA,Manic Episode,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_hypomanic,NA,Hypomanic Episode,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_persistentdep,NA,Persistent Depressive Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_persistentdep_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_bipolarl,NA,Bipolar I Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_bipolarl_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_bipolarll,NA,Bipolar II Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_bipolatll_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_majordep,NA,Major Depressive Episode (lifetime),raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_majordep_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_majordep_current,NA,Major Depressive Episode (current),raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_majordep_current_rating,NA,Distress/Impartment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_acutestress,NA,Acute Stress Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_acutestress_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_ptsd,NA,Posttraumatic Stress Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_ptsd_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_adjustment,NA,Adjustment Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_adjustment_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_psychotic,NA,Psychotic,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_anorexia,NA,Anorexia Nervosa,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_anorexia_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_bulimia,NA,Bulimia Nervosa,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_bulimia_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_binge,NA,Binge-Eating Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_binge_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_foodintake,NA,Avoidant/Restrictive Food Intake Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_foodintake_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_somatic,NA,Somatic Symptom Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_somatic_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_substance,NA,Substance Use Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_substance_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_adhd,NA,Attention-Deficit/Hyperactivity Disorder,raw,0,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_adhd_rating,NA,Distress/Impairment,raw,0,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7",NA,NA,NA,NA,NA
+diamond_summary_complete,NA,Complete?,raw,0,"incomplete = 0, complete = 2",NA,NA,NA,NA,NA
+"diamond_ocd, diamond_ocd_rating, diamond_body, diamond_body_rating, diamond_socialax， diamond_socialax_rating，diamond_panic，diamond_panic_rating，diamond_agora，diamond_agora_rating，diamond_generalax，diamond_generalax_rating，diamond_phobia，diamond_phobia_rating，diamond_separationax，diamond_separationax_rating，diamond_manic，diamond_hypomanic，diamond_persistentdep，diamond_persistentdep_rating，diamond_bipolarl，diamond_bipolarl_rating，diamond_bipolarll，diamond_bipolatll_rating，diamond_majordep，diamond_majordep_rating，diamond_majordep_current，diamond_majordep_current_rating，diamond_acutestress，diamond_acutestress_rating，diamond_ptsd，diamond_ptsd_rating，diamond_adjustment，diamond_adjustment_rating，diamond_psychotic，diamond_anorexia，diamond_anorexia_rating，diamond_bulimia，diamond_bulimia_rating，diamond_binge，diamond_binge_rating，diamond_foodintake，diamond_foodintake_rating，diamond_somatic，diamond_somatic_rating，diamond_substance，diamond_substance_rating，diamond_adhd，diamond_adhd_rating，diamond_summary_complete",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+diamond_ocd_rating,diamond_ocd_rating_unskip,NA,if_else,2,NA,NA,diamond_ocd==1,3,as.numeric(diamond_ocd_rating),NA
+diamond_body_rating,diamond_body_rating_unskip,NA,if_else,2,NA,NA,diamond_body==1,3,as.numeric(diamond_body_rating),NA
+diamond_socialax_rating,diamond_socialax_rating_unskip,NA,if_else,2,NA,NA,diamond_socialax==1,3,as.numeric(diamond_socialax_rating),NA
+diamond_panic_rating,diamond_panic_rating_unskip,NA,if_else,2,NA,NA,diamond_panic==1,3,as.numeric(diamond_panic_rating),NA
+diamond_agora_rating,diamond_agora_rating_unskip,NA,if_else,2,NA,NA,diamond_agora==1,3,as.numeric(diamond_agora_rating),NA
+diamond_generalax_rating,diamond_generalax_rating_unskip,NA,if_else,2,NA,NA,diamond_generalax==1,3,as.numeric(diamond_generalax_rating),NA
+diamond_phobia_rating,diamond_phobia_rating_unskip,NA,if_else,2,NA,NA,diamond_phobia==1,3,as.numeric(diamond_phobia_rating),NA
+diamond_separationax_rating,diamond_separationax_rating_unskip,NA,if_else,2,NA,NA,diamond_separationax==1,3,as.numeric(diamond_separationax_rating),NA
+diamond_persistentdep_rating,diamond_persistentdep_rating_unskip,NA,if_else,2,NA,NA,diamond_manic==1 |diamond_hypomanic==1| diamond_persistentdep==1,3,as.numeric(diamond_persistentdep_rating),NA
+diamond_bipolarl_rating,diamond_bipolarl_rating_unskip,NA,if_else,2,NA,NA,diamond_bipolarl==1,3,as.numeric(diamond_bipolarl_rating),NA
+diamond_bipolatll_rating,diamond_bipolatll_rating_unskip,NA,if_else,2,NA,NA,diamond_bipolarll==1,3,as.numeric(diamond_bipolatll_rating),NA
+diamond_majordep_rating,diamond_majordep_rating_unskip,NA,if_else,2,NA,NA,diamond_majordep==1,3,as.numeric(diamond_majordep_rating),NA
+diamond_majordep_current_rating,diamond_majordep_current_rating_unskip,NA,if_else,2,NA,NA,diamond_majordep_current==1,3,as.numeric(diamond_majordep_current_rating),NA
+diamond_acutestress_rating,diamond_acutestress_rating_unskip,NA,if_else,2,NA,NA,diamond_acutestress==1,3,as.numeric(diamond_acutestress_rating),NA
+diamond_ptsd_rating,diamond_ptsd_rating_unskip,NA,if_else,2,NA,NA,diamond_ptsd==1,3,as.numeric(diamond_ptsd_rating),NA
+diamond_adjustment_rating,diamond_adjustment_rating_unskip,NA,if_else,2,NA,NA,diamond_adjustment==1,3,as.numeric(diamond_adjustment_rating),NA
+diamond_anorexia_rating,diamond_anorexia_rating_unskip,NA,if_else,2,NA,NA,diamond_psychotic==1 |diamond_anorexia==1,3,as.numeric(diamond_anorexia_rating),NA
+diamond_bulimia_rating,diamond_bulimia_rating_unskip,NA,if_else,2,NA,NA,diamond_bulimia==1,3,as.numeric(diamond_bulimia_rating),NA
+diamond_binge_rating,diamond_binge_rating_unskip,NA,if_else,2,NA,NA,diamond_binge==1,3,as.numeric(diamond_binge_rating),NA
+diamond_foodintake_rating,diamond_foodintake_rating_unskip,NA,if_else,2,NA,NA,diamond_foodintake==1,3,as.numeric(diamond_foodintake_rating),NA
+diamond_somatic_rating,diamond_somatic_rating_unskip,NA,if_else,2,NA,NA,diamond_somatic==1,3,as.numeric(diamond_somatic_rating),NA
+diamond_substance_rating,diamond_substance_rating_unskip,NA,if_else,2,NA,NA,diamond_substance==1,3,as.numeric(diamond_substance_rating),NA
+diamond_adhd_rating,diamond_adhd_rating_unskip,NA,if_else,2,NA,NA,diamond_adhd==1,3,as.numeric(diamond_adhd_rating),NA
+diamond_ocd,diamond_1_ocd,Obsessive-Compulsive Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_ocd_rating_unskip,diamond_2_ocd_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_body,diamond_3_body,Body Dysmorphic Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_body_rating_unskip,diamond_4_body_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_socialax,diamond_5_socialax,Social Anxiety Disorder (social phobia),rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_socialax_rating_unskip,diamond_6_socialax_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_panic,diamond_7_panic,Panic Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_panic_rating_unskip,diamond_8_panic_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_agora,diamond_9_agora,Agoraphobia,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_agora_rating_unskip,diamond_10_agora_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_generalax,diamond_11_generalax,Generalized Anxiety Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_generalax_rating_unskip,diamond_12_generalax_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_phobia,diamond_13_phobia,Specific Phobia,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_phobia_rating_unskip,diamond_14_phobia_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_separationax,diamond_15_separationax,Separation Anxiety Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_separationax_rating_unskip,diamond_16_separationax_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_manic,diamond_17_manic,Manic Episode,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_hypomanic,diamond_18_hypomanic,Hypomanic Episode,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_persistentdep,diamond_19_persistentdep,Persistent Depressive Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_persistentdep_rating_unskip,diamond_20_persistentdep_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_bipolarl,diamond_21_bipolarl,Bipolar I Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_bipolarl_rating_unskip,diamond_22_bipolarl_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_bipolarll,diamond_23_bipolarll,Bipolar II Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_bipolatll_rating_unskip,diamond_24_bipolatll_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_majordep,diamond_25_majordep,Major Depressive Episode (lifetime),rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_majordep_rating_unskip,diamond_26_majordep_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_majordep_current,diamond_27_majordep_current,Major Depressive Episode (current),rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_majordep_current_rating_unskip,diamond_28_majordep_current_rating,Distress/Impartment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_acutestress,diamond_29_acutestress,Acute Stress Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_acutestress_rating_unskip,diamond_30_acutestress_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_ptsd,diamond_31_ptsd,Posttraumatic Stress Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_ptsd_rating_unskip,diamond_32_ptsd_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_adjustment,diamond_33_adjustment,Adjustment Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_adjustment_rating_unskip,diamond_34_adjustment_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_psychotic,diamond_35_psychotic,Psychotic,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_anorexia,diamond_36_anorexia,Anorexia Nervosa,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_anorexia_rating_unskip,diamond_37_anorexia_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_bulimia,diamond_38_bulimia,Bulimia Nervosa,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_bulimia_rating_unskip,diamond_39_bulimia_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_binge,diamond_40_binge,Binge-Eating Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_binge_rating_unskip,diamond_41_binge_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_foodintake,diamond_42_foodintake,Avoidant/Restrictive Food Intake Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_foodintake_rating_unskip,diamond_43_foodintake_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_somatic,diamond_44_somatic,Somatic Symptom Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_somatic_rating_unskip,diamond_45_somatic_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_substance,diamond_46_substance,Substance Use Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_substance_rating_unskip,diamond_47_substance_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_adhd,diamond_48_adhd,Attention-Deficit/Hyperactivity Disorder,rename,3,"Yes = 1, No = 0",NA,NA,NA,NA,NA
+diamond_adhd_rating_unskip,diamond_49_adhd_rating,Distress/Impairment,recode,3,"Normal = 1, Borderline = 2, Mild = 3, Moderate = 4, Marked = 5, Severe = 6, Extreme = 7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5, 7=6",NA,NA,NA,NA
+diamond_summary_complete,diamond_50_summary_complete,Complete?,rename,3,"incomplete = 0, complete = 2",NA,NA,NA,NA,NA
