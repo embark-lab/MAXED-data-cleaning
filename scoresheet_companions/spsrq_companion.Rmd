@@ -1,0 +1,85 @@
+---
+title: "spsrq_companion"
+output: html_document
+---
+## 1. Background
+
+This companion file is for The Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ), which is a 48 yes–no response item questionnaire which incorporates two scales: sensitivity to punishment (24 items) and sensitivity to reward (24 items).
+
+Reference 1: ["A psychometric evaluation of behavioral inhibition
+and approach self-report measures"] (https://psycnet.apa.org/record/2006-06594-018)
+
+Reference 2: ["The Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ) as a measure of Gray's anxiety and impulsivity dimensions"] (https://www.sciencedirect.com/science/article/abs/pii/S0191886900001835)
+
+
+## 2. Scoresheet
+
+In order to clean the data:
+
+(1) Selects raw variables being used for the current measure
+
+(2) Renames variables to be easily identified
+
+(3) Sum scores and rename these as spsrq_reward_SUM and spsrq_punishiment_SUM
+
+
+## 3. Key Variables
+"spsrq_illegal"
+"spsrq_money_positive"
+"spsrq_certain_obtain"
+"spsrq_others_value"
+"spsrq_fear_unexpected"
+"spsrq_physical_attract"
+"spsrq_telephone"
+"spsrq_drug_pleasant"
+"spsrq_right"
+"spsrq_praise"
+"spsrq_punish_concern"
+"spsrq_attention"
+"spsrq_failure"
+"spsrq_good_image"
+"spsrq_discourage"
+"spsrq_affection"
+"spsrq_shy"
+"spsrq_intelligent"
+"spsrq_embarassed"
+"spsrq_pick_up"
+"spsrq_topic"
+"spsrq_approval"
+"spsrq_fall_asleep"
+"spsrq_unfair"
+"spsrq_meal_complain"
+"spsqr_immediate_gain"
+"spsrq_wrong_change"
+"spsrq_forbidden"
+"spsrq_unknown_place"
+"spsrq_win"
+"spsrq_worry"
+"spsrq_pleasant_relate"
+"spsrq_salary_increase"
+"spsrq_pleasant_remind"
+"spsrq_public_speak"
+"spsrq_slot_machine"
+"spsrq_do_more"
+"spsrq_quick_gain"
+"spsrq_fear"
+"spsrq_stray_off"
+"spsrq_inhibition"
+"spsrq_money_risk"
+"spsrq_rejection"
+"spsrq_competitive"
+"spsrq_threat_attend"
+"spsrq_social_power"
+"spsrq_fear_embarrase"
+"spsrq_physical_danger"
+"spsrq_complete"
+
+```{r setup, include=FALSE}
+library(readxl)
+library (cgwtools)
+library(scorekeeper)
+MAXED_raw <- read.csv('MAXED_RA_raw.csv')
+spsrq_clean <- read.csv('spsrq_clean.csv')
+cleaned_data <- scorekeep(MAXED_raw, spsrq_clean)
+cleaned_spsrq_data <- cleaned_data[[4]]
+```
