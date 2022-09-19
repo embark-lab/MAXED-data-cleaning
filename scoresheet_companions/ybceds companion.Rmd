@@ -1,0 +1,33 @@
+---
+title: "ybceds_clean"
+output: html_document
+---
+
+## Background
+This companion file is for The Yale-Brown-Cornell Eating Disorders Scale Self-Report Questionnaire (ybceds) which was semi-structured interview assessing core preoccupations and rituals related to eating disorders. (Bellace et al., 2012). 
+
+Bellace, D. L., Tesser, R., Berthod, S., Wisotzke, K., Crosby, R. D., Crow, S. J., Engel, S. G., Le Grange, D., Mitchell, J. E., Peterson, C. B., Simonich, H. K., Wonderlich, S. A., & Halmi, K. A. (2012). The Yale-Brown-Cornell eating disorders scale self-report questionnaire: a new, efficient tool for clinicians and researchers. The International journal of eating disorders, 45(7), 856–860. https://doi.org/10.1002/eat.22023
+
+## Scoresheet
+To clean the data, the scoresheet:
+
+(1) selects only variables that are relevant for the current measure
+
+(2) recoded all necessary variables
+
+(3) Creates a sum score, which gives total subscale scores. 
+
+## Key Variables
+'ybceds_sum' (defines total score of symptoms)
+
+
+```{R}
+library(haven)
+library(cgwtools)
+library(scorekeeper)
+library(readxl)
+
+MAXED_RA_raw <- read.csv("MAXED_RA_raw.csv")
+ybceds_scoresheet <- read_excel("ybceds_clean.xlsx")
+cleaned_data <- scorekeep(MAXED_RA_raw, ybceds_scoresheet)
+```
