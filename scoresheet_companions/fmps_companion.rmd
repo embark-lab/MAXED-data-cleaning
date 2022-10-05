@@ -1,0 +1,61 @@
+---
+title: "FROST MPS"
+author: "Taiming Xue"
+date: '2022-05-06'
+output: html_document
+---
+
+## Background
+
+The Frost Multidimensional Perfectionism Scale (FMPS) is a 35 question self-report measure with four sub-scales of perfectionism. It contains a total of 35 items. These are subsumed to the following, originally six, now four subscales: Concern over mistakes and doubts about actions, Excessive concern with parents’ expectations and evaluation, Excessively high personal standards, Concern with precision, order and organisation. Each item is scored on a 5-point Likert-style scale (1 = strongly disagree; 5= strongly agree) to describe how well each item describes the participant experiences. Scores are derived by summing responses across the questions included in each subscale. High scores on the Organization subscale do not contribute to Total Perfectionism and are not intrinsically problematic, but combined with high scores on the other factors may exacerbate dysfunction. 
+
+FMPS has previously been examined and used in many different papers. Some examples are listed below:
+
+[The Frost Multidimensional Perfectionism Scale revisited: More perfect with four (instead of six) dimensions](https://doi.org/10.1016/S0191-8869(97)00207-9)
+
+[Perfectionism is adaptive and maladaptive, but what's the combined effect?](https://doi.org/10.1016/j.paid.2020.109846)
+
+## Scoresheet
+
+To clean the data, the scoresheet:
+
+1) selects only the variables that are relevant for the current measure
+
+2) creates six additional variables based on sum scores reflecting six subscales of the questionnaire: m. It contains a total of 35 items. These are subsumed to the following, originally six, now four subscales: Concern over mistakes and doubts about actions, Excessive concern with parents’ expectations and evaluation, Excessively high personal standards, Concern with precision, order and organisation 
+
+3) select only a few columns that will go into the final dataset
+
+## Key variables
+The variables below are sum of different subscales
+
+`fmps_concerns_mistakes` (reflects participant's concern over mistakes and doubts about actions)
+
+`fmps_concerns_parents_expectations` (reflects participant's excessive concern with parents’ expectations and evaluation)
+
+`fmps_high_personal_standards` (reflects participant's excessively high personal standards)
+
+`fmps_concerns_precision_order` (reflects participant's Concern with precision, order and organisation )
+
+`fmps_total_perfectionism_score` (reflects participant's total perfectionism scores)
+
+
+
+```{r, echo=FALSE}
+library(haven)
+library(cgwtools)
+library(readxl)
+library(scorekeeper)
+
+
+
+
+MAXED_raw <- read.csv('MAXED_RA_raw.csv')
+
+FMPS_scoresheet <- read.csv('FMPS_Clean.csv')
+
+cleaned_data <- scorekeep(MAXED_raw, FMPS_scoresheet)
+
+FMPS_Cleaned <- cleaned_data[[3]]
+
+save(FMPS_Cleaned, file = 'fmps_cleaned.RData')
+```

@@ -1,0 +1,45 @@
+---
+title: "paas Companion"
+output: html_document
+---
+
+
+## 1. Background
+
+This companion file is for
+physical activity affect scale
+
+Reference 1: [] ()
+
+Reference 2: [] ()
+
+## 2. Scoresheet
+
+In order to clean the data:
+
+(1) Selects raw variables being used for the current measure
+
+(2) Renames variables to be easily identified
+
+(3) Sum the total scores and rename this summary as biss_sum
+
+
+## 3. Key Variables
+
+`paas_enthusiastic_pre`
+`paas_crummy_pre`
+`paas_fatigued_pre`
+`paas_calm_pre`
+
+```{r}
+library(readxl)
+library(haven)
+library(cgwtools)
+library(scorekeeper)
+
+MAXED_RA_raw <- read.csv("C:/Users/andik/Downloads/MAXED_RA_raw.csv")
+
+paas_scoresheet <- read_excel("C:/Users/andik/OneDrive/Documents/R/paas_scoresheet.xlsx")
+
+paas_cleaned <- scorekeep(MAXED_RA_raw, paas_scoresheet)
+```

@@ -1,0 +1,54 @@
+---
+title: "MMSE"
+author: "Taiming Xue"
+date: '2022-05-06'
+output: html_document
+---
+
+## Background
+
+The Mini Mental State Examination (MMSE) is used to systematically and thoroughly assess cognitive fucntioning, with 11-question measuring five areas: orientation, registration, attention and calculation, recall, and language.  The maximum score is 30.  A score of 23 or lower is indicative of cognitive impairment. It is commonly used in medicine and allied health to screen for dementia. It is also used to estimate the severity and progression of cognitive impairment and to follow the course of cognitive changes in an individual over time. 
+
+[Mini‐Mental State Examination (MMSE) for the detection of Alzheimer's disease and other dementias in people with mild cognitive impairment (MCI)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6464748/)
+
+[Performance on the mini-mental state exam and the Montreal cognitive assessment in a sample of old age psychiatric patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7488925/)
+
+
+## Scoresheet
+
+To clean the data, the scoresheet:
+
+1) selects only the variables that are relevant for the current measure
+
+2) rename raw variables to appropraite names that are easy to understand
+
+3) recode old variables to make it consistent that score 0 equals to zero in the scoresheet.
+
+4) select only a few columns that will go into the final dataset
+
+
+## Key variables
+The variable below is the sum of a participant's score
+
+`mmse_total`
+
+
+```{r, echo=FALSE}
+library(haven)
+library(cgwtools)
+library(readxl)
+library(scorekeeper)
+
+
+
+
+MAXED_raw <- read.csv('MAXED_RA_raw.csv')
+
+MMSE_scoresheet <- read.csv('MMSE_Clean.csv')
+
+cleaned_data <- scorekeep(MAXED_raw, MMSE_scoresheet)
+
+MMSE_Cleaned <- cleaned_data[[3]]
+
+save(MMSE_Cleaned, file = 'mmse_cleaned.RData')
+```

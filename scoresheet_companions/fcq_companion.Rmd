@@ -1,0 +1,51 @@
+---
+title: "fcq Companion"
+output: html_document
+---
+
+
+## 1. Background
+
+This companion file is for the Food Cravings Questionnaire which is used instrument to assess food cravings as a multidimensional construct. Its 39 items have an underlying nine-factor structure to demonstrate food cravings as well as restrictions. 
+
+
+Reference 1: [Twenty Years of the Food Cravings Questionnaires: a Comprehensive Review
+] (https://link.springer.com/article/10.1007/s40429-020-00294-z)
+
+Reference 2: [Cravings and food consumption in binge eating disorder] (https://www.sciencedirect.com/science/article/pii/S1471015313001050?casa_token=FS2R6BYzdscAAAAA:A6jJBRUcQbReddAujZ0RxZL-wF6sAWCW-lih6NjJMv88l_ZMd3xKlxWyv1d1JRBO9-o9YcOC5Q)
+
+## 2. Scoresheet
+
+In order to clean the data:
+
+(1) Selects raw variables being used for the current measure
+
+(2) Renames variables to be easily identified
+
+(3) Recode variables so that "strongly disagree" = 0 and "strongly agree" = 4
+
+(4) Sum the total scores and rename this summary as fcq_sum
+
+
+## 3. Key Variables
+
+`fcq_desire_restrict_pre`
+`fcq_desire_fast_pre`
+`fcq_desire_vomit_pre`
+`fcq_desire_laxatives_pre`
+`fcq_desire_exercise_pre`
+`fcq_desire_binge_pre`
+
+
+```{r}
+library(readxl)
+library(haven)
+library(cgwtools)
+library(scorekeeper)
+
+load("C:\\Users\\andik\\Downloads\\MAXED_RA_raw (9).Rdata")
+
+fcq_scoresheet <- read_excel("C:/Users/andik/OneDrive/Documents/R/pvs_fcq_scoresheet.xlsx")
+
+fcq_cleaned <- scorekeep(MAXED_RA_raw, fcq_scoresheet)
+```

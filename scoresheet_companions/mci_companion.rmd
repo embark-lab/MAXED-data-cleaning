@@ -1,0 +1,53 @@
+---
+title: "menstrual cycle"
+author: "Taiming Xue"
+date: '2022-05-08'
+output: html_document
+---
+
+
+
+## Background
+
+The Menstrual Cycle Information is a form of retrospective questionnaires (rating severity of symptoms from memory) that examines the participant's menstrual information and secondary sexual characteristics. It consists 22 questions, including open-ended, yes-no, and likert scales.
+
+
+## Scoresheet
+
+To clean the data, the scoresheet:
+
+1) selects only the variables that are relevant for the current measure
+
+2) rename raw variables to appropraite names that are easy to understand
+
+3) recode old variables to make it consistent that no equals to zero in the scoresheet
+
+4) select only a few columns that will go into the final dataset
+
+## Key variables
+
+`mci_estimate` (assess whether participant can reliably estimate the stages of her cycle)
+
+`mci_public_hair` (reflects participant's public hair development)
+
+`mci_hysterectomy` (assess whether participant has had a hysterectomy)
+
+```{r, echo=FALSE}
+library(haven)
+library(cgwtools)
+library(readxl)
+library(scorekeeper)
+
+
+
+
+MAXED_raw <- read.csv('MAXED_RA_raw.csv')
+
+mci_scoresheet <- read.csv('menstrual_cycle_clean.csv')
+
+cleaned_data <- scorekeep(MAXED_raw, mci_scoresheet)
+
+mci_Cleaned <- cleaned_data[[3]]
+
+save(mci_Cleaned, file = 'mci_cleaned.RData')
+```

@@ -1,0 +1,53 @@
+---
+title: "Brief Fear of Negative Evaluation Scale Companion File"
+output: html_document
+---
+
+
+## 1. Background
+
+This companion file is for the Brief Fear of Negative Evaluation Scale, which is a scale measuring a person's tolerance for the possibility they might be judged disparagingly or hostiley by others.This scale is composed of 12 items describing fearful or worrying cognition. The respondent indicates the extent to which each item describes himself or herself on a Likert scale ranging from 1 'Not at all' to 5 'Extremely'
+
+Reference 1: [Fear of negative evaluation among eating disorders: Examining the association with weight/shape concerns in adolescence] (https://onlinelibrary.wiley.com/doi/full/10.1002/eat.23018?casa_token=LjvIylfnKxoAAAAA%3Awfisp9M9XY6Vx7UkA5_kX6bXbuHOnxR4p4woGePJ0U_Kfq9bK6qksTg8Ayw6vO1bYXkn2742nXYFizkadg)
+
+Reference 2: [Clarifying the prospective relationships between social anxiety and eating disorder symptoms and underlying vulnerabilities] (https://www.sciencedirect.com/science/article/pii/S0195666316302914?casa_token=ZuhNt7VGknIAAAAA:s-KkwGVkh41iglMq0ixIFfdAfWS4pEub_yX-PipvikaXoE_7odjqOOpGZr0iLH_UGiOmQyrPLsRJ)
+
+## 2. Scoresheet
+
+In order to clean the data:
+
+(1) Selects raw variables being used for the current measure
+
+(2) Renames variables to be easily identified
+
+(3) Sum the total scores and rename this summary as bfne_sum
+
+
+## 3. Key Variables
+
+`bfnes_worry_think`
+`bfnes_unconcerned_think`
+`bfnes_frequently_afraid`
+`bfnes_rarely_worry`
+`bfnes_afraid_approve`
+`bfnes_afraid_fault`
+`bfnes_other_opinions`
+`bfnes_when_talking`
+`bfnes_usually_worried`
+`bfnes_if_judging`
+`bfnes_too_concerned`
+`bfnes_often_worry`
+
+```{r}
+library(readxl)
+library(haven)
+library(cgwtools)
+library(scorekeeper)
+
+MAXED_RA_raw <- read.csv("C:/Users/andik/Downloads/MAXED_RA_raw.csv")
+
+bfne_scoresheet <- read_excel("C:/Users/andik/OneDrive/Documents/R/brief_fear_scoresheet.xlsx")
+
+bfne_cleaned <- scorekeep(MAXED_RA_raw, bfne_scoresheet)
+```
+

@@ -1,0 +1,50 @@
+---
+title: "biss Companion"
+output: html_document
+---
+
+
+## 1. Background
+
+This companion file is for The Body Image States Scale (BISS), which is a six-item measure of individuals' evaluation and affect about their physical appearance at a particular moment in time. They score from 0 (least impaired) to 8 (most impaired).
+
+
+Reference 1: [Beyond Body Image as a Trait: The Development and Validation of the Body Image States Scale] (https://www.tandfonline.com/doi/abs/10.1080/10640260290081678)
+
+Reference 2: [Translation and Validation of a State-Measure of Body Image Satisfaction: The Body Image State Scale] (https://www.frontiersin.org/articles/10.3389/fpsyg.2021.724710/full)
+
+## 2. Scoresheet
+
+In order to clean the data:
+
+(1) Selects raw variables being used for the current measure
+
+(2) Renames variables to be easily identified
+
+(3) Recode variables so that the least impaired = 0 and the most impaired = 8
+
+(4) Sum the total scores and rename this summary as biss_sum
+
+
+## 3. Key Variables
+
+`biss_appearance_pre`
+`biss_body_size_pre`
+`biss_weight_pre`
+`biss_attractive_pre`
+`biss_looks_pre`
+`biss_average_looks_pre`
+
+
+```{r}
+library(readxl)
+library(haven)
+library(cgwtools)
+library(scorekeeper)
+
+load("C:\\Users\\andik\\Downloads\\MAXED_RA_raw (9).Rdata")
+
+biss_scoresheet <- read_excel("C:/Users/andik/OneDrive/Documents/R/biss_scoresheet.xlsx")
+
+biss_cleaned <- scorekeep(MAXED_RA_raw, biss_scoresheet)
+```

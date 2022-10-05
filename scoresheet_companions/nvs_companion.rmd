@@ -1,0 +1,53 @@
+---
+title: "NVS Self Report"
+author: "Taiming Xue"
+date: '2022-05-10'
+output: html_document
+---
+
+
+## Background
+
+The NVS Self-report states questionnaire consists three different parts: the first four questions measuring mental efforts, then six questions assessing body image states, and the last eighteen questions examining food craving intentions. 
+
+## Scoresheet
+
+To clean the data, the scoresheet:
+
+1) selects only the variables that are relevant for the current measure
+
+2) rename raw variables to appropraite names that are easy to understand
+
+3) creates three additional variables based on sum scores reflecting three components of the questionnaire: mental efforts, body image states, and food craving. Meanwhile, recode old variables to make it consistent that "strongly disagree" and "extremely dissatisfied" equal to zero
+
+4) select only a few columns that will go into the final dataset
+
+## Key variables
+The variables below are sum of different components
+
+`nvs_mental_effort` (reflects participant's mental effort scores)
+
+`nvs_body_image` (reflects participant's body image satisfication)
+
+`nvs_food_craving` (reflects participant's food craving intents)
+
+
+```{r, echo=FALSE}
+library(haven)
+library(cgwtools)
+library(readxl)
+library(scorekeeper)
+
+
+
+
+MAXED_raw <- read.csv('MAXED_RA_raw.csv')
+
+NVS_scoresheet <- read.csv('NVS_Clean.csv')
+
+cleaned_data <- scorekeep(MAXED_raw, NVS_scoresheet)
+
+NVS_Cleaned <- cleaned_data[[4]]
+
+save(NVS_Cleaned, file = 'nvs_cleaned.RData')
+```

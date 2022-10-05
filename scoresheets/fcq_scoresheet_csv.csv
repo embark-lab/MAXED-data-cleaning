@@ -1,0 +1,79 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+pvs_fcq_1_restrict_pre,NA,I have an intense desire to restrict.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_fast_pre,NA,I have an intense desire to fast.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_vomit_pre,NA,I have an intense desire to vomit.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_laxatives_pre,NA,I have an intense desire to laxatives.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_exercise_pre,NA,I have an intense desire to exercise.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_binge_pre,NA,I have an intense desire to binge.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_restrict_pre,NA,I'm craving to restrict.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_fast_pre,NA,I'm craving to fast,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_vomit_pre,NA,I'm craving to vomit/purge,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_laxatives_pre,NA,I'm craving to use laxatives,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_exercise_pre,NA,I'm craving to exercise,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_binge_pre,NA,I'm craving to binge eat,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_restrict_pre,NA,I have an urge to restrict.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_fast_pre,NA,I have an urge to fast.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_vomit_pre,NA,I have an urge to vomit/purge.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_laxatives_pre,NA,I have an urge to use laxatives,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_exercise_pre,NA,I have an urge to exercise.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_binge_pre,NA,I have an urge to binge eat.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_selfreport_states_pre_complete,NA,Complete?,raw,0,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+pvs_fcq_1_restrict_post,NA,I have an intense desire to restrict.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_fast_post,NA,I have an intense desire to fast.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_vomit_post,NA,I have an intense desire to vomit/purge.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_laxatives_post,NA,I have an intense desire to laxatives.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_exercise_post,NA,I have an intense desire to exercise.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_1_binge_post,NA,I have an intense desire to binge eat.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_restrict_post,NA,I'm craving to restrict.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_fast_post,NA,I'm craving to fast.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_vomit_post,NA,I'm craving to vomit/purge.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_laxatives_post,NA,I'm craving to use laxatives.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_exercise_post,NA,I'm craving to exercise.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_2_binge_post,NA,I'm craving to binge eat.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_restrict_post,NA,have an urge to restrict,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_fast_post,NA,I have an urge to fast.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_vomit_post,NA,I have an urge to vomit/purge.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_laxatives_post,NA,I have an urge to use laxatives,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_exercise_post,NA,I have an urge to exercise.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_fcq_3_binge_post,NA,I have an urge to binge eat.,raw,0,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5",NA,NA,NA,NA,NA
+pvs_selfreport_states_post_complete,NA,Complete?,raw,0,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+"pvs_fcq_1_restrict_pre, pvs_fcq_1_fast_pre, pvs_fcq_1_vomit_pre, pvs_fcq_1_laxatives_pre, pvs_fcq_1_exercise_pre, pvs_fcq_1_binge_pre, pvs_fcq_2_restrict_pre, pvs_fcq_2_fast_pre, pvs_fcq_2_vomit_pre, pvs_fcq_2_laxatives_pre, pvs_fcq_2_exercise_pre, pvs_fcq_2_binge_pre, pvs_fcq_3_restrict_pre, pvs_fcq_3_fast_pre, pvs_fcq_3_vomit_pre, pvs_fcq_3_laxatives_pre, pvs_fcq_3_exercise_pre, pvs_fcq_3_binge_pre, pvs_selfreport_states_pre_complete,  pvs_fcq_1_restrict_post, pvs_fcq_1_fast_post, pvs_fcq_1_vomit_post, pvs_fcq_1_laxatives_post, pvs_fcq_1_exercise_post, pvs_fcq_1_binge_post, pvs_fcq_2_restrict_post, pvs_fcq_2_fast_post, pvs_fcq_2_vomit_post, pvs_fcq_2_laxatives_post, pvs_fcq_2_exercise_post, pvs_fcq_2_binge_post, pvs_fcq_3_restrict_post, pvs_fcq_3_fast_post, pvs_fcq_3_vomit_post, pvs_fcq_3_laxatives_post, pvs_fcq_3_exercise_post, pvs_fcq_3_binge_post, pvs_selfreport_states_post_complete",NA,pvs select,select,1,NA,NA,NA,NA,NA,NA
+pvs_fcq_1_restrict_pre,fcq_desire_restrict_pre,I have an intense desire to restrict.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_fast_pre,fcq_desire_fast_pre,I have an intense desire to fast.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_vomit_pre,fcq_desire_vomit_pre,I have an intense desire to vomit.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_laxatives_pre,fcq_desire_laxatives_pre,I have an intense desire to laxatives.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_exercise_pre,fcq_desire_exercise_pre,I have an intense desire to exercise.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_binge_pre,fcq_desire_binge_pre,I have an intense desire to binge.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_restrict_pre,fcq_craving_restrict_pre,I'm craving to restrict.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_fast_pre,fcq_craving_fast_pre,I'm craving to fast,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_vomit_pre,fcq_craving_vomit_pre,I'm craving to vomit/purge,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_laxatives_pre,fcq_craving_laxatives_pre,I'm craving to use laxatives,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_exercise_pre,fcq_craving_exercise_pre,I'm craving to exercise,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_binge_pre,fcq_craving_binge_pre,I'm craving to binge eat,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_restrict_pre,fcq_urge_restrict_pre,I have an urge to restrict.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_fast_pre,fcq_urge_fast_pre,I have an urge to fast.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_vomit_pre,fcq_urge_vomit_pre,I have an urge to vomit/purge.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_laxatives_pre,fcq_urge_laxatives_pre,I have an urge to use laxatives,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_exercise_pre,fcq_urge_exercise_pre,I have an urge to exercise.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_binge_pre,fcq_urge_binge_pre,I have an urge to binge eat.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_selfreport_states_pre_complete,fcq_complete_pre,Complete?,recode,2,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+pvs_fcq_1_restrict_post,fcq_desire_restrict_post,I have an intense desire to restrict.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_fast_post,fcq_desire_fast_post,I have an intense desire to fast.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_vomit_post,fcq_desire_vomit_post,I have an intense desire to vomit/purge.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_laxatives_post,fcq_desire_laxatives_post,I have an intense desire to laxatives.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_exercise_post,fcq_desire_exercise_post,I have an intense desire to exercise.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_1_binge_post,fcq_desire_binge_post,I have an intense desire to binge eat.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_restrict_post,fcq_craving_restrict_post,I'm craving to restrict.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_fast_post,fcq_craving_fast_post,I'm craving to fast.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_vomit_post,fcq_craving_vomit_post,I'm craving to vomit/purge.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_laxatives_post,fcq_craving_laxatives_post,I'm craving to use laxatives.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_exercise_post,fcq_craving_exercise_post,I'm craving to exercise.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_2_binge_post,fcq_craving_binge_post,I'm craving to binge eat.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_restrict_post,fcq_urge_restrict_post,have an urge to restrict,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_fast_post,fcq_urge_fast_post,I have an urge to fast.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_vomit_post,fcq_urge_vomit_post,I have an urge to vomit/purge.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_laxatives_post,fcq_urge_laxatives_post,I have an urge to use laxatives,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_exercise_post,fcq_urge_exercise_post,I have an urge to exercise.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_fcq_3_binge_post,fcq_urge_binge_post,I have an urge to binge eat.,recode,2,"strongly disagree = 1, disagree = 2, neutral = 3, agree = 4, strongly agree = 5","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+pvs_selfreport_states_post_complete,fcq_complete_post,Complete?,recode,2,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+"fcq_desire_restrict_pre, fcq_desire_fast_pre, fcq_desire_vomit_pre, fcq_desire_laxatives_pre, fcq_desire_exercise_pre, fcq_desire_binge_pre, fcq_craving_restrict_pre, fcq_craving_fast_pre, fcq_craving_vomit_pre, fcq_craving_laxatives_pre, fcq_craving_exercise_pre, fcq_craving_binge_pre, fcq_urge_restrict_pre, fcq_urge_fast_pre, fcq_urge_vomit_pre, fcq_urge_laxatives_pre, fcq_urge_exercise_pre, fcq_urge_binge_pre, fcq_complete_pre, fcq_desire_restrict_post, fcq_desire_fast_post, fcq_desire_vomit_post, fcq_desire_laxatives_post, fcq_desire_exercise_post, fcq_desire_binge_post, fcq_craving_restrict_post, fcq_craving_fast_post, fcq_craving_vomit_post, fcq_craving_laxatives_post, fcq_craving_exercise_post, fcq_craving_binge_post, fcq_urge_restrict_post, fcq_urge_fast_post, fcq_urge_vomit_post, fcq_urge_laxatives_post, fcq_urge_exercise_post, fcq_urge_binge_post, fcq_complete_post",fcq_sum,sum of Food Cravings Questionnaire,sum,3,NA,NA,NA,NA,NA,NA
