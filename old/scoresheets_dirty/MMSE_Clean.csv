@@ -1,0 +1,41 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+subject_id,NA,ID,raw,0,NA,NA,NA,NA,NA,NA
+mmse_1,NA,"""What is the year? Season? Date? Day? Month?""
+Patient Score:",raw,0,"0=0, 1=1, 2=2, 3=3, 4=4, 5=5",NA,NA,NA,NA,NA
+mmse_2,NA,"""Where are we now? State? County? Town/city? Street? Address?""
+Patient Score:",raw,0,"0=0, 1=1, 2=2, 3=3, 4=4, 5=5",NA,NA,NA,NA,NA
+mmse_3,NA,"The examiner names three unrelated objects clearly and slowly, then the instructor asks the patient to name all three of them. The patient's response is used for scoring. The examiner repeats them until patient learns all of them, if possible.
+Patient score:",raw,0,"0=0, 1=1, 2=2, 3=3",NA,NA,NA,NA,NA
+mmse_4,NA,"""I would like you to count backward from 100 by sevens."" (93, 86, 79, 72, 65, ...)
+Alternative: ""Spell WORLD backwards."" (D-L-R-O-W)
+Patient score:",raw,0,"0=0, 1=1, 2=2, 3=3, 4=4, 5=5",NA,NA,NA,NA,NA
+mmse_5,NA,"""Earlier I told you the names of three things. Can you tell me what those were?""
+Patient score:",raw,0,"0=0, 1=1, 2=2, 3=3",NA,NA,NA,NA,NA
+mmse_6,NA,"Show the patient two simple objects, such as a wristwatch and a pencil, and ask the patient to name them.
+Patient score:",raw,0,"0=0, 1=1, 2=2",NA,NA,NA,NA,NA
+mmse_7,NA,"""Repeat the phrase: 'No ifs, ands, or buts.'""
+Patient score:",raw,0,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_8,NA,"""Take the paper in your right hand, fold it in half, and put it on the floor."" (The examiner gives the patient a piece of blank paper.)
+Patient score:",raw,0,"0=0, 1=1, 2=2, 3=3",NA,NA,NA,NA,NA
+mmse_9,NA,"""Please read this and do what it says."" (Written instruction is ""Close your eyes."")
+Patient score:",raw,0,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_10,NA,"""Make up and write a sentence about anything."" (This sentence must contain a noun and a verb.)
+Patient score:",raw,0,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_11,NA,"""Please copy this picture."" (The examiner gives the patient a blank piece of paper and asks him/her to draw the symbol below. All 10 angles must be present and two must intersect.)
+Patient score:",raw,0,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_11_image,NA,NA,raw,0,NA,NA,NA,NA,NA,NA
+mmse_total,NA,TOTAL:,raw,0,NA,NA,NA,NA,NA,NA
+"subject_id,mmse_1,mmse_2,mmse_3,mmse_4,mmse_5,mmse_6,mmse_7,mmse_8,mmse_9,mmse_10,mmse_11,mmse_11_image,mmse_total",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+subject_id,id,NA,rename,2,NA,NA,NA,NA,NA,NA
+mmse_1,mmse_date,NA,rename,2,"0=0, 1=1, 2=2, 3=3, 4=4, 5=5",NA,NA,NA,NA,NA
+mmse_2,mmse_location,NA,rename,2,"0=0, 1=1, 2=2, 3=3, 4=4, 5=5",NA,NA,NA,NA,NA
+mmse_3,mmse_name_3_objects,NA,rename,2,"0=0, 1=1, 2=2, 3=3",NA,NA,NA,NA,NA
+mmse_4,mmse_count_backwards,NA,rename,2,"0=0, 1=1, 2=2, 3=3, 4=4, 5=5",NA,NA,NA,NA,NA
+mmse_5,mmse_repeat_3_objects,NA,rename,2,"0=0, 1=1, 2=2, 3=3",NA,NA,NA,NA,NA
+mmse_6,mmse_name_2_objects,NA,rename,2,"0=0, 1=1, 2=2",NA,NA,NA,NA,NA
+mmse_7,mmse_ifs_ands_buts,NA,rename,2,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_8,mmse_fold_paper,NA,rename,2,"0=0, 1=1, 2=2, 3=3",NA,NA,NA,NA,NA
+mmse_9,mmse_written_instruction,NA,rename,2,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_10,mmse_make_up_sentence,NA,rename,2,"0=0, 1=1",NA,NA,NA,NA,NA
+mmse_11,mmse_copy_picture,NA,rename,2,"0=0, 1=1",NA,NA,NA,NA,NA
+"mmse_total,subject_id,mmse_1,mmse_2,mmse_3,mmse_4,mmse_5,mmse_6,mmse_7,mmse_8,mmse_9,mmse_10,mmse_11",NA,NA,select,3,NA,NA,NA,NA,NA,NA

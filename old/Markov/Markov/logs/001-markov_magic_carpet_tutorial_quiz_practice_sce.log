@@ -1,0 +1,455 @@
+Scenario - 
+Logfile written - 04/27/2021 17:52:30
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+001	0	Pulse	99	0	0	NA
+001	1	Picture	instructions_1	166	0	1	36500	1	0	next	false_alarm	4
+001	1	Pulse	99	20000	19834	NA
+001	1	Response	88	36355	36188	1
+001	2	Picture	instructions_2	36666	0	1	15500	1	0	next	false_alarm	7
+001	2	Pulse	99	40000	3334	NA
+001	2	Response	88	51955	15288	1
+001	3	Picture	instructions_3	52166	0	1	12667	1	0	next	false_alarm	10
+001	3	Pulse	99	60000	7834	NA
+001	3	Response	88	64675	12508	1
+001	4	Picture	instructions_4	64833	0	1	12667	1	0	next	false_alarm	12
+001	4	Response	88	77154	12321	1
+001	5	Picture	instructions_5	77500	0	1	8833	1	0	next	false_alarm	15
+001	5	Pulse	99	80000	2500	NA
+001	5	Response	88	86035	8535	1
+001	6	Picture	instructions_6	86333	0	1	8833	1	0	next	false_alarm	17
+001	6	Response	88	94835	8502	1
+001	7	Picture	instructions_7	95166	0	1	11167	1	0	next	false_alarm	20
+001	7	Pulse	99	100000	4834	NA
+001	7	Response	88	106195	11028	1
+001	8	Picture	instructions_8	106333	0	1	9500	1	0	next	false_alarm	22
+001	8	Response	88	115634	9301	1
+001	9	Picture	instructions_9	115833	0	1	19500	1	0	next	false_alarm	25
+001	9	Pulse	99	120000	4167	NA
+001	9	Response	88	135074	19241	1
+001	10	Picture	instructions_10	135333	0	1	17833	1	0	next	false_alarm	28
+001	10	Pulse	99	140000	4667	NA
+001	10	Response	88	153074	17741	1
+001	11	Picture	instructions_11	153166	0	1	57000	1	0	next	false_alarm	33
+001	11	Pulse	99	160000	6834	NA
+001	11	Pulse	99	180000	26834	NA
+001	11	Pulse	99	200000	46834	NA
+001	11	Response	88	210034	56868	1
+001	12	Picture	instructions_12	210166	0	1	12167	1	0	next	false_alarm	36
+001	12	Pulse	99	220000	9834	NA
+001	12	Response	88	222114	11948	1
+001	13	Picture	instructions_13	222333	0	1	5000	1	0	next	false_alarm	38
+001	13	Response	88	227234	4901	1
+001	14	Picture	instructions_14	227333	0	1	4833	1	0	next	false_alarm	40
+001	14	Response	88	232034	4701	1
+001	15	Picture	instructions_15	232166	0	1	16500	1	0	next	false_alarm	43
+001	15	Pulse	99	240000	7834	NA
+001	15	Response	88	248354	16188	1
+001	16	Picture	instructions_16	248666	0	1	8667	1	0	next	false_alarm	45
+001	16	Response	88	257154	8488	1
+001	17	Picture	instructions_17	257333	0	1	4833	1	0	next	false_alarm	48
+001	17	Pulse	99	260000	2667	NA
+001	17	Response	88	261874	4541	1
+001	18	Picture	instructions_18	262166	0	1	5667	1	0	next	false_alarm	50
+001	18	Response	88	267634	5468	1
+001	19	Picture	instructions_19	267833	0	1	7500	1	0	next	false_alarm	52
+001	19	Response	88	275234	7401	1
+001	20	Picture	instructions_20	275333	0	1	18000	1	0	next	false_alarm	55
+001	20	Pulse	99	280000	4667	NA
+001	20	Response	88	293235	17902	1
+001	21	Picture	instructions_21	293333	0	1	10167	1	0	next	false_alarm	58
+001	21	Pulse	99	300000	6667	NA
+001	21	Response	88	303394	10061	1
+001	22	Picture	instructions_22	303500	0	1	9667	1	0	next	false_alarm	60
+001	22	Response	88	312914	9414	1
+001	23	Picture	instructions_23	313166	0	1	31000	1	0	next	false_alarm	64
+001	23	Pulse	99	320000	6834	NA
+001	23	Pulse	99	340000	26834	NA
+001	23	Response	88	343954	30788	1
+001	24	Picture	instructions_24	344166	0	1	37667	1	0	next	false_alarm	68
+001	24	Pulse	99	360000	15834	NA
+001	24	Pulse	99	380000	35834	NA
+001	24	Response	88	381634	37468	1
+001	25	Picture	instructions_25	381833	0	1	12000	1	0	next	false_alarm	70
+001	25	Response	88	393634	11801	1
+001	26	Picture	instructions_26	393833	0	1	14333	1	0	next	false_alarm	73
+001	26	Pulse	99	400000	6167	NA
+001	26	Response	88	408034	14201	1
+001	27	Picture	instructions_27	408166	0	1	13167	1	0	next	false_alarm	76
+001	27	Pulse	99	420000	11834	NA
+001	27	Response	88	421074	12908	1
+001	28	Picture	instructions_28	421333	0	1	8833	1	0	next	false_alarm	78
+001	28	Response	88	429874	8541	1
+001	29	Picture	instructions_29	430166	0	1	65167	1	0	next	false_alarm	83
+001	29	Pulse	99	440000	9834	NA
+001	29	Pulse	99	460000	29834	NA
+001	29	Pulse	99	480000	49834	NA
+001	29	Response	88	495234	65068	1
+001	30	Picture	instructions_30	495333	0	1	253833	1	0	next	false_alarm	98
+001	30	Pulse	99	500000	4667	NA
+001	30	Pulse	99	520000	24667	NA
+001	30	Pulse	99	540000	44667	NA
+001	30	Pulse	99	560000	64667	NA
+001	30	Pulse	99	580000	84667	NA
+001	30	Pulse	99	600000	104667	NA
+001	30	Pulse	99	620000	124667	NA
+001	30	Pulse	99	640000	144667	NA
+001	30	Pulse	99	660000	164667	NA
+001	30	Pulse	99	680000	184667	NA
+001	30	Pulse	99	700000	204667	NA
+001	30	Pulse	99	720000	224667	NA
+001	30	Pulse	99	740000	244667	NA
+001	30	Response	88	749073	253740	1
+001	31	Picture	instructions_31	749166	0	1	35000	1	0	next	false_alarm	102
+001	31	Pulse	99	760000	10834	NA
+001	31	Pulse	99	780000	30834	NA
+001	31	Response	88	784033	34867	1
+001	32	Picture	instructions_32	784166	0	1	47167	1	0	next	false_alarm	106
+001	32	Pulse	99	800000	15834	NA
+001	32	Pulse	99	820000	35834	NA
+001	32	Response	88	831153	46987	1
+001	33	Picture	instructions_33	831333	0	1	23667	1	0	next	false_alarm	109
+001	33	Pulse	99	840000	8667	NA
+001	33	Response	88	854913	23580	1
+001	34	Picture	instructions_34	855000	0	1	33167	1	0	next	false_alarm	113
+001	34	Pulse	99	860000	5000	NA
+001	34	Pulse	99	880000	25000	NA
+001	34	Response	88	887873	32874	1
+001	35	Picture	instructions_35	888166	0	1	38333	1	0	next	false_alarm	117
+001	35	Pulse	99	900000	11834	NA
+001	35	Pulse	99	920000	31834	NA
+001	35	Response	88	926433	38267	1
+001	36	Picture	instructions_36	926499	0	1	36333	1	0	next	false_alarm	121
+001	36	Pulse	99	940000	13501	NA
+001	36	Pulse	99	960000	33501	NA
+001	36	Response	88	962673	36174	1
+001	37	Picture	instructions_37	962833	0	1	44833	1	0	next	false_alarm	125
+001	37	Pulse	99	980000	17167	NA
+001	37	Pulse	99	1000000	37167	NA
+001	37	Response	88	1007473	44640	1
+001	38	Picture	instructions_38	1007666	0	1	240000	1	0	next	false_alarm	139
+001	38	Pulse	99	1020000	12334	NA
+001	38	Pulse	99	1040000	32334	NA
+001	38	Pulse	99	1060000	52334	NA
+001	38	Pulse	99	1080000	72334	NA
+001	38	Pulse	99	1100000	92334	NA
+001	38	Pulse	99	1120000	112334	NA
+001	38	Pulse	99	1140000	132334	NA
+001	38	Pulse	99	1160000	152334	NA
+001	38	Pulse	99	1180000	172334	NA
+001	38	Pulse	99	1200000	192334	NA
+001	38	Pulse	99	1220000	212334	NA
+001	38	Pulse	99	1240000	232334	NA
+001	38	Response	88	1247473	239807	1
+001	39	Picture	instructions_39	1247666	0	1	170333	1	0	next	false_alarm	149
+001	39	Pulse	99	1260000	12334	NA
+001	39	Pulse	99	1280000	32334	NA
+001	39	Pulse	99	1300000	52334	NA
+001	39	Pulse	99	1320000	72334	NA
+001	39	Pulse	99	1340000	92334	NA
+001	39	Pulse	99	1360000	112334	NA
+001	39	Pulse	99	1380000	132334	NA
+001	39	Pulse	99	1400000	152334	NA
+001	39	Response	88	1417952	170286	1
+001	40	Picture	instructions_40	1417999	0	1	19667	1	0	next	false_alarm	152
+001	40	Pulse	99	1420000	2001	NA
+001	40	Response	88	1437473	19473	1
+001	41	Picture	instructions_41	1437666	0	1	10500	1	0	next	false_alarm	155
+001	41	Pulse	99	1440000	2334	NA
+001	41	Response	88	1447952	10286	1
+001	42	Picture	instructions_42	1448166	0	1	9833	1	0	next	false_alarm	157
+001	42	Response	88	1457873	9707	1
+001	43	Picture	instructions_43	1457999	0	1	19000	1	0	next	false_alarm	160
+001	43	Pulse	99	1460000	2001	NA
+001	43	Response	88	1476832	18833	1
+001	44	Picture	instructions_44	1476999	0	1	17500	1	0	next	false_alarm	163
+001	44	Pulse	99	1480000	3001	NA
+001	44	Response	88	1494432	17433	1
+001	45	Picture	instructions_45	1494499	0	1	22500	1	0	next	false_alarm	166
+001	45	Pulse	99	1500000	5501	NA
+001	45	Response	88	1516912	22413	1
+001	46	Picture	instructions_46	1516999	0	1	10667	1	0	next	false_alarm	169
+001	46	Pulse	99	1520000	3001	NA
+001	46	Response	88	1527472	10473	1
+001	47	Picture	fixation	1527666	0	1	5167	1	0	next	other	0
+001	48	Picture	stage1	1532833	0	1	10000	1	0	next	false_alarm	173
+001	48	Pulse	99	1540000	7167	NA
+001	48	Response	1	1542751	9919	1
+001	49	Picture	stage1_box	1542833	0	1	7667	1	0	next	other	0
+001	50	Picture	stage1_outcome	1550499	0	1	333	1	0	next	other	0
+001	51	Picture	stage2A	1550833	0	1	8000	1	0	next	false_alarm	177
+001	51	Response	1	1558752	7919	1
+001	52	Picture	stage2_box	1558833	0	1	7667	1	0	next	other	0
+001	52	Pulse	99	1560000	1167	NA
+001	53	Picture	stage2_up	1566499	0	1	7667	1	0	next	other	0
+001	54	Picture	stage2_lose	1574166	0	1	10167	1	0	next	other	0
+001	54	Pulse	99	1580000	5834	NA
+001	55	Picture	stage1	1584333	0	1	3000	1	0	next	false_alarm	184
+001	55	Response	1	1587232	2900	1
+001	56	Picture	stage1_box	1587333	0	1	7667	1	0	next	other	0
+001	57	Picture	stage1_outcome	1594999	0	1	167	1	0	next	other	0
+001	58	Picture	stage2A	1595166	0	1	3833	1	0	next	false_alarm	188
+001	58	Response	2	1598912	3746	1
+001	59	Picture	stage2_box	1598999	0	1	7667	1	0	next	other	0
+001	59	Pulse	99	1600000	1001	NA
+001	60	Picture	stage2_up	1606666	0	1	7667	1	0	next	other	0
+001	61	Picture	stage2_win	1614333	0	1	10167	1	0	next	other	0
+001	61	Pulse	99	1620000	5667	NA
+001	62	Picture	stage1	1624499	0	1	3500	1	0	next	false_alarm	195
+001	62	Response	1	1627872	3372	1
+001	63	Picture	stage1_box	1627999	0	1	7667	1	0	next	other	0
+001	64	Picture	stage1_outcome	1635666	0	1	167	1	0	next	other	0
+001	65	Picture	stage2A	1635833	0	1	4500	1	0	next	false_alarm	200
+001	65	Pulse	99	1640000	4167	NA
+001	65	Response	2	1640272	4439	1
+001	66	Picture	stage2_box	1640333	0	1	7667	1	0	next	other	0
+001	67	Picture	stage2_up	1647999	0	1	7667	1	0	next	other	0
+001	68	Picture	stage2_win	1655666	0	1	10167	1	0	next	other	0
+001	68	Pulse	99	1660000	4334	NA
+001	69	Picture	stage1	1665833	0	1	4000	1	0	next	false_alarm	206
+001	69	Response	1	1669712	3879	1
+001	70	Picture	stage1_box	1669833	0	1	7667	1	0	next	other	0
+001	71	Picture	stage1_outcome	1677499	0	1	167	1	0	next	other	0
+001	72	Picture	stage2A	1677666	0	1	4000	1	0	next	false_alarm	211
+001	72	Pulse	99	1680000	2334	NA
+001	72	Response	2	1681632	3966	1
+001	73	Picture	stage2_box	1681666	0	1	7667	1	0	next	other	0
+001	74	Picture	stage2_up	1689333	0	1	7667	1	0	next	other	0
+001	75	Picture	stage2_win	1696999	0	1	10167	1	0	next	other	0
+001	75	Pulse	99	1700000	3001	NA
+001	76	Picture	stage1	1707166	0	1	2667	1	0	next	false_alarm	217
+001	76	Response	1	1709712	2546	1
+001	77	Picture	stage1_box	1709833	0	1	7667	1	0	next	other	0
+001	78	Picture	stage1_outcome	1717499	0	1	167	1	0	next	other	0
+001	79	Picture	stage2A	1717666	0	1	3667	1	0	next	false_alarm	222
+001	79	Pulse	99	1720000	2334	NA
+001	79	Response	2	1721152	3486	1
+001	80	Picture	stage2_box	1721332	0	1	7667	1	0	next	other	0
+001	81	Picture	stage2_up	1728999	0	1	7667	1	0	next	other	0
+001	82	Picture	stage2_win	1736666	0	1	10167	1	0	next	other	0
+001	82	Pulse	99	1740000	3334	NA
+001	83	Picture	stage1	1746833	0	1	2667	1	0	next	false_alarm	228
+001	83	Response	1	1749312	2479	1
+001	84	Picture	stage1_box	1749499	0	1	7667	1	0	next	other	0
+001	85	Picture	stage1_outcome	1757166	0	1	167	1	0	next	other	0
+001	86	Picture	stage2B	1757333	0	1	8000	1	0	next	false_alarm	233
+001	86	Pulse	99	1760000	2667	NA
+001	86	Response	1	1765152	7819	1
+001	87	Picture	stage2_box	1765333	0	1	7667	1	0	next	other	0
+001	88	Picture	stage2_up	1772999	0	1	7667	1	0	next	other	0
+001	88	Pulse	99	1780000	7001	NA
+001	89	Picture	stage2_win	1780666	0	1	10167	1	0	next	other	0
+001	90	Picture	stage1	1790833	0	1	3333	1	0	next	false_alarm	239
+001	90	Response	1	1794112	3279	1
+001	91	Picture	stage1_box	1794166	0	1	7667	1	0	next	other	0
+001	91	Pulse	99	1800000	5834	NA
+001	92	Picture	stage1_outcome	1801833	0	1	167	1	0	next	other	0
+001	93	Picture	stage2B	1801999	0	1	6833	1	0	next	false_alarm	244
+001	93	Response	1	1808752	6752	1
+001	94	Picture	stage2_box	1808833	0	1	7667	1	0	next	other	0
+001	95	Picture	stage2_up	1816499	0	1	7667	1	0	next	other	0
+001	95	Pulse	99	1820000	3501	NA
+001	96	Picture	stage2_win	1824166	0	1	10167	1	0	next	other	0
+001	97	Picture	stage1	1834333	0	1	2667	1	0	next	false_alarm	250
+001	97	Response	1	1836912	2579	1
+001	98	Picture	stage1_box	1836999	0	1	7667	1	0	next	other	0
+001	98	Pulse	99	1840000	3001	NA
+001	99	Picture	stage1_outcome	1844666	0	1	167	1	0	next	other	0
+001	100	Picture	stage2A	1844833	0	1	4333	1	0	next	false_alarm	255
+001	100	Response	2	1848991	4159	1
+001	101	Picture	stage2_box	1849166	0	1	7667	1	0	next	other	0
+001	102	Picture	stage2_up	1856833	0	1	7667	1	0	next	other	0
+001	102	Pulse	99	1860000	3167	NA
+001	103	Picture	stage2_win	1864499	0	1	10167	1	0	next	other	0
+001	104	Picture	stage1	1874666	0	1	3333	1	0	next	false_alarm	261
+001	104	Response	1	1877871	3205	1
+001	105	Picture	stage1_box	1877999	0	1	7667	1	0	next	other	0
+001	105	Pulse	99	1880000	2001	NA
+001	106	Picture	stage1_outcome	1885666	0	1	167	1	0	next	other	0
+001	107	Picture	stage2A	1885833	0	1	4167	1	0	next	false_alarm	266
+001	107	Response	2	1889951	4119	1
+001	108	Picture	stage2_box	1889999	0	1	7667	1	0	next	other	0
+001	109	Picture	stage2_up	1897666	0	1	7667	1	0	next	other	0
+001	109	Pulse	99	1900000	2334	NA
+001	110	Picture	stage2_lose	1905333	0	1	10167	1	0	next	other	0
+001	111	Picture	stage1	1915499	0	1	2833	1	0	next	false_alarm	272
+001	111	Response	1	1918272	2772	1
+001	112	Picture	stage1_box	1918333	0	1	7667	1	0	next	other	0
+001	112	Pulse	99	1920000	1668	NA
+001	113	Picture	stage1_outcome	1925999	0	1	167	1	0	next	other	0
+001	114	Picture	stage2A	1926166	0	1	3333	1	0	next	false_alarm	277
+001	114	Response	2	1929312	3146	1
+001	115	Picture	stage2_box	1929499	0	1	7667	1	0	next	other	0
+001	116	Picture	stage2_up	1937166	0	1	7667	1	0	next	other	0
+001	116	Pulse	99	1940000	2834	NA
+001	117	Picture	stage2_lose	1944832	0	1	10167	1	0	next	other	0
+001	118	Picture	stage1	1954999	0	1	2500	1	0	next	false_alarm	283
+001	118	Response	2	1957312	2313	1
+001	119	Picture	stage1_box	1957499	0	1	7667	1	0	next	other	0
+001	119	Pulse	99	1960000	2501	NA
+001	120	Picture	stage1_outcome	1965166	0	1	167	1	0	next	other	0
+001	121	Picture	stage2A	1965333	0	1	7500	1	0	next	false_alarm	288
+001	121	Response	2	1972752	7419	1
+001	122	Picture	stage2_box	1972833	0	1	7667	1	0	next	other	0
+001	122	Pulse	99	1980000	7167	NA
+001	123	Picture	stage2_up	1980499	0	1	7667	1	0	next	other	0
+001	124	Picture	stage2_win	1988166	0	1	10167	1	0	next	other	0
+001	125	Picture	stage1	1998332	0	1	5167	1	0	next	false_alarm	295
+001	125	Pulse	99	2000000	1668	NA
+001	125	Response	2	2003391	5059	1
+001	126	Picture	stage1_box	2003499	0	1	7667	1	0	next	other	0
+001	127	Picture	stage1_outcome	2011166	0	1	167	1	0	next	other	0
+001	128	Picture	stage2B	2011332	0	1	3000	1	0	next	false_alarm	299
+001	128	Response	1	2014271	2939	1
+001	129	Picture	stage2_box	2014332	0	1	7667	1	0	next	other	0
+001	129	Pulse	99	2020000	5668	NA
+001	130	Picture	stage2_up	2021999	0	1	7667	1	0	next	other	0
+001	131	Picture	stage2_lose	2029666	0	1	10167	1	0	next	other	0
+001	132	Picture	stage1	2039832	0	1	3167	1	0	next	false_alarm	306
+001	132	Pulse	99	2040000	168	NA
+001	132	Response	2	2042831	2999	1
+001	133	Picture	stage1_box	2042999	0	1	7667	1	0	next	other	0
+001	134	Picture	stage1_outcome	2050666	0	1	167	1	0	next	other	0
+001	135	Picture	stage2B	2050832	0	1	2833	1	0	next	false_alarm	310
+001	135	Response	1	2053471	2639	1
+001	136	Picture	stage2_box	2053666	0	1	7667	1	0	next	other	0
+001	136	Pulse	99	2060000	6334	NA
+001	137	Picture	stage2_up	2061332	0	1	7667	1	0	next	other	0
+001	138	Picture	stage2_win	2068999	0	1	10167	1	0	next	other	0
+001	139	Picture	stage1	2079166	0	1	4667	1	0	next	false_alarm	317
+001	139	Pulse	99	2080000	834	NA
+001	139	Response	2	2083711	4545	1
+001	140	Picture	stage1_box	2083832	0	1	7667	1	0	next	other	0
+001	141	Picture	stage1_outcome	2091499	0	1	167	1	0	next	other	0
+001	142	Picture	stage2A	2091666	0	1	2667	1	0	next	false_alarm	321
+001	142	Response	1	2094191	2526	1
+001	143	Picture	stage2_box	2094332	0	1	7667	1	0	next	other	0
+001	143	Pulse	99	2100000	5668	NA
+001	144	Picture	stage2_up	2101999	0	1	7667	1	0	next	other	0
+001	145	Picture	stage2_win	2109666	0	1	10167	1	0	next	other	0
+001	146	Picture	stage1	2119832	0	1	3333	1	0	next	false_alarm	328
+001	146	Pulse	99	2120000	168	NA
+001	146	Response	2	2123071	3239	1
+001	147	Picture	stage1_box	2123166	0	1	7667	1	0	next	other	0
+001	148	Picture	stage1_outcome	2130832	0	1	167	1	0	next	other	0
+001	149	Picture	stage2A	2130999	0	1	4833	1	0	next	false_alarm	332
+001	149	Response	1	2135791	4792	1
+001	150	Picture	stage2_box	2135832	0	1	7667	1	0	next	other	0
+001	150	Pulse	99	2140000	4168	NA
+001	151	Picture	stage2_up	2143499	0	1	7667	1	0	next	other	0
+001	152	Picture	stage2_win	2151166	0	1	10167	1	0	next	other	0
+001	152	Pulse	99	2160000	8834	NA
+001	153	Picture	stage1	2161332	0	1	2667	1	0	next	false_alarm	339
+001	153	Response	2	2163871	2539	1
+001	154	Picture	stage1_box	2163999	0	1	7667	1	0	next	other	0
+001	155	Picture	stage1_outcome	2171666	0	1	167	1	0	next	other	0
+001	156	Picture	stage2A	2171832	0	1	3333	1	0	next	false_alarm	343
+001	156	Response	1	2174991	3159	1
+001	157	Picture	stage2_box	2175166	0	1	7667	1	0	next	other	0
+001	157	Pulse	99	2180000	4834	NA
+001	158	Picture	stage2_up	2182832	0	1	7667	1	0	next	other	0
+001	159	Picture	stage2_win	2190499	0	1	10167	1	0	next	other	0
+001	159	Pulse	99	2200000	9501	NA
+001	160	Picture	stage1	2200666	0	1	2667	1	0	next	false_alarm	350
+001	160	Response	2	2203231	2565	1
+001	161	Picture	stage1_box	2203332	0	1	7667	1	0	next	other	0
+001	162	Picture	stage1_outcome	2210999	0	1	167	1	0	next	other	0
+001	163	Picture	stage2B	2211166	0	1	4833	1	0	next	false_alarm	354
+001	163	Response	2	2215871	4705	1
+001	164	Picture	stage2_box	2215999	0	1	7667	1	0	next	other	0
+001	164	Pulse	99	2220000	4001	NA
+001	165	Picture	stage2_up	2223666	0	1	7667	1	0	next	other	0
+001	166	Picture	stage2_win	2231332	0	1	10167	1	0	next	other	0
+001	166	Pulse	99	2240000	8668	NA
+001	167	Picture	stage1	2241499	0	1	3167	1	0	next	false_alarm	361
+001	167	Response	2	2244511	3012	1
+001	168	Picture	stage1_box	2244666	0	1	7667	1	0	next	other	0
+001	169	Picture	stage1_outcome	2252332	0	1	167	1	0	next	other	0
+001	170	Picture	stage2B	2252499	0	1	3167	1	0	next	false_alarm	365
+001	170	Response	2	2255551	3052	1
+001	171	Picture	stage2_box	2255666	0	1	7667	1	0	next	other	0
+001	171	Pulse	99	2260000	4334	NA
+001	172	Picture	stage2_up	2263332	0	1	7667	1	0	next	other	0
+001	173	Picture	stage2_lose	2270999	0	1	10167	1	0	next	other	0
+001	173	Pulse	99	2280000	9001	NA
+001	174	Picture	stage1	2281166	0	1	5000	1	0	next	false_alarm	372
+001	174	Response	2	2286031	4865	1
+001	175	Picture	stage1_box	2286166	0	1	7667	1	0	next	other	0
+001	176	Picture	stage1_outcome	2293832	0	1	167	1	0	next	other	0
+001	177	Picture	stage2A	2293999	0	1	3167	1	0	next	false_alarm	376
+001	177	Response	1	2297071	3072	1
+001	178	Picture	stage2_box	2297166	0	1	7667	1	0	next	other	0
+001	178	Pulse	99	2300000	2834	NA
+001	179	Picture	stage2_up	2304832	0	1	7667	1	0	next	other	0
+001	180	Picture	stage2_lose	2312499	0	1	10167	1	0	next	other	0
+001	180	Pulse	99	2320000	7501	NA
+001	181	Picture	stage1	2322666	0	1	2500	1	0	next	false_alarm	383
+001	181	Response	2	2324991	2325	1
+001	182	Picture	stage1_box	2325166	0	1	7667	1	0	next	other	0
+001	183	Picture	stage1_outcome	2332832	0	1	167	1	0	next	other	0
+001	184	Picture	stage2B	2332999	0	1	4000	1	0	next	false_alarm	387
+001	184	Response	1	2336911	3912	1
+001	185	Picture	stage2_box	2336999	0	1	7667	1	0	next	other	0
+001	185	Pulse	99	2340000	3001	NA
+001	186	Picture	stage2_up	2344666	0	1	7667	1	0	next	other	0
+001	187	Picture	stage2_win	2352332	0	1	10167	1	0	next	other	0
+001	187	Pulse	99	2360000	7668	NA
+001	188	Picture	stage1	2362499	0	1	3167	1	0	next	false_alarm	394
+001	188	Response	2	2365631	3132	1
+001	189	Picture	stage1_box	2365666	0	1	7667	1	0	next	other	0
+001	190	Picture	stage1_outcome	2373332	0	1	167	1	0	next	other	0
+001	191	Picture	stage2B	2373499	0	1	3500	1	0	next	false_alarm	398
+001	191	Response	1	2376831	3332	1
+001	192	Picture	stage2_box	2376999	0	1	7667	1	0	next	other	0
+001	192	Pulse	99	2380000	3001	NA
+001	193	Picture	stage2_up	2384666	0	1	7667	1	0	next	other	0
+001	194	Picture	stage2_win	2392332	0	1	10167	1	0	next	other	0
+001	194	Pulse	99	2400000	7668	NA
+001	195	Picture	stage1	2402499	0	1	3167	1	0	next	false_alarm	405
+001	195	Response	2	2405631	3132	1
+001	196	Picture	stage1_box	2405666	0	1	7667	1	0	next	other	0
+001	197	Picture	stage1_outcome	2413332	0	1	167	1	0	next	other	0
+001	198	Picture	stage2B	2413499	0	1	3000	1	0	next	false_alarm	409
+001	198	Response	1	2416431	2932	1
+001	199	Picture	stage2_box	2416499	0	1	7667	1	0	next	other	0
+001	199	Pulse	99	2420000	3501	NA
+001	200	Picture	stage2_up	2424166	0	1	7667	1	0	next	other	0
+001	201	Picture	stage2_lose	2431832	0	1	10167	1	0	next	other	0
+001	201	Pulse	99	2440000	8168	NA
+001	202	Picture	stage1	2441999	0	1	2500	1	0	next	false_alarm	416
+001	202	Response	2	2444351	2352	1
+001	203	Picture	stage1_box	2444499	0	1	7667	1	0	next	other	0
+001	204	Picture	stage1_outcome	2452166	0	1	167	1	0	next	other	0
+001	205	Picture	stage2B	2452332	0	1	2333	1	0	next	false_alarm	420
+001	205	Response	1	2454591	2258	1
+001	206	Picture	stage2_box	2454666	0	1	7667	1	0	next	other	0
+001	206	Pulse	99	2460000	5334	NA
+001	207	Picture	stage2_up	2462332	0	1	7667	1	0	next	other	0
+001	208	Picture	stage2_win	2469999	0	1	10167	1	0	next	other	0
+001	208	Pulse	99	2480000	10001	NA
+001	209	Picture	stage1	2480166	0	1	2500	1	0	next	false_alarm	427
+001	209	Response	2	2482591	2425	1
+001	210	Picture	stage1_box	2482666	0	1	7667	1	0	next	other	0
+001	211	Picture	stage1_outcome	2490332	0	1	167	1	0	next	other	0
+001	212	Picture	stage2A	2490499	0	1	3000	1	0	next	false_alarm	431
+001	212	Response	1	2493392	2893	1
+001	213	Picture	stage2_box	2493499	0	1	7667	1	0	next	other	0
+001	213	Pulse	99	2500000	6501	NA
+001	214	Picture	stage2_up	2501166	0	1	7667	1	0	next	other	0
+001	215	Picture	stage2_lose	2508832	0	1	10167	1	0	next	other	0
+001	216	Picture	stage1	2518999	0	1	2167	1	0	next	false_alarm	438
+001	216	Pulse	99	2520000	1001	NA
+001	216	Response	2	2520991	1992	1
+001	217	Picture	stage1_box	2521166	0	1	7667	1	0	next	other	0
+001	218	Picture	stage1_outcome	2528832	0	1	167	1	0	next	other	0
+001	219	Picture	stage2B	2528999	0	1	4000	1	0	next	false_alarm	442
+001	219	Response	1	2532831	3832	1
+001	220	Picture	stage2_box	2532999	0	1	7667	1	0	next	other	0
+001	220	Pulse	99	2540000	7001	NA
+001	221	Picture	stage2_up	2540666	0	1	7667	1	0	next	other	0
+001	222	Picture	stage2_win	2548332	0	1	10167	1	0	next	other	0
+001	223	Pulse	99	2560000	1501	NA
+001	223	Response	2	2560751	2252	1
+001	223	Pulse	99	2580000	21501	NA
+001	223	Response	88	2596351	37852	1

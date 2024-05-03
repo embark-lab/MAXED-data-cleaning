@@ -1,0 +1,483 @@
+Scenario - 
+Logfile written - 10/04/2021 17:32:12
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+	0	Pulse	99	0	0	NA
+	1	Picture	instructions_1	333	0	1	186500	1	0	next	false_alarm	12
+	1	Pulse	99	20000	19667	NA
+	1	Pulse	99	40000	39667	NA
+	1	Pulse	99	60000	59667	NA
+	1	Pulse	99	80000	79667	NA
+	1	Pulse	99	100000	99667	NA
+	1	Pulse	99	120000	119667	NA
+	1	Pulse	99	140000	139667	NA
+	1	Pulse	99	160000	159667	NA
+	1	Pulse	99	180000	179667	NA
+	1	Response	88	186724	186391	1
+	2	Picture	instructions_2	186833	0	1	38667	1	0	next	false_alarm	16
+	2	Pulse	99	200000	13167	NA
+	2	Pulse	99	220000	33167	NA
+	2	Response	88	225284	38451	1
+	3	Picture	instructions_3	225500	0	1	41167	1	0	next	false_alarm	20
+	3	Pulse	99	240000	14500	NA
+	3	Pulse	99	260000	34500	NA
+	3	Response	88	266404	40904	1
+	4	Picture	instructions_4	266667	0	1	41333	1	0	next	false_alarm	24
+	4	Pulse	99	280000	13333	NA
+	4	Pulse	99	300000	33333	NA
+	4	Response	88	307845	41178	1
+	5	Picture	instructions_5	308000	0	1	53000	1	0	next	false_alarm	29
+	5	Pulse	99	320000	12000	NA
+	5	Pulse	99	340000	32000	NA
+	5	Pulse	99	360000	52000	NA
+	5	Response	88	360805	52804	1
+	6	Picture	instructions_6	361000	0	1	36833	1	0	next	false_alarm	32
+	6	Pulse	99	380000	19000	NA
+	6	Response	88	397684	36684	1
+	7	Picture	instructions_7	397834	0	1	80333	1	0	next	false_alarm	38
+	7	Pulse	99	400000	2166	NA
+	7	Pulse	99	420000	22166	NA
+	7	Pulse	99	440000	42166	NA
+	7	Pulse	99	460000	62166	NA
+	7	Response	88	478085	80251	1
+	8	Picture	instructions_8	478167	0	1	39667	1	0	next	false_alarm	42
+	8	Pulse	99	480000	1833	NA
+	8	Pulse	99	500000	21833	NA
+	8	Response	88	517605	39437	1
+	9	Picture	instructions_9	517834	0	1	27167	1	0	next	false_alarm	46
+	9	Pulse	99	520000	2166	NA
+	9	Pulse	99	540000	22166	NA
+	9	Response	88	544885	27051	1
+	10	Picture	instructions_10	545001	0	1	34167	1	0	next	false_alarm	49
+	10	Pulse	99	560000	14999	NA
+	10	Response	88	578965	33964	1
+	11	Picture	instructions_11	579167	0	1	55500	1	0	next	false_alarm	54
+	11	Pulse	99	580000	833	NA
+	11	Pulse	99	600000	20833	NA
+	11	Pulse	99	620000	40833	NA
+	11	Response	88	634405	55237	1
+	12	Picture	instructions_12	634667	0	1	24000	1	0	next	false_alarm	57
+	12	Pulse	99	640000	5333	NA
+	12	Response	88	658485	23817	1
+	13	Picture	instructions_13	658667	0	1	14167	1	0	next	false_alarm	60
+	13	Pulse	99	660000	1333	NA
+	13	Response	88	672564	13897	1
+	14	Picture	instructions_14	672834	0	1	27333	1	0	next	false_alarm	63
+	14	Pulse	99	680000	7166	NA
+	14	Response	88	699924	27090	1
+	14	Pulse	99	700000	27166	NA
+	15	Picture	instructions_15	700167	0	1	43000	1	0	next	false_alarm	68
+	15	Pulse	99	720000	19833	NA
+	15	Pulse	99	740000	39833	NA
+	15	Response	88	742964	42797	1
+	16	Picture	instructions_16	743168	0	1	77667	1	0	next	false_alarm	74
+	16	Pulse	99	760000	16832	NA
+	16	Pulse	99	780000	36832	NA
+	16	Pulse	99	800000	56832	NA
+	16	Pulse	99	820000	76832	NA
+	16	Response	88	820725	77557	1
+	17	Picture	instructions_17	820834	0	1	33833	1	0	next	false_alarm	77
+	17	Pulse	99	840000	19166	NA
+	17	Response	88	854485	33650	1
+	18	Picture	instructions_18	854668	0	1	21667	1	0	next	false_alarm	80
+	18	Pulse	99	860000	5332	NA
+	18	Response	88	876005	21337	1
+	19	Picture	instructions_19	876334	0	1	42667	1	0	next	false_alarm	84
+	19	Pulse	99	880000	3666	NA
+	19	Pulse	99	900000	23666	NA
+	19	Response	88	918885	42550	1
+	20	Picture	instructions_20	919001	0	1	21500	1	0	next	false_alarm	88
+	20	Pulse	99	920000	999	NA
+	20	Pulse	99	940000	20999	NA
+	20	Response	88	940325	21323	1
+	21	Picture	instructions_21	940501	0	1	21833	1	0	next	false_alarm	91
+	21	Pulse	99	960000	19499	NA
+	21	Response	88	962085	21584	1
+	22	Picture	instructions_22	962335	0	1	15000	1	0	next	false_alarm	93
+	22	Response	88	977045	14710	1
+	23	Picture	instructions_23	977335	0	1	29500	1	0	next	false_alarm	97
+	23	Pulse	99	980000	2665	NA
+	23	Pulse	99	1000000	22665	NA
+	23	Response	88	1006645	29310	1
+	24	Picture	instructions_24	1006835	0	1	19000	1	0	next	false_alarm	100
+	24	Pulse	99	1020000	13165	NA
+	24	Response	88	1025685	18850	1
+	25	Picture	instructions_25	1025835	0	1	12000	1	0	next	false_alarm	102
+	25	Response	88	1037685	11850	1
+	26	Picture	instructions_26	1037835	0	1	3167	1	0	next	false_alarm	105
+	26	Pulse	99	1040000	2165	NA
+	26	Response	88	1040804	2970	1
+	27	Picture	instructions_27	1041001	0	1	2833	1	0	next	false_alarm	107
+	27	Response	88	1043604	2603	1
+	28	Picture	instructions_28	1043835	0	1	3500	1	0	next	false_alarm	109
+	28	Response	88	1047124	3290	1
+	29	Picture	instructions_29	1047335	0	1	38667	1	0	next	false_alarm	113
+	29	Pulse	99	1060000	12665	NA
+	29	Pulse	99	1080000	32665	NA
+	29	Response	88	1085845	38510	1
+	30	Picture	instructions_30	1086001	0	1	126167	1	0	next	false_alarm	121
+	30	Pulse	99	1100000	13999	NA
+	30	Pulse	99	1120000	33999	NA
+	30	Pulse	99	1140000	53999	NA
+	30	Pulse	99	1160000	73999	NA
+	30	Pulse	99	1180000	93999	NA
+	30	Pulse	99	1200000	113999	NA
+	30	Response	88	1212085	126083	1
+	31	Picture	instructions_31	1212168	0	1	55333	1	0	next	false_alarm	126
+	31	Pulse	99	1220000	7832	NA
+	31	Pulse	99	1240000	27832	NA
+	31	Pulse	99	1260000	47832	NA
+	31	Response	88	1267445	55277	1
+	32	Picture	instructions_32	1267502	0	1	57667	1	0	next	false_alarm	131
+	32	Pulse	99	1280000	12498	NA
+	32	Pulse	99	1300000	32498	NA
+	32	Pulse	99	1320000	52498	NA
+	32	Response	88	1325044	57543	1
+	33	Picture	instructions_33	1325168	0	1	38000	1	0	next	false_alarm	135
+	33	Pulse	99	1340000	14832	NA
+	33	Pulse	99	1360000	34832	NA
+	33	Response	88	1362964	37796	1
+	34	Picture	instructions_34	1363168	0	1	89500	1	0	next	false_alarm	141
+	34	Pulse	99	1380000	16832	NA
+	34	Pulse	99	1400000	36832	NA
+	34	Pulse	99	1420000	56832	NA
+	34	Pulse	99	1440000	76832	NA
+	34	Response	88	1452565	89396	1
+	35	Picture	instructions_35	1452669	0	1	62667	1	0	next	false_alarm	146
+	35	Pulse	99	1460000	7331	NA
+	35	Pulse	99	1480000	27331	NA
+	35	Pulse	99	1500000	47331	NA
+	35	Response	88	1515205	62536	1
+	36	Picture	instructions_36	1515335	0	1	76000	1	0	next	false_alarm	152
+	36	Pulse	99	1520000	4665	NA
+	36	Pulse	99	1540000	24665	NA
+	36	Pulse	99	1560000	44665	NA
+	36	Pulse	99	1580000	64665	NA
+	36	Response	88	1591204	75869	1
+	37	Picture	instructions_37	1591335	0	1	19500	1	0	next	false_alarm	155
+	37	Pulse	99	1600000	8665	NA
+	37	Response	88	1610645	19309	1
+	38	Picture	instructions_38	1610835	0	1	54167	1	0	next	false_alarm	160
+	38	Pulse	99	1620000	9165	NA
+	38	Pulse	99	1640000	29165	NA
+	38	Pulse	99	1660000	49165	NA
+	38	Response	88	1664885	54049	1
+	39	Picture	instructions_39	1665002	0	1	42500	1	0	next	false_alarm	164
+	39	Pulse	99	1680000	14998	NA
+	39	Pulse	99	1700000	34998	NA
+	39	Response	88	1707365	42363	1
+	40	Picture	instructions_40	1707502	0	1	34833	1	0	next	false_alarm	168
+	40	Pulse	99	1720000	12498	NA
+	40	Pulse	99	1740000	32498	NA
+	40	Response	88	1742164	34662	1
+	41	Picture	instructions_41	1742336	0	1	23000	1	0	next	false_alarm	171
+	41	Pulse	99	1760000	17664	NA
+	41	Response	88	1765125	22789	1
+	42	Picture	instructions_42	1765336	0	1	24167	1	0	next	false_alarm	174
+	42	Pulse	99	1780000	14664	NA
+	42	Response	88	1789285	23949	1
+	43	Picture	instructions_43	1789502	0	1	40333	1	0	next	false_alarm	178
+	43	Pulse	99	1800000	10498	NA
+	43	Pulse	99	1820000	30498	NA
+	43	Response	88	1829685	40183	1
+	44	Picture	instructions_44	1829836	0	1	1833	1	0	next	false_alarm	180
+	44	Response	88	1831444	1609	1
+	45	Picture	instructions_45	1831669	0	1	30500	1	0	next	false_alarm	184
+	45	Pulse	99	1840000	8331	NA
+	45	Pulse	99	1860000	28331	NA
+	45	Response	88	1862005	30336	1
+	46	Picture	instructions_46	1862169	0	1	23167	1	0	next	false_alarm	187
+	46	Pulse	99	1880000	17831	NA
+	46	Response	88	1885205	23036	1
+	47	Picture	fixation	1885336	0	1	5167	1	0	next	other	0
+	48	Picture	stage1	1890503	0	1	16000	1	0	next	false_alarm	191
+	48	Pulse	99	1900000	9497	NA
+	48	Response	2	1906405	15902	1
+	49	Picture	stage1_box	1906503	0	1	7667	1	0	next	other	0
+	50	Picture	stage1_outcome	1914169	0	1	333	1	0	next	other	0
+	51	Picture	stage2B	1914503	0	1	19167	1	0	next	false_alarm	196
+	51	Pulse	99	1920000	5497	NA
+	51	Response	1	1933525	19022	1
+	52	Picture	stage2_box	1933669	0	1	7667	1	0	next	other	0
+	52	Pulse	99	1940000	6331	NA
+	53	Picture	stage2_up	1941336	0	1	7667	1	0	next	other	0
+	54	Picture	stage2_win	1949003	0	1	10167	1	0	next	other	0
+	55	Picture	stage1	1959169	0	1	7833	1	0	next	false_alarm	203
+	55	Pulse	99	1960000	831	NA
+	55	Response	2	1966885	7715	1
+	56	Picture	stage1_box	1967003	0	1	7667	1	0	next	other	0
+	57	Picture	stage1_outcome	1974669	0	1	167	1	0	next	other	0
+	58	Picture	stage2B	1974836	0	1	8667	1	0	next	false_alarm	208
+	58	Pulse	99	1980000	5164	NA
+	58	Response	1	1983445	8609	1
+	59	Picture	stage2_box	1983503	0	1	7667	1	0	next	other	0
+	60	Picture	stage2_up	1991169	0	1	7667	1	0	next	other	0
+	61	Picture	stage2_win	1998836	0	1	10167	1	0	next	other	0
+	61	Pulse	99	2000000	1164	NA
+	62	Picture	stage1	2009003	0	1	6167	1	0	next	false_alarm	214
+	62	Response	2	2015125	6122	1
+	63	Picture	stage1_box	2015169	0	1	7667	1	0	next	other	0
+	63	Pulse	99	2020000	4831	NA
+	64	Picture	stage1_outcome	2022836	0	1	167	1	0	next	other	0
+	65	Picture	stage2B	2023003	0	1	5500	1	0	next	false_alarm	219
+	65	Response	1	2028405	5402	1
+	66	Picture	stage2_box	2028503	0	1	7667	1	0	next	other	0
+	67	Picture	stage2_up	2036169	0	1	7667	1	0	next	other	0
+	67	Pulse	99	2040000	3831	NA
+	68	Picture	stage2_win	2043836	0	1	10167	1	0	next	other	0
+	69	Picture	stage1	2054003	0	1	3833	1	0	next	false_alarm	225
+	69	Response	2	2057685	3682	1
+	70	Picture	stage1_box	2057836	0	1	7667	1	0	next	other	0
+	70	Pulse	99	2060000	2164	NA
+	71	Picture	stage1_outcome	2065503	0	1	167	1	0	next	other	0
+	72	Picture	stage2B	2065670	0	1	3833	1	0	next	false_alarm	230
+	72	Response	1	2069445	3775	1
+	73	Picture	stage2_box	2069503	0	1	7667	1	0	next	other	0
+	74	Picture	stage2_up	2077170	0	1	7667	1	0	next	other	0
+	74	Pulse	99	2080000	2830	NA
+	75	Picture	stage2_win	2084836	0	1	10167	1	0	next	other	0
+	76	Picture	stage1	2095003	0	1	3833	1	0	next	false_alarm	236
+	76	Response	2	2098645	3642	1
+	77	Picture	stage1_box	2098836	0	1	7667	1	0	next	other	0
+	77	Pulse	99	2100000	1164	NA
+	78	Picture	stage1_outcome	2106503	0	1	167	1	0	next	other	0
+	79	Picture	stage2B	2106670	0	1	3333	1	0	next	false_alarm	241
+	79	Response	1	2109925	3255	1
+	80	Picture	stage2_box	2110003	0	1	7667	1	0	next	other	0
+	81	Picture	stage2_up	2117670	0	1	7667	1	0	next	other	0
+	81	Pulse	99	2120000	2330	NA
+	82	Picture	stage2_win	2125336	0	1	10167	1	0	next	other	0
+	83	Picture	stage1	2135503	0	1	4167	1	0	next	false_alarm	247
+	83	Response	2	2139605	4102	1
+	84	Picture	stage1_box	2139670	0	1	7667	1	0	next	other	0
+	84	Pulse	99	2140000	330	NA
+	85	Picture	stage1_outcome	2147336	0	1	167	1	0	next	other	0
+	86	Picture	stage2B	2147503	0	1	5667	1	0	next	false_alarm	252
+	86	Response	1	2153125	5622	1
+	87	Picture	stage2_box	2153170	0	1	7667	1	0	next	other	0
+	87	Pulse	99	2160000	6830	NA
+	88	Picture	stage2_up	2160836	0	1	7667	1	0	next	other	0
+	89	Picture	stage2_win	2168503	0	1	10167	1	0	next	other	0
+	90	Picture	stage1	2178670	0	1	5000	1	0	next	false_alarm	259
+	90	Pulse	99	2180000	1330	NA
+	90	Response	2	2183525	4855	1
+	91	Picture	stage1_box	2183670	0	1	7667	1	0	next	other	0
+	92	Picture	stage1_outcome	2191336	0	1	167	1	0	next	other	0
+	93	Picture	stage2A	2191503	0	1	31000	1	0	next	false_alarm	265
+	93	Pulse	99	2200000	8497	NA
+	93	Pulse	99	2220000	28497	NA
+	93	Response	2	2222325	30822	1
+	94	Picture	stage2_box	2222503	0	1	7667	1	0	next	other	0
+	95	Picture	stage2_up	2230170	0	1	7667	1	0	next	other	0
+	96	Picture	stage2_win	2237836	0	1	10167	1	0	next	other	0
+	96	Pulse	99	2240000	2164	NA
+	97	Picture	stage1	2248003	0	1	6667	1	0	next	false_alarm	271
+	97	Response	2	2254485	6482	1
+	98	Picture	stage1_box	2254670	0	1	7667	1	0	next	other	0
+	98	Pulse	99	2260000	5330	NA
+	99	Picture	stage1_outcome	2262336	0	1	167	1	0	next	other	0
+	100	Picture	stage2B	2262503	0	1	22333	1	0	next	false_alarm	277
+	100	Pulse	99	2280000	17497	NA
+	100	Response	1	2284805	22302	1
+	101	Picture	stage2_box	2284837	0	1	7667	1	0	next	other	0
+	102	Picture	stage2_up	2292503	0	1	7667	1	0	next	other	0
+	102	Pulse	99	2300000	7497	NA
+	103	Picture	stage2_win	2300170	0	1	10167	1	0	next	other	0
+	104	Picture	stage1	2310337	0	1	6333	1	0	next	false_alarm	283
+	104	Response	2	2316485	6148	1
+	105	Picture	stage1_box	2316670	0	1	7667	1	0	next	other	0
+	105	Pulse	99	2320000	3330	NA
+	106	Picture	stage1_outcome	2324337	0	1	167	1	0	next	other	0
+	107	Picture	stage2A	2324503	0	1	12667	1	0	next	false_alarm	288
+	107	Response	2	2337045	12542	1
+	108	Picture	stage2_box	2337170	0	1	7667	1	0	next	other	0
+	108	Pulse	99	2340000	2830	NA
+	109	Picture	stage2_up	2344837	0	1	7667	1	0	next	other	0
+	110	Picture	stage2_lose	2352503	0	1	10167	1	0	next	other	0
+	110	Pulse	99	2360000	7497	NA
+	111	Picture	stage1	2362670	0	1	22667	1	0	next	false_alarm	296
+	111	Pulse	99	2380000	17330	NA
+	111	Response	2	2385205	22535	1
+	112	Picture	stage1_box	2385337	0	1	7667	1	0	next	other	0
+	113	Picture	stage1_outcome	2393003	0	1	167	1	0	next	other	0
+	114	Picture	stage2A	2393170	0	1	30333	1	0	next	false_alarm	302
+	114	Pulse	99	2400000	6830	NA
+	114	Pulse	99	2420000	26830	NA
+	114	Response	1	2423365	30195	1
+	115	Picture	stage2_box	2423503	0	1	7667	1	0	next	other	0
+	116	Picture	stage2_up	2431170	0	1	7667	1	0	next	other	0
+	117	Picture	stage2_lose	2438837	0	1	10167	1	0	next	other	0
+	117	Pulse	99	2440000	1163	NA
+	118	Picture	stage1	2449003	0	1	6500	1	0	next	false_alarm	308
+	118	Response	2	2455445	6442	1
+	119	Picture	stage1_box	2455503	0	1	7667	1	0	next	other	0
+	119	Pulse	99	2460000	4497	NA
+	120	Picture	stage1_outcome	2463170	0	1	167	1	0	next	other	0
+	121	Picture	stage2A	2463337	0	1	6000	1	0	next	false_alarm	313
+	121	Response	2	2469285	5948	1
+	122	Picture	stage2_box	2469337	0	1	7667	1	0	next	other	0
+	123	Picture	stage2_up	2477003	0	1	7667	1	0	next	other	0
+	123	Pulse	99	2480000	2997	NA
+	124	Picture	stage2_win	2484670	0	1	10167	1	0	next	other	0
+	125	Picture	stage1	2494837	0	1	4667	1	0	next	false_alarm	319
+	125	Response	2	2499365	4528	1
+	126	Picture	stage1_box	2499504	0	1	7667	1	0	next	other	0
+	126	Pulse	99	2500000	496	NA
+	127	Picture	stage1_outcome	2507170	0	1	167	1	0	next	other	0
+	128	Picture	stage2B	2507337	0	1	9667	1	0	next	false_alarm	324
+	128	Response	1	2516885	9548	1
+	129	Picture	stage2_box	2517004	0	1	7667	1	0	next	other	0
+	129	Pulse	99	2520000	2996	NA
+	130	Picture	stage2_up	2524670	0	1	7667	1	0	next	other	0
+	131	Picture	stage2_win	2532337	0	1	10167	1	0	next	other	0
+	131	Pulse	99	2540000	7663	NA
+	132	Picture	stage1	2542504	0	1	4000	1	0	next	false_alarm	331
+	132	Response	2	2546405	3902	1
+	133	Picture	stage1_box	2546504	0	1	7667	1	0	next	other	0
+	134	Picture	stage1_outcome	2554170	0	1	167	1	0	next	other	0
+	135	Picture	stage2B	2554337	0	1	6833	1	0	next	false_alarm	336
+	135	Pulse	99	2560000	5663	NA
+	135	Response	1	2561045	6708	1
+	136	Picture	stage2_box	2561170	0	1	7667	1	0	next	other	0
+	137	Picture	stage2_up	2568837	0	1	7667	1	0	next	other	0
+	138	Picture	stage2_win	2576504	0	1	10167	1	0	next	other	0
+	138	Pulse	99	2580000	3496	NA
+	139	Picture	stage1	2586670	0	1	4333	1	0	next	false_alarm	342
+	139	Response	2	2590885	4215	1
+	140	Picture	stage1_box	2591004	0	1	7667	1	0	next	other	0
+	141	Picture	stage1_outcome	2598670	0	1	167	1	0	next	other	0
+	142	Picture	stage2A	2598837	0	1	9667	1	0	next	false_alarm	347
+	142	Pulse	99	2600000	1163	NA
+	142	Response	2	2608405	9568	1
+	143	Picture	stage2_box	2608504	0	1	7667	1	0	next	other	0
+	144	Picture	stage2_up	2616170	0	1	7667	1	0	next	other	0
+	144	Pulse	99	2620000	3830	NA
+	145	Picture	stage2_win	2623837	0	1	10167	1	0	next	other	0
+	146	Picture	stage1	2634004	0	1	3833	1	0	next	false_alarm	353
+	146	Response	2	2637685	3681	1
+	147	Picture	stage1_box	2637837	0	1	7667	1	0	next	other	0
+	147	Pulse	99	2640000	2163	NA
+	148	Picture	stage1_outcome	2645504	0	1	167	1	0	next	other	0
+	149	Picture	stage2B	2645670	0	1	7500	1	0	next	false_alarm	358
+	149	Response	1	2653125	7455	1
+	150	Picture	stage2_box	2653170	0	1	7667	1	0	next	other	0
+	150	Pulse	99	2660000	6830	NA
+	151	Picture	stage2_up	2660837	0	1	7667	1	0	next	other	0
+	152	Picture	stage2_lose	2668504	0	1	10167	1	0	next	other	0
+	153	Picture	stage1	2678670	0	1	3833	1	0	next	false_alarm	365
+	153	Pulse	99	2680000	1330	NA
+	153	Response	2	2682405	3735	1
+	154	Picture	stage1_box	2682504	0	1	7667	1	0	next	other	0
+	155	Picture	stage1_outcome	2690170	0	1	167	1	0	next	other	0
+	156	Picture	stage2B	2690337	0	1	9333	1	0	next	false_alarm	369
+	156	Response	1	2699605	9268	1
+	157	Picture	stage2_box	2699670	0	1	7667	1	0	next	other	0
+	157	Pulse	99	2700000	330	NA
+	158	Picture	stage2_up	2707337	0	1	7667	1	0	next	other	0
+	159	Picture	stage2_win	2715004	0	1	10167	1	0	next	other	0
+	159	Pulse	99	2720000	4996	NA
+	160	Picture	stage1	2725171	0	1	4667	1	0	next	false_alarm	376
+	160	Response	2	2729765	4595	1
+	161	Picture	stage1_box	2729837	0	1	7667	1	0	next	other	0
+	162	Picture	stage1_outcome	2737504	0	1	167	1	0	next	other	0
+	163	Picture	stage2B	2737671	0	1	4833	1	0	next	false_alarm	381
+	163	Pulse	99	2740000	2329	NA
+	163	Response	1	2742405	4734	1
+	164	Picture	stage2_box	2742504	0	1	7667	1	0	next	other	0
+	165	Picture	stage2_up	2750171	0	1	7667	1	0	next	other	0
+	166	Picture	stage2_win	2757837	0	1	10167	1	0	next	other	0
+	166	Pulse	99	2760000	2163	NA
+	167	Picture	stage1	2768004	0	1	3667	1	0	next	false_alarm	387
+	167	Response	2	2771525	3521	1
+	168	Picture	stage1_box	2771671	0	1	7667	1	0	next	other	0
+	169	Picture	stage1_outcome	2779337	0	1	167	1	0	next	other	0
+	170	Picture	stage2B	2779504	0	1	4833	1	0	next	false_alarm	392
+	170	Pulse	99	2780000	496	NA
+	170	Response	1	2784165	4661	1
+	171	Picture	stage2_box	2784337	0	1	7667	1	0	next	other	0
+	172	Picture	stage2_up	2792004	0	1	7667	1	0	next	other	0
+	173	Picture	stage2_win	2799671	0	1	10167	1	0	next	other	0
+	173	Pulse	99	2800000	329	NA
+	174	Picture	stage1	2809837	0	1	3167	1	0	next	false_alarm	398
+	174	Response	2	2812965	3128	1
+	175	Picture	stage1_box	2813004	0	1	7667	1	0	next	other	0
+	175	Pulse	99	2820000	6996	NA
+	176	Picture	stage1_outcome	2820671	0	1	167	1	0	next	other	0
+	177	Picture	stage2B	2820837	0	1	4500	1	0	next	false_alarm	403
+	177	Response	1	2825205	4368	1
+	178	Picture	stage2_box	2825337	0	1	7667	1	0	next	other	0
+	179	Picture	stage2_up	2833004	0	1	7667	1	0	next	other	0
+	179	Pulse	99	2840000	6996	NA
+	180	Picture	stage2_win	2840671	0	1	10167	1	0	next	other	0
+	181	Picture	stage1	2850837	0	1	2833	1	0	next	false_alarm	409
+	181	Response	2	2853605	2768	1
+	182	Picture	stage1_box	2853671	0	1	7667	1	0	next	other	0
+	182	Pulse	99	2860000	6329	NA
+	183	Picture	stage1_outcome	2861337	0	1	167	1	0	next	other	0
+	184	Picture	stage2B	2861504	0	1	4000	1	0	next	false_alarm	414
+	184	Response	1	2865445	3941	1
+	185	Picture	stage2_box	2865504	0	1	7667	1	0	next	other	0
+	186	Picture	stage2_up	2873171	0	1	7667	1	0	next	other	0
+	186	Pulse	99	2880000	6829	NA
+	187	Picture	stage2_win	2880837	0	1	10167	1	0	next	other	0
+	188	Picture	stage1	2891004	0	1	3833	1	0	next	false_alarm	420
+	188	Response	2	2894645	3641	1
+	189	Picture	stage1_box	2894837	0	1	7667	1	0	next	other	0
+	189	Pulse	99	2900000	5163	NA
+	190	Picture	stage1_outcome	2902504	0	1	167	1	0	next	other	0
+	191	Picture	stage2A	2902671	0	1	6500	1	0	next	false_alarm	425
+	191	Response	2	2909045	6374	1
+	192	Picture	stage2_box	2909171	0	1	7667	1	0	next	other	0
+	193	Picture	stage2_up	2916837	0	1	7667	1	0	next	other	0
+	193	Pulse	99	2920000	3163	NA
+	194	Picture	stage2_lose	2924504	0	1	10167	1	0	next	other	0
+	195	Picture	stage1	2934671	0	1	7333	1	0	next	false_alarm	432
+	195	Pulse	99	2940000	5329	NA
+	195	Response	2	2941925	7254	1
+	196	Picture	stage1_box	2942004	0	1	7667	1	0	next	other	0
+	197	Picture	stage1_outcome	2949671	0	1	167	1	0	next	other	0
+	198	Picture	stage2B	2949838	0	1	5833	1	0	next	false_alarm	436
+	198	Response	1	2955606	5768	1
+	199	Picture	stage2_box	2955671	0	1	7667	1	0	next	other	0
+	199	Pulse	99	2960000	4329	NA
+	200	Picture	stage2_up	2963338	0	1	7667	1	0	next	other	0
+	201	Picture	stage2_lose	2971004	0	1	10167	1	0	next	other	0
+	201	Pulse	99	2980000	8996	NA
+	202	Picture	stage1	2981171	0	1	3667	1	0	next	false_alarm	443
+	202	Response	2	2984805	3634	1
+	203	Picture	stage1_box	2984838	0	1	7667	1	0	next	other	0
+	204	Picture	stage1_outcome	2992504	0	1	167	1	0	next	other	0
+	205	Picture	stage2A	2992671	0	1	11500	1	0	next	false_alarm	448
+	205	Pulse	99	3000000	7329	NA
+	205	Response	2	3004005	11334	1
+	206	Picture	stage2_box	3004171	0	1	7667	1	0	next	other	0
+	207	Picture	stage2_up	3011838	0	1	7667	1	0	next	other	0
+	208	Picture	stage2_win	3019504	0	1	10167	1	0	next	other	0
+	208	Pulse	99	3020000	496	NA
+	209	Picture	stage1	3029671	0	1	4167	1	0	next	false_alarm	454
+	209	Response	2	3033685	4014	1
+	210	Picture	stage1_box	3033838	0	1	7667	1	0	next	other	0
+	210	Pulse	99	3040000	6162	NA
+	211	Picture	stage1_outcome	3041504	0	1	167	1	0	next	other	0
+	212	Picture	stage2B	3041671	0	1	6167	1	0	next	false_alarm	459
+	212	Response	1	3047685	6014	1
+	213	Picture	stage2_box	3047838	0	1	7667	1	0	next	other	0
+	214	Picture	stage2_up	3055504	0	1	7667	1	0	next	other	0
+	214	Pulse	99	3060000	4496	NA
+	215	Picture	stage2_win	3063171	0	1	10167	1	0	next	other	0
+	216	Picture	stage1	3073338	0	1	3167	1	0	next	false_alarm	465
+	216	Response	2	3076325	2987	1
+	217	Picture	stage1_box	3076504	0	1	7667	1	0	next	other	0
+	217	Pulse	99	3080000	3496	NA
+	218	Picture	stage1_outcome	3084171	0	1	167	1	0	next	other	0
+	219	Picture	stage2B	3084338	0	1	4000	1	0	next	false_alarm	470
+	219	Response	1	3088245	3907	1
+	220	Picture	stage2_box	3088338	0	1	7667	1	0	next	other	0
+	221	Picture	stage2_up	3096004	0	1	7667	1	0	next	other	0
+	221	Pulse	99	3100000	3996	NA
+	222	Picture	stage2_win	3103671	0	1	10167	1	0	next	false_alarm	475
+	222	Response	2	3107445	3774	1
+	223	Pulse	99	3120000	6162	NA
+	223	Pulse	99	3140000	26162	NA
+	223	Response	88	3145285	31447	1

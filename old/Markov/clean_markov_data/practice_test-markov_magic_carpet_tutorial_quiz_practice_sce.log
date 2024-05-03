@@ -1,0 +1,518 @@
+Scenario - 
+Logfile written - 09/19/2022 16:25:10
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+practice_test	0	Pulse	99	0	0	NA
+practice_test	1	Picture	instructions_1	333	0	1	162945	1	0	next	false_alarm	11
+practice_test	1	Pulse	99	20000	19667	NA
+practice_test	1	Pulse	99	40000	39667	NA
+practice_test	1	Pulse	99	60000	59667	NA
+practice_test	1	Pulse	99	80000	79667	NA
+practice_test	1	Pulse	99	100000	99667	NA
+practice_test	1	Pulse	99	120000	119667	NA
+practice_test	1	Pulse	99	140000	139667	NA
+practice_test	1	Pulse	99	160000	159667	NA
+practice_test	1	Response	88	163194	162861	1
+practice_test	2	Picture	instructions_2	163278	0	1	65145	1	0	next	false_alarm	16
+practice_test	2	Pulse	99	180000	16722	NA
+practice_test	2	Pulse	99	200000	36722	NA
+practice_test	2	Pulse	99	220000	56722	NA
+practice_test	2	Response	88	228329	65051	1
+practice_test	3	Picture	instructions_3	228422	0	1	31656	1	0	next	false_alarm	20
+practice_test	3	Pulse	99	240000	11578	NA
+practice_test	3	Pulse	99	260000	31578	NA
+practice_test	3	Response	88	260003	31581	1
+practice_test	4	Picture	instructions_4	260078	0	1	1666	1	0	next	false_alarm	22
+practice_test	4	Response	88	261607	1529	1
+practice_test	5	Picture	instructions_5	261744	0	1	1499	1	0	next	false_alarm	24
+practice_test	5	Response	88	263180	1436	1
+practice_test	6	Picture	instructions_6	263244	0	1	1833	1	0	next	false_alarm	26
+practice_test	6	Response	88	264982	1738	1
+practice_test	7	Picture	instructions_7	265076	0	1	1666	1	0	next	false_alarm	28
+practice_test	7	Response	88	266574	1498	1
+practice_test	8	Picture	instructions_8	266742	0	1	1666	1	0	next	false_alarm	30
+practice_test	8	Response	88	268229	1486	1
+practice_test	9	Picture	instructions_9	268409	0	1	1666	1	0	next	false_alarm	32
+practice_test	9	Response	88	269985	1576	1
+practice_test	10	Picture	instructions_10	270075	0	1	1833	1	0	next	false_alarm	34
+practice_test	10	Response	88	271828	1753	1
+practice_test	11	Picture	instructions_11	271907	0	1	1833	1	0	next	false_alarm	36
+practice_test	11	Response	88	273587	1680	1
+practice_test	12	Picture	instructions_12	273740	0	1	1999	1	0	next	false_alarm	38
+practice_test	12	Response	88	275517	1777	1
+practice_test	13	Picture	instructions_13	275739	0	1	1999	1	0	next	false_alarm	40
+practice_test	13	Response	88	277655	1915	1
+practice_test	14	Picture	instructions_14	277739	0	1	2333	1	0	next	false_alarm	42
+practice_test	14	Response	88	279904	2166	1
+practice_test	14	Pulse	99	280000	2261	NA
+practice_test	15	Picture	instructions_15	280071	0	1	1833	1	0	next	false_alarm	45
+practice_test	15	Response	88	281813	1742	1
+practice_test	16	Picture	instructions_16	281904	0	1	1999	1	0	next	false_alarm	47
+practice_test	16	Response	88	283689	1785	1
+practice_test	17	Picture	instructions_17	283903	0	1	1833	1	0	next	false_alarm	49
+practice_test	17	Response	88	285644	1741	1
+practice_test	18	Picture	instructions_18	285736	0	1	2166	1	0	next	false_alarm	51
+practice_test	18	Response	88	287770	2034	1
+practice_test	19	Picture	instructions_19	287902	0	1	1999	1	0	next	false_alarm	53
+practice_test	19	Response	88	289765	1864	1
+practice_test	20	Picture	instructions_20	289901	0	1	2166	1	0	next	false_alarm	55
+practice_test	20	Response	88	291909	2008	1
+practice_test	21	Picture	instructions_21	292067	0	1	2166	1	0	next	false_alarm	57
+practice_test	21	Response	88	294132	2065	1
+practice_test	22	Picture	instructions_22	294233	0	1	2166	1	0	next	false_alarm	59
+practice_test	22	Response	88	296187	1953	1
+practice_test	23	Picture	instructions_23	296399	0	1	1999	1	0	next	false_alarm	61
+practice_test	23	Response	88	298273	1874	1
+practice_test	24	Picture	instructions_24	298398	0	1	2166	1	0	next	false_alarm	64
+practice_test	24	Pulse	99	300000	1602	NA
+practice_test	24	Response	88	300460	2062	1
+practice_test	25	Picture	instructions_25	300564	0	1	2333	1	0	next	false_alarm	66
+practice_test	25	Response	88	302806	2242	1
+practice_test	26	Picture	instructions_26	302897	0	1	1833	1	0	next	false_alarm	68
+practice_test	26	Response	88	304618	1721	1
+practice_test	27	Picture	instructions_27	304730	0	1	1999	1	0	next	false_alarm	70
+practice_test	27	Response	88	306657	1927	1
+practice_test	28	Picture	instructions_28	306729	0	1	1999	1	0	next	false_alarm	72
+practice_test	28	Response	88	308542	1813	1
+practice_test	29	Picture	instructions_29	308728	0	1	2333	1	0	next	false_alarm	74
+practice_test	29	Response	88	310976	2248	1
+practice_test	30	Picture	instructions_30	311061	0	1	6998	1	0	next	false_alarm	76
+practice_test	30	Response	88	317927	6866	1
+practice_test	31	Picture	instructions_31	318058	0	1	1666	1	0	next	false_alarm	78
+practice_test	31	Response	88	319640	1581	1
+practice_test	32	Picture	instructions_32	319724	0	1	1999	1	0	next	false_alarm	81
+practice_test	32	Pulse	99	320000	276	NA
+practice_test	32	Response	88	321556	1831	1
+practice_test	33	Picture	instructions_33	321724	0	1	1999	1	0	next	false_alarm	83
+practice_test	33	Response	88	323590	1866	1
+practice_test	34	Picture	instructions_34	323723	0	1	2332	1	0	next	false_alarm	85
+practice_test	34	Response	88	325837	2114	1
+practice_test	35	Picture	instructions_35	326056	0	1	2166	1	0	next	false_alarm	87
+practice_test	35	Response	88	328101	2045	1
+practice_test	36	Picture	instructions_36	328222	0	1	2333	1	0	next	false_alarm	89
+practice_test	36	Response	88	330400	2179	1
+practice_test	37	Picture	instructions_37	330554	0	1	2333	1	0	next	false_alarm	91
+practice_test	37	Response	88	332843	2289	1
+practice_test	38	Picture	instructions_38	332887	0	1	13662	1	0	next	false_alarm	94
+practice_test	38	Pulse	99	340000	7113	NA
+practice_test	38	Response	88	346465	13578	1
+practice_test	39	Picture	instructions_39	346549	0	1	9830	1	0	next	false_alarm	96
+practice_test	39	Response	88	356244	9696	1
+practice_test	40	Picture	instructions_40	356379	0	1	3999	1	0	next	false_alarm	99
+practice_test	40	Pulse	99	360000	3621	NA
+practice_test	40	Response	88	360262	3883	1
+practice_test	41	Picture	instructions_41	360377	0	1	2666	1	0	next	false_alarm	101
+practice_test	41	Response	88	362894	2517	1
+practice_test	42	Picture	instructions_42	363043	0	1	2166	1	0	next	false_alarm	103
+practice_test	42	Response	88	365070	2026	1
+practice_test	43	Picture	instructions_43	365209	0	1	1999	1	0	next	false_alarm	105
+practice_test	43	Response	88	367032	1823	1
+practice_test	44	Picture	instructions_44	367208	0	1	3166	1	0	next	false_alarm	107
+practice_test	44	Response	88	370306	3098	1
+practice_test	45	Picture	instructions_45	370374	0	1	2666	1	0	next	false_alarm	109
+practice_test	45	Response	88	372876	2503	1
+practice_test	46	Picture	instructions_46	373040	0	1	1833	1	0	next	false_alarm	111
+practice_test	46	Response	88	374836	1796	1
+practice_test	47	Picture	fixation	374872	0	1	5165	1	0	next	other	0
+practice_test	47	Pulse	99	380000	5128	NA
+practice_test	48	Picture	stage1	380037	0	1	39487	1	0	next	false_alarm	115
+practice_test	48	Response	88	393221	13183	1
+practice_test	48	Pulse	99	400000	19963	NA
+practice_test	48	Response	1	419401	39363	1
+practice_test	49	Picture	stage1_box	419524	0	1	7664	1	0	next	other	0
+practice_test	49	Pulse	99	420000	476	NA
+practice_test	50	Picture	stage1_outcome	427188	0	1	167	1	0	next	other	0
+practice_test	51	Picture	stage2A	427354	0	1	8497	1	0	next	false_alarm	122
+practice_test	51	Response	1	435666	8312	1
+practice_test	52	Picture	stage2_box	435852	0	1	7664	1	0	next	other	0
+practice_test	52	Pulse	99	440000	4148	NA
+practice_test	53	Picture	stage2_up	443516	0	1	7664	1	0	next	false_alarm	126
+practice_test	53	Response	1	447080	3564	1
+practice_test	53	Response	2	447219	3704	1
+practice_test	54	Picture	stage2_win	451180	0	1	10163	1	0	next	false_alarm	129
+practice_test	54	Response	1	452413	1233	1
+practice_test	54	Pulse	99	460000	8820	NA
+practice_test	55	Picture	stage1	461343	0	1	4665	1	0	next	false_alarm	132
+practice_test	55	Response	1	465942	4599	1
+practice_test	56	Picture	stage1_box	466008	0	1	7664	1	0	next	other	0
+practice_test	57	Picture	stage1_outcome	473672	0	1	167	1	0	next	other	0
+practice_test	58	Picture	stage2B	473839	0	1	3665	1	0	next	false_alarm	136
+practice_test	58	Response	2	477462	3624	1
+practice_test	59	Picture	stage2_box	477504	0	1	7664	1	0	next	other	0
+practice_test	59	Pulse	99	480000	2496	NA
+practice_test	60	Picture	stage2_up	485168	0	1	7664	1	0	next	false_alarm	140
+practice_test	60	Response	1	488153	2984	1
+practice_test	61	Picture	stage2_lose	492832	0	1	10163	1	0	next	other	0
+practice_test	61	Pulse	99	500000	7168	NA
+practice_test	62	Picture	stage1	502995	0	1	2832	1	0	next	false_alarm	144
+practice_test	62	Response	2	505683	2688	1
+practice_test	63	Picture	stage1_box	505828	0	1	7664	1	0	next	other	0
+practice_test	64	Picture	stage1_outcome	513492	0	1	167	1	0	next	other	0
+practice_test	65	Picture	stage2B	513658	0	1	6831	1	0	next	false_alarm	149
+practice_test	65	Pulse	99	520000	6342	NA
+practice_test	65	Response	1	520415	6756	1
+practice_test	66	Picture	stage2_box	520489	0	1	7664	1	0	next	other	0
+practice_test	67	Picture	stage2_up	528154	0	1	7664	1	0	next	other	0
+practice_test	68	Picture	stage2_lose	535818	0	1	10163	1	0	next	false_alarm	153
+practice_test	68	Response	2	538653	2835	1
+practice_test	68	Pulse	99	540000	4182	NA
+practice_test	69	Picture	stage1	545981	0	1	2999	1	0	next	false_alarm	156
+practice_test	69	Response	2	548833	2853	1
+practice_test	70	Picture	stage1_box	548980	0	1	7664	1	0	next	other	0
+practice_test	71	Picture	stage1_outcome	556644	0	1	167	1	0	next	other	0
+practice_test	72	Picture	stage2B	556810	0	1	28157	1	0	next	false_alarm	162
+practice_test	72	Pulse	99	560000	3190	NA
+practice_test	72	Pulse	99	580000	23190	NA
+practice_test	72	Response	2	584800	27990	1
+practice_test	73	Picture	stage2_box	584968	0	1	7664	1	0	next	other	0
+practice_test	74	Picture	stage2_up	592632	0	1	7664	1	0	next	other	0
+practice_test	74	Pulse	99	600000	7368	NA
+practice_test	75	Picture	stage2_lose	600296	0	1	10163	1	0	next	other	0
+practice_test	76	Picture	stage1	610459	0	1	5498	1	0	next	false_alarm	168
+practice_test	76	Response	1	615830	5372	1
+practice_test	77	Picture	stage1_box	615957	0	1	7664	1	0	next	other	0
+practice_test	77	Pulse	99	620000	4043	NA
+practice_test	78	Picture	stage1_outcome	623621	0	1	167	1	0	next	other	0
+practice_test	79	Picture	stage2A	623788	0	1	5165	1	0	next	false_alarm	173
+practice_test	79	Response	2	628916	5129	1
+practice_test	80	Picture	stage2_box	628953	0	1	7664	1	0	next	other	0
+practice_test	81	Picture	stage2_up	636617	0	1	7664	1	0	next	other	0
+practice_test	81	Pulse	99	640000	3383	NA
+practice_test	82	Picture	stage2_win	644281	0	1	10163	1	0	next	other	0
+practice_test	83	Picture	stage1	654444	0	1	5831	1	0	next	false_alarm	180
+practice_test	83	Pulse	99	660000	5556	NA
+practice_test	83	Response	1	660213	5769	1
+practice_test	84	Picture	stage1_box	660275	0	1	7664	1	0	next	other	0
+practice_test	85	Picture	stage1_outcome	667939	0	1	167	1	0	next	other	0
+practice_test	86	Picture	stage2A	668106	0	1	4498	1	0	next	false_alarm	184
+practice_test	86	Response	2	672477	4372	1
+practice_test	87	Picture	stage2_box	672604	0	1	7664	1	0	next	other	0
+practice_test	87	Pulse	99	680000	7396	NA
+practice_test	88	Picture	stage2_up	680268	0	1	7664	1	0	next	other	0
+practice_test	89	Picture	stage2_win	687932	0	1	10163	1	0	next	false_alarm	189
+practice_test	89	Response	1	692483	4550	1
+practice_test	90	Picture	stage1	698096	0	1	3999	1	0	next	false_alarm	192
+practice_test	90	Pulse	99	700000	1904	NA
+practice_test	90	Response	1	702060	3964	1
+practice_test	91	Picture	stage1_box	702094	0	1	7664	1	0	next	other	0
+practice_test	92	Picture	stage1_outcome	709758	0	1	167	1	0	next	other	0
+practice_test	93	Picture	stage2A	709925	0	1	21993	1	0	next	false_alarm	197
+practice_test	93	Pulse	99	720000	10075	NA
+practice_test	93	Response	2	731886	21961	1
+practice_test	94	Picture	stage2_box	731918	0	1	7664	1	0	next	other	0
+practice_test	95	Picture	stage2_up	739582	0	1	7664	1	0	next	other	0
+practice_test	95	Pulse	99	740000	418	NA
+practice_test	96	Picture	stage2_win	747246	0	1	10163	1	0	next	other	0
+practice_test	97	Picture	stage1	757409	0	1	19993	1	0	next	false_alarm	204
+practice_test	97	Pulse	99	760000	2591	NA
+practice_test	97	Response	1	777300	19891	1
+practice_test	98	Picture	stage1_box	777402	0	1	4998	1	0	next	false_alarm	207
+practice_test	98	Pulse	99	780000	2598	NA
+practice_test	98	Response	1	782322	4920	1
+practice_test	99	Picture	stage1_outcome	782400	0	1	167	1	0	next	other	0
+practice_test	100	Picture	stage2A	782567	0	1	4832	1	0	next	false_alarm	210
+practice_test	100	Response	2	787212	4645	1
+practice_test	101	Picture	stage2_box	787399	0	1	7664	1	0	next	other	0
+practice_test	101	Response	1	794991	7592	1
+practice_test	102	Picture	stage2_up	795063	0	1	7664	1	0	next	false_alarm	214
+practice_test	102	Response	1	799806	4743	1
+practice_test	102	Pulse	99	800000	4937	NA
+practice_test	102	Response	1	802008	6945	1
+practice_test	103	Picture	stage2_lose	802727	0	1	10163	1	0	next	false_alarm	218
+practice_test	103	Response	1	805318	2591	1
+practice_test	103	Response	1	808081	5354	1
+practice_test	103	Response	1	810665	7939	1
+practice_test	104	Picture	stage1	812890	0	1	333	1	0	next	false_alarm	222
+practice_test	104	Response	1	813092	202	1
+practice_test	105	Picture	stage1_box	813223	0	1	1999	1	0	next	false_alarm	224
+practice_test	105	Response	1	815090	1867	1
+practice_test	106	Picture	stage1_outcome	815223	0	1	167	1	0	next	other	0
+practice_test	107	Picture	stage2A	815389	0	1	2166	1	0	next	false_alarm	227
+practice_test	107	Response	1	817448	2059	1
+practice_test	108	Picture	stage2_box	817555	0	1	2333	1	0	next	false_alarm	229
+practice_test	108	Response	1	819722	2167	1
+practice_test	109	Picture	stage2_up	819888	0	1	7664	1	0	next	false_alarm	232
+practice_test	109	Pulse	99	820000	112	NA
+practice_test	109	Response	1	822015	2127	1
+practice_test	109	Response	1	824252	4365	1
+practice_test	109	Response	1	826649	6762	1
+practice_test	110	Picture	stage2_win	827552	0	1	10163	1	0	next	false_alarm	236
+practice_test	110	Response	1	829009	1458	1
+practice_test	110	Response	1	831196	3644	1
+practice_test	110	Response	1	833637	6085	1
+practice_test	110	Response	1	835718	8166	1
+practice_test	111	Picture	stage1	837715	0	1	3499	1	0	next	false_alarm	242
+practice_test	111	Pulse	99	840000	2285	NA
+practice_test	111	Response	1	841040	3325	1
+practice_test	112	Picture	stage1_box	841214	0	1	2166	1	0	next	false_alarm	244
+practice_test	112	Response	1	843280	2066	1
+practice_test	113	Picture	stage1_outcome	843380	0	1	167	1	0	next	other	0
+practice_test	114	Picture	stage2A	843546	0	1	1999	1	0	next	false_alarm	247
+practice_test	114	Response	1	845379	1833	1
+practice_test	115	Picture	stage2_box	845546	0	1	2499	1	0	next	false_alarm	249
+practice_test	115	Response	1	847933	2387	1
+practice_test	116	Picture	stage2_up	848045	0	1	7664	1	0	next	false_alarm	251
+practice_test	116	Response	1	850282	2237	1
+practice_test	116	Response	1	852528	4483	1
+practice_test	116	Response	1	854958	6913	1
+practice_test	117	Picture	stage2_lose	855709	0	1	10163	1	0	next	false_alarm	255
+practice_test	117	Response	2	857180	1471	1
+practice_test	117	Pulse	99	860000	4291	NA
+practice_test	117	Response	2	862073	6364	1
+practice_test	117	Response	2	864771	9063	1
+practice_test	118	Picture	stage1	865872	0	1	4665	1	0	next	false_alarm	260
+practice_test	118	Response	2	870417	4545	1
+practice_test	119	Picture	stage1_box	870537	0	1	3665	1	0	next	false_alarm	262
+practice_test	119	Response	1	874015	3478	1
+practice_test	120	Picture	stage1_outcome	874202	0	1	167	1	0	next	other	0
+practice_test	121	Picture	stage2A	874369	0	1	1999	1	0	next	false_alarm	265
+practice_test	121	Response	1	876248	1879	1
+practice_test	122	Picture	stage2_box	876368	0	1	2333	1	0	next	false_alarm	267
+practice_test	122	Response	1	878552	2184	1
+practice_test	123	Picture	stage2_up	878701	0	1	7664	1	0	next	false_alarm	270
+practice_test	123	Pulse	99	880000	1299	NA
+practice_test	123	Response	1	880855	2154	1
+practice_test	123	Response	1	883222	4521	1
+practice_test	123	Response	1	885698	6997	1
+practice_test	124	Picture	stage2_win	886365	0	1	10163	1	0	next	false_alarm	274
+practice_test	124	Response	1	888120	1755	1
+practice_test	124	Response	1	890631	4266	1
+practice_test	124	Response	1	893625	7260	1
+practice_test	124	Response	1	896278	9913	1
+practice_test	125	Picture	stage1	896528	0	1	1999	1	0	next	false_alarm	279
+practice_test	125	Response	1	898428	1900	1
+practice_test	126	Picture	stage1_box	898527	0	1	2333	1	0	next	false_alarm	282
+practice_test	126	Pulse	99	900000	1473	NA
+practice_test	126	Response	1	900779	2251	1
+practice_test	127	Picture	stage1_outcome	900860	0	1	167	1	0	next	other	0
+practice_test	128	Picture	stage2A	901027	0	1	2333	1	0	next	false_alarm	285
+practice_test	128	Response	1	903187	2160	1
+practice_test	129	Picture	stage2_box	903359	0	1	2166	1	0	next	false_alarm	287
+practice_test	129	Response	1	905425	2066	1
+practice_test	130	Picture	stage2_up	905525	0	1	7664	1	0	next	false_alarm	289
+practice_test	130	Response	1	907900	2374	1
+practice_test	130	Response	1	910586	5061	1
+practice_test	130	Response	1	912918	7393	1
+practice_test	131	Picture	stage2_lose	913189	0	1	10163	1	0	next	false_alarm	293
+practice_test	131	Response	1	915445	2256	1
+practice_test	131	Response	2	918352	5163	1
+practice_test	131	Pulse	99	920000	6811	NA
+practice_test	131	Response	2	921328	8139	1
+practice_test	132	Picture	stage1	923352	0	1	333	1	0	next	false_alarm	298
+practice_test	132	Response	2	923620	268	1
+practice_test	133	Picture	stage1_box	923686	0	1	2333	1	0	next	false_alarm	300
+practice_test	133	Response	2	925943	2257	1
+practice_test	134	Picture	stage1_outcome	926018	0	1	167	1	0	next	other	0
+practice_test	135	Picture	stage2B	926185	0	1	2166	1	0	next	false_alarm	303
+practice_test	135	Response	2	928165	1981	1
+practice_test	136	Picture	stage2_box	928351	0	1	1999	1	0	next	false_alarm	305
+practice_test	136	Response	2	930176	1826	1
+practice_test	137	Picture	stage2_up	930350	0	1	7664	1	0	next	false_alarm	307
+practice_test	137	Response	2	932703	2353	1
+practice_test	137	Response	2	934720	4370	1
+practice_test	137	Response	2	937006	6656	1
+practice_test	138	Picture	stage2_win	938014	0	1	10163	1	0	next	false_alarm	311
+practice_test	138	Response	2	939265	1251	1
+practice_test	138	Pulse	99	940000	1986	NA
+practice_test	138	Response	2	941605	3591	1
+practice_test	138	Response	2	944164	6150	1
+practice_test	138	Response	2	946326	8312	1
+practice_test	139	Picture	stage1	948177	0	1	666	1	0	next	false_alarm	317
+practice_test	139	Response	2	948772	595	1
+practice_test	140	Picture	stage1_box	948844	0	1	2498	2	0	next	false_alarm	319
+practice_test	140	Response	2	951237	2393	1
+practice_test	141	Picture	stage1_outcome	951342	0	2	168	2	0	next	other	0
+practice_test	142	Picture	stage2B	951509	0	1	2666	1	0	next	false_alarm	322
+practice_test	142	Response	1	954145	2636	1
+practice_test	143	Picture	stage2_box	954175	0	1	2499	1	0	next	false_alarm	324
+practice_test	143	Response	1	956488	2313	1
+practice_test	144	Picture	stage2_up	956674	0	1	7664	1	0	next	false_alarm	326
+practice_test	144	Response	1	958717	2042	1
+practice_test	144	Pulse	99	960000	3326	NA
+practice_test	144	Response	2	960465	3790	1
+practice_test	144	Response	1	962708	6034	1
+practice_test	144	Response	2	964038	7363	1
+practice_test	145	Picture	stage2_win	964338	0	1	10163	1	0	next	false_alarm	332
+practice_test	145	Response	1	965651	1312	1
+practice_test	145	Response	1	968978	4639	1
+practice_test	145	Response	2	971955	7617	1
+practice_test	146	Picture	stage1	974502	0	1	2999	1	0	next	false_alarm	336
+practice_test	146	Response	2	977355	2853	1
+practice_test	147	Picture	stage1_box	977501	0	1	3499	1	0	next	false_alarm	339
+practice_test	147	Pulse	99	980000	2499	NA
+practice_test	147	Response	1	980852	3351	1
+practice_test	148	Picture	stage1_outcome	980999	0	1	167	1	0	next	other	0
+practice_test	149	Picture	stage2B	981166	0	1	3166	1	0	next	false_alarm	342
+practice_test	149	Response	2	984287	3121	1
+practice_test	150	Picture	stage2_box	984332	0	1	4832	1	0	next	false_alarm	344
+practice_test	150	Response	1	989116	4784	1
+practice_test	151	Picture	stage2_up	989163	0	1	7664	1	0	next	false_alarm	346
+practice_test	151	Response	2	994415	5251	1
+practice_test	152	Picture	stage2_win	996827	0	1	10163	1	0	next	false_alarm	349
+practice_test	152	Pulse	99	1000000	3173	NA
+practice_test	152	Response	1	1006066	9238	1
+practice_test	153	Picture	stage1	1006991	0	1	2666	1	0	next	false_alarm	351
+practice_test	153	Response	1	1009481	2490	1
+practice_test	154	Picture	stage1_box	1009656	0	1	3166	1	0	next	false_alarm	353
+practice_test	154	Response	1	1012634	2978	1
+practice_test	155	Picture	stage1_outcome	1012822	0	1	167	1	0	next	other	0
+practice_test	156	Picture	stage2A	1012989	0	1	4332	1	0	next	false_alarm	356
+practice_test	156	Response	1	1017177	4188	1
+practice_test	157	Picture	stage2_box	1017320	0	1	3832	1	0	next	false_alarm	359
+practice_test	157	Pulse	99	1020000	2680	NA
+practice_test	157	Response	1	1020996	3676	1
+practice_test	158	Picture	stage2_up	1021152	0	1	7664	1	0	next	false_alarm	361
+practice_test	158	Response	1	1024657	3504	1
+practice_test	158	Response	1	1028169	7016	1
+practice_test	159	Picture	stage2_lose	1028817	0	1	10163	1	0	next	false_alarm	364
+practice_test	159	Response	1	1031592	2776	1
+practice_test	159	Response	1	1035405	6588	1
+practice_test	160	Picture	stage1	1038980	0	1	500	1	0	next	false_alarm	367
+practice_test	160	Response	1	1039296	316	1
+practice_test	161	Picture	stage1_box	1039480	0	1	3332	1	0	next	false_alarm	370
+practice_test	161	Pulse	99	1040000	520	NA
+practice_test	161	Response	1	1042761	3282	1
+practice_test	162	Picture	stage1_outcome	1042812	0	1	167	1	0	next	other	0
+practice_test	163	Picture	stage2B	1042978	0	1	3166	1	0	next	false_alarm	373
+practice_test	163	Response	1	1045952	2973	1
+practice_test	164	Picture	stage2_box	1046144	0	1	4332	1	0	next	false_alarm	375
+practice_test	164	Response	1	1050393	4250	1
+practice_test	165	Picture	stage2_up	1050476	0	1	7664	1	0	next	false_alarm	377
+practice_test	165	Response	1	1054344	3868	1
+practice_test	165	Response	1	1057547	7071	1
+practice_test	166	Picture	stage2_win	1058140	0	1	10163	1	0	next	false_alarm	381
+practice_test	166	Pulse	99	1060000	1860	NA
+practice_test	166	Response	1	1060541	2401	1
+practice_test	166	Response	1	1063681	5541	1
+practice_test	166	Response	1	1066879	8739	1
+practice_test	167	Picture	stage1	1068303	0	1	2666	1	0	next	false_alarm	385
+practice_test	167	Response	1	1070786	2483	1
+practice_test	168	Picture	stage1_box	1070969	0	1	2666	1	0	next	false_alarm	387
+practice_test	168	Response	1	1073541	2572	1
+practice_test	169	Picture	stage1_outcome	1073635	0	1	167	1	0	next	other	0
+practice_test	170	Picture	stage2A	1073801	0	1	2499	1	0	next	false_alarm	390
+practice_test	170	Response	1	1076249	2448	1
+practice_test	171	Picture	stage2_box	1076300	0	1	3332	1	0	next	false_alarm	392
+practice_test	171	Response	1	1079515	3215	1
+practice_test	172	Picture	stage2_up	1079633	0	1	7664	1	0	next	false_alarm	395
+practice_test	172	Pulse	99	1080000	367	NA
+practice_test	172	Response	1	1082457	2824	1
+practice_test	172	Response	1	1085594	5961	1
+practice_test	173	Picture	stage2_win	1087297	0	1	10163	1	0	next	false_alarm	398
+practice_test	173	Response	1	1088738	1442	1
+practice_test	173	Response	1	1091607	4311	1
+practice_test	173	Response	1	1095074	7778	1
+practice_test	174	Picture	stage1	1097460	0	1	666	1	0	next	false_alarm	402
+practice_test	174	Response	1	1098097	637	1
+practice_test	175	Picture	stage1_box	1098126	0	1	2999	1	0	next	false_alarm	405
+practice_test	175	Pulse	99	1100000	1874	NA
+practice_test	175	Response	1	1101006	2879	1
+practice_test	176	Picture	stage1_outcome	1101125	0	1	167	1	0	next	other	0
+practice_test	177	Picture	stage2A	1101292	0	1	2999	1	0	next	false_alarm	408
+practice_test	177	Response	1	1104212	2920	1
+practice_test	178	Picture	stage2_box	1104291	0	1	2999	1	0	next	false_alarm	410
+practice_test	178	Response	1	1107207	2916	1
+practice_test	179	Picture	stage2_up	1107290	0	1	7664	1	0	next	false_alarm	412
+practice_test	179	Response	1	1109967	2677	1
+practice_test	179	Response	1	1113031	5741	1
+practice_test	180	Picture	stage2_lose	1114954	0	1	10163	1	0	next	false_alarm	415
+practice_test	180	Response	1	1116020	1066	1
+practice_test	180	Response	1	1119438	4485	1
+practice_test	180	Pulse	99	1120000	5046	NA
+practice_test	180	Response	1	1122600	7646	1
+practice_test	181	Picture	stage1	1125117	0	1	333	1	0	next	false_alarm	420
+practice_test	181	Response	1	1125414	297	1
+practice_test	182	Picture	stage1_box	1125450	0	1	3999	1	0	next	false_alarm	422
+practice_test	182	Response	1	1129395	3945	1
+practice_test	183	Picture	stage1_outcome	1129449	0	1	167	1	0	next	other	0
+practice_test	184	Picture	stage2A	1129615	0	1	3332	1	0	next	false_alarm	425
+practice_test	184	Response	1	1132843	3228	1
+practice_test	185	Picture	stage2_box	1132948	0	1	4998	1	0	next	false_alarm	427
+practice_test	185	Response	1	1137917	4969	1
+practice_test	186	Picture	stage2_up	1137946	0	1	7664	1	0	next	false_alarm	430
+practice_test	186	Pulse	99	1140000	2054	NA
+practice_test	186	Response	1	1141058	3112	1
+practice_test	186	Response	1	1143687	5741	1
+practice_test	187	Picture	stage2_win	1145610	0	1	10163	1	0	next	false_alarm	433
+practice_test	187	Response	1	1148406	2796	1
+practice_test	187	Response	1	1153973	8363	1
+practice_test	188	Picture	stage1	1155773	0	1	2333	1	0	next	false_alarm	436
+practice_test	188	Response	1	1157933	2159	1
+practice_test	189	Picture	stage1_box	1158106	0	1	4832	1	0	next	false_alarm	439
+practice_test	189	Pulse	99	1160000	1894	NA
+practice_test	189	Response	1	1162837	4731	1
+practice_test	190	Picture	stage1_outcome	1162938	0	1	167	1	0	next	other	0
+practice_test	191	Picture	stage2A	1163104	0	1	3332	1	0	next	false_alarm	442
+practice_test	191	Response	2	1166342	3238	1
+practice_test	192	Picture	stage2_box	1166436	0	1	3332	1	0	next	false_alarm	444
+practice_test	192	Response	2	1169689	3252	1
+practice_test	193	Picture	stage2_up	1169769	0	1	7664	1	0	next	false_alarm	446
+practice_test	193	Response	1	1172713	2944	1
+practice_test	193	Response	1	1175791	6023	1
+practice_test	194	Picture	stage2_win	1177433	0	1	10163	1	0	next	false_alarm	449
+practice_test	194	Response	1	1179376	1943	1
+practice_test	194	Pulse	99	1180000	2567	NA
+practice_test	194	Response	1	1182932	5500	1
+practice_test	195	Picture	stage1	1187596	0	1	2333	1	0	next	false_alarm	453
+practice_test	195	Response	2	1189771	2175	1
+practice_test	196	Picture	stage1_box	1189928	0	1	2999	1	0	next	false_alarm	455
+practice_test	196	Response	2	1192778	2850	1
+practice_test	197	Picture	stage1_outcome	1192927	0	1	167	1	0	next	other	0
+practice_test	198	Picture	stage2B	1193094	0	1	3999	1	0	next	false_alarm	458
+practice_test	198	Response	1	1196932	3838	1
+practice_test	199	Picture	stage2_box	1197093	0	1	3332	1	0	next	false_alarm	461
+practice_test	199	Pulse	99	1200000	2907	NA
+practice_test	199	Response	1	1200351	3258	1
+practice_test	200	Picture	stage2_up	1200425	0	1	7664	1	0	next	false_alarm	463
+practice_test	200	Response	2	1204755	4331	1
+practice_test	200	Response	2	1207882	7457	1
+practice_test	201	Picture	stage2_win	1208089	0	1	10163	1	0	next	false_alarm	466
+practice_test	201	Response	2	1211472	3384	1
+practice_test	202	Picture	stage1	1218252	0	1	3166	1	0	next	false_alarm	469
+practice_test	202	Pulse	99	1220000	1748	NA
+practice_test	202	Response	1	1221374	3122	1
+practice_test	203	Picture	stage1_box	1221418	0	1	2666	1	0	next	false_alarm	471
+practice_test	203	Response	1	1224055	2637	1
+practice_test	204	Picture	stage1_outcome	1224083	0	1	167	1	0	next	other	0
+practice_test	205	Picture	stage2A	1224250	0	1	4165	1	0	next	false_alarm	474
+practice_test	205	Response	2	1228320	4070	1
+practice_test	206	Picture	stage2_box	1228415	0	1	3665	1	0	next	false_alarm	476
+practice_test	206	Response	2	1231982	3566	1
+practice_test	207	Picture	stage2_up	1232081	0	1	7664	1	0	next	other	0
+practice_test	208	Picture	stage2_win	1239745	0	1	10163	1	0	next	false_alarm	480
+practice_test	208	Pulse	99	1240000	255	NA
+practice_test	208	Response	1	1242368	2623	1
+practice_test	208	Response	1	1245039	5294	1
+practice_test	209	Picture	stage1	1249908	0	1	3332	1	0	next	false_alarm	483
+practice_test	209	Response	1	1253170	3262	1
+practice_test	210	Picture	stage1_box	1253240	0	1	2333	1	0	next	false_alarm	485
+practice_test	210	Response	1	1255426	2186	1
+practice_test	211	Picture	stage1_outcome	1255573	0	1	167	1	0	next	other	0
+practice_test	212	Picture	stage2A	1255739	0	1	3499	1	0	next	false_alarm	488
+practice_test	212	Response	2	1259075	3336	1
+practice_test	213	Picture	stage2_box	1259238	0	1	2666	1	0	next	false_alarm	491
+practice_test	213	Pulse	99	1260000	762	NA
+practice_test	213	Response	2	1261817	2579	1
+practice_test	214	Picture	stage2_up	1261904	0	1	7664	1	0	next	other	0
+practice_test	215	Picture	stage2_win	1269568	0	1	10163	1	0	next	false_alarm	494
+practice_test	215	Response	1	1279511	9943	1
+practice_test	216	Picture	stage1	1279731	0	1	2999	1	0	next	false_alarm	497
+practice_test	216	Pulse	99	1280000	269	NA
+practice_test	216	Response	1	1282544	2813	1
+practice_test	217	Picture	stage1_box	1282730	0	1	7664	1	0	next	other	0
+practice_test	218	Picture	stage1_outcome	1290394	0	1	167	1	0	next	other	0
+practice_test	219	Picture	stage2A	1290561	0	1	2999	1	0	next	false_alarm	501
+practice_test	219	Response	2	1293501	2940	1
+practice_test	220	Picture	stage2_box	1293560	0	1	2832	1	0	next	false_alarm	503
+practice_test	220	Response	2	1296355	2795	1
+practice_test	221	Picture	stage2_up	1296392	0	1	7664	1	0	next	false_alarm	506
+practice_test	221	Pulse	99	1300000	3608	NA
+practice_test	221	Response	1	1302282	5890	1
+practice_test	222	Picture	stage2_lose	1304056	0	1	10163	1	0	next	false_alarm	508
+practice_test	222	Response	1	1305551	1495	1
+practice_test	222	Response	1	1312511	8455	1
+practice_test	223	Response	1	1315824	1605	1
+practice_test	223	Pulse	99	1320000	5781	NA
+practice_test	223	Pulse	99	1340000	25781	NA
+practice_test	223	Response	88	1341981	27761	1

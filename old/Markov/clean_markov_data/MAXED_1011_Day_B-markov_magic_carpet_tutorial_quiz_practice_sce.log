@@ -1,0 +1,455 @@
+Scenario - 
+Logfile written - 10/27/2021 18:07:42
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+MAXED_1011_Day_B	0	Pulse	99	0	0	NA
+MAXED_1011_Day_B	1	Picture	instructions_1	333	0	1	125334	1	0	next	false_alarm	9
+MAXED_1011_Day_B	1	Pulse	99	20000	19667	NA
+MAXED_1011_Day_B	1	Pulse	99	40000	39667	NA
+MAXED_1011_Day_B	1	Pulse	99	60000	59667	NA
+MAXED_1011_Day_B	1	Pulse	99	80000	79667	NA
+MAXED_1011_Day_B	1	Pulse	99	100000	99667	NA
+MAXED_1011_Day_B	1	Pulse	99	120000	119667	NA
+MAXED_1011_Day_B	1	Response	88	125434	125101	1
+MAXED_1011_Day_B	2	Picture	instructions_2	125667	0	1	18833	1	0	next	false_alarm	12
+MAXED_1011_Day_B	2	Pulse	99	140000	14333	NA
+MAXED_1011_Day_B	2	Response	88	144314	18648	1
+MAXED_1011_Day_B	3	Picture	instructions_3	144500	0	1	9667	1	0	next	false_alarm	14
+MAXED_1011_Day_B	3	Response	88	153914	9414	1
+MAXED_1011_Day_B	4	Picture	instructions_4	154167	0	1	6333	1	0	next	false_alarm	17
+MAXED_1011_Day_B	4	Pulse	99	160000	5833	NA
+MAXED_1011_Day_B	4	Response	88	160314	6148	1
+MAXED_1011_Day_B	5	Picture	instructions_5	160500	0	1	3833	1	0	next	false_alarm	19
+MAXED_1011_Day_B	5	Response	88	164154	3654	1
+MAXED_1011_Day_B	6	Picture	instructions_6	164333	0	1	6500	1	0	next	false_alarm	21
+MAXED_1011_Day_B	6	Response	88	170554	6221	1
+MAXED_1011_Day_B	7	Picture	instructions_7	170833	0	1	20333	1	0	next	false_alarm	24
+MAXED_1011_Day_B	7	Pulse	99	180000	9167	NA
+MAXED_1011_Day_B	7	Response	88	191034	20201	1
+MAXED_1011_Day_B	8	Picture	instructions_8	191167	0	1	55500	1	0	next	false_alarm	29
+MAXED_1011_Day_B	8	Pulse	99	200000	8833	NA
+MAXED_1011_Day_B	8	Pulse	99	220000	28833	NA
+MAXED_1011_Day_B	8	Pulse	99	240000	48833	NA
+MAXED_1011_Day_B	8	Response	88	246554	55388	1
+MAXED_1011_Day_B	9	Picture	instructions_9	246667	0	1	14500	1	0	next	false_alarm	32
+MAXED_1011_Day_B	9	Pulse	99	260000	13333	NA
+MAXED_1011_Day_B	9	Response	88	261035	14368	1
+MAXED_1011_Day_B	10	Picture	instructions_10	261167	0	1	19000	1	0	next	false_alarm	34
+MAXED_1011_Day_B	10	Response	88	279994	18828	1
+MAXED_1011_Day_B	10	Pulse	99	280000	18833	NA
+MAXED_1011_Day_B	11	Picture	instructions_11	280167	0	1	28500	1	0	next	false_alarm	38
+MAXED_1011_Day_B	11	Pulse	99	300000	19833	NA
+MAXED_1011_Day_B	11	Response	88	308554	28388	1
+MAXED_1011_Day_B	12	Picture	instructions_12	308667	0	1	11000	1	0	next	false_alarm	40
+MAXED_1011_Day_B	12	Response	88	319515	10848	1
+MAXED_1011_Day_B	13	Picture	instructions_13	319667	0	1	11167	1	0	next	false_alarm	43
+MAXED_1011_Day_B	13	Pulse	99	320000	333	NA
+MAXED_1011_Day_B	13	Response	88	330715	11048	1
+MAXED_1011_Day_B	14	Picture	instructions_14	330834	0	1	5000	1	0	next	false_alarm	45
+MAXED_1011_Day_B	14	Response	88	335594	4760	1
+MAXED_1011_Day_B	15	Picture	instructions_15	335834	0	1	16833	1	0	next	false_alarm	48
+MAXED_1011_Day_B	15	Pulse	99	340000	4166	NA
+MAXED_1011_Day_B	15	Response	88	352555	16721	1
+MAXED_1011_Day_B	16	Picture	instructions_16	352667	0	1	4167	1	0	next	false_alarm	50
+MAXED_1011_Day_B	16	Response	88	356554	3887	1
+MAXED_1011_Day_B	17	Picture	instructions_17	356834	0	1	17167	1	0	next	false_alarm	53
+MAXED_1011_Day_B	17	Pulse	99	360000	3166	NA
+MAXED_1011_Day_B	17	Response	88	373834	17001	1
+MAXED_1011_Day_B	18	Picture	instructions_18	374000	0	1	9333	1	0	next	false_alarm	56
+MAXED_1011_Day_B	18	Pulse	99	380000	6000	NA
+MAXED_1011_Day_B	18	Response	88	383195	9194	1
+MAXED_1011_Day_B	19	Picture	instructions_19	383334	0	1	5000	1	0	next	false_alarm	58
+MAXED_1011_Day_B	19	Response	88	388074	4740	1
+MAXED_1011_Day_B	20	Picture	instructions_20	388334	0	1	68000	1	0	next	false_alarm	63
+MAXED_1011_Day_B	20	Pulse	99	400000	11666	NA
+MAXED_1011_Day_B	20	Pulse	99	420000	31666	NA
+MAXED_1011_Day_B	20	Pulse	99	440000	51666	NA
+MAXED_1011_Day_B	20	Response	88	456235	67901	1
+MAXED_1011_Day_B	21	Picture	instructions_21	456334	0	1	55000	1	0	next	false_alarm	68
+MAXED_1011_Day_B	21	Pulse	99	460000	3666	NA
+MAXED_1011_Day_B	21	Pulse	99	480000	23666	NA
+MAXED_1011_Day_B	21	Pulse	99	500000	43666	NA
+MAXED_1011_Day_B	21	Response	88	511115	54781	1
+MAXED_1011_Day_B	22	Picture	instructions_22	511334	0	1	6000	1	0	next	false_alarm	70
+MAXED_1011_Day_B	22	Response	88	517274	5940	1
+MAXED_1011_Day_B	23	Picture	instructions_23	517334	0	1	8500	1	0	next	false_alarm	73
+MAXED_1011_Day_B	23	Pulse	99	520000	2666	NA
+MAXED_1011_Day_B	23	Response	88	525594	8260	1
+MAXED_1011_Day_B	24	Picture	instructions_24	525834	0	1	11500	1	0	next	false_alarm	75
+MAXED_1011_Day_B	24	Response	88	537115	11281	1
+MAXED_1011_Day_B	25	Picture	instructions_25	537334	0	1	15333	1	0	next	false_alarm	78
+MAXED_1011_Day_B	25	Pulse	99	540000	2666	NA
+MAXED_1011_Day_B	25	Response	88	552395	15061	1
+MAXED_1011_Day_B	26	Picture	instructions_26	552667	0	1	9000	1	0	next	false_alarm	81
+MAXED_1011_Day_B	26	Pulse	99	560000	7333	NA
+MAXED_1011_Day_B	26	Response	88	561355	8687	1
+MAXED_1011_Day_B	27	Picture	instructions_27	561667	0	1	7833	1	0	next	false_alarm	83
+MAXED_1011_Day_B	27	Response	88	569355	7687	1
+MAXED_1011_Day_B	28	Picture	instructions_28	569501	0	1	4500	1	0	next	false_alarm	85
+MAXED_1011_Day_B	28	Response	88	573834	4333	1
+MAXED_1011_Day_B	29	Picture	instructions_29	574001	0	1	15500	1	0	next	false_alarm	88
+MAXED_1011_Day_B	29	Pulse	99	580000	5999	NA
+MAXED_1011_Day_B	29	Response	88	589355	15354	1
+MAXED_1011_Day_B	30	Picture	instructions_30	589501	0	1	66333	1	0	next	false_alarm	93
+MAXED_1011_Day_B	30	Pulse	99	600000	10499	NA
+MAXED_1011_Day_B	30	Pulse	99	620000	30499	NA
+MAXED_1011_Day_B	30	Pulse	99	640000	50499	NA
+MAXED_1011_Day_B	30	Response	88	655754	66254	1
+MAXED_1011_Day_B	31	Picture	instructions_31	655834	0	1	48500	1	0	next	false_alarm	98
+MAXED_1011_Day_B	31	Pulse	99	660000	4166	NA
+MAXED_1011_Day_B	31	Pulse	99	680000	24166	NA
+MAXED_1011_Day_B	31	Pulse	99	700000	44166	NA
+MAXED_1011_Day_B	31	Response	88	704155	48321	1
+MAXED_1011_Day_B	32	Picture	instructions_32	704334	0	1	60167	1	0	next	false_alarm	103
+MAXED_1011_Day_B	32	Pulse	99	720000	15666	NA
+MAXED_1011_Day_B	32	Pulse	99	740000	35666	NA
+MAXED_1011_Day_B	32	Pulse	99	760000	55666	NA
+MAXED_1011_Day_B	32	Response	88	764394	60060	1
+MAXED_1011_Day_B	33	Picture	instructions_33	764501	0	1	47333	1	0	next	false_alarm	107
+MAXED_1011_Day_B	33	Pulse	99	780000	15499	NA
+MAXED_1011_Day_B	33	Pulse	99	800000	35499	NA
+MAXED_1011_Day_B	33	Response	88	811675	47174	1
+MAXED_1011_Day_B	34	Picture	instructions_34	811834	0	1	99500	1	0	next	false_alarm	114
+MAXED_1011_Day_B	34	Pulse	99	820000	8166	NA
+MAXED_1011_Day_B	34	Pulse	99	840000	28166	NA
+MAXED_1011_Day_B	34	Pulse	99	860000	48166	NA
+MAXED_1011_Day_B	34	Pulse	99	880000	68166	NA
+MAXED_1011_Day_B	34	Pulse	99	900000	88166	NA
+MAXED_1011_Day_B	34	Response	88	911194	99360	1
+MAXED_1011_Day_B	35	Picture	instructions_35	911334	0	1	113000	1	0	next	false_alarm	122
+MAXED_1011_Day_B	35	Pulse	99	920000	8666	NA
+MAXED_1011_Day_B	35	Pulse	99	940000	28666	NA
+MAXED_1011_Day_B	35	Pulse	99	960000	48666	NA
+MAXED_1011_Day_B	35	Pulse	99	980000	68666	NA
+MAXED_1011_Day_B	35	Pulse	99	1000000	88666	NA
+MAXED_1011_Day_B	35	Pulse	99	1020000	108666	NA
+MAXED_1011_Day_B	35	Response	88	1024155	112820	1
+MAXED_1011_Day_B	36	Picture	instructions_36	1024335	0	1	83667	1	0	next	false_alarm	128
+MAXED_1011_Day_B	36	Pulse	99	1040000	15665	NA
+MAXED_1011_Day_B	36	Pulse	99	1060000	35665	NA
+MAXED_1011_Day_B	36	Pulse	99	1080000	55665	NA
+MAXED_1011_Day_B	36	Pulse	99	1100000	75665	NA
+MAXED_1011_Day_B	36	Response	88	1107915	83580	1
+MAXED_1011_Day_B	37	Picture	instructions_37	1108001	0	1	28333	1	0	next	false_alarm	131
+MAXED_1011_Day_B	37	Pulse	99	1120000	11999	NA
+MAXED_1011_Day_B	37	Response	88	1136155	28153	1
+MAXED_1011_Day_B	38	Picture	instructions_38	1136335	0	1	30667	1	0	next	false_alarm	135
+MAXED_1011_Day_B	38	Pulse	99	1140000	3665	NA
+MAXED_1011_Day_B	38	Pulse	99	1160000	23665	NA
+MAXED_1011_Day_B	38	Response	88	1166795	30460	1
+MAXED_1011_Day_B	39	Picture	instructions_39	1167002	0	1	14000	1	0	next	false_alarm	138
+MAXED_1011_Day_B	39	Pulse	99	1180000	12999	NA
+MAXED_1011_Day_B	39	Response	88	1180795	13793	1
+MAXED_1011_Day_B	40	Picture	instructions_40	1181002	0	1	11167	1	0	next	false_alarm	140
+MAXED_1011_Day_B	40	Response	88	1192075	11073	1
+MAXED_1011_Day_B	41	Picture	instructions_41	1192168	0	1	12000	1	0	next	false_alarm	143
+MAXED_1011_Day_B	41	Pulse	99	1200000	7832	NA
+MAXED_1011_Day_B	41	Response	88	1203995	11826	1
+MAXED_1011_Day_B	42	Picture	instructions_42	1204168	0	1	40000	1	0	next	false_alarm	147
+MAXED_1011_Day_B	42	Pulse	99	1220000	15832	NA
+MAXED_1011_Day_B	42	Pulse	99	1240000	35832	NA
+MAXED_1011_Day_B	42	Response	88	1244075	39907	1
+MAXED_1011_Day_B	43	Picture	instructions_43	1244168	0	1	23667	1	0	next	false_alarm	150
+MAXED_1011_Day_B	43	Pulse	99	1260000	15832	NA
+MAXED_1011_Day_B	43	Response	88	1267755	23587	1
+MAXED_1011_Day_B	44	Picture	instructions_44	1267835	0	1	14833	1	0	next	false_alarm	153
+MAXED_1011_Day_B	44	Pulse	99	1280000	12165	NA
+MAXED_1011_Day_B	44	Response	88	1282554	14719	1
+MAXED_1011_Day_B	45	Picture	instructions_45	1282668	0	1	27333	1	0	next	false_alarm	156
+MAXED_1011_Day_B	45	Pulse	99	1300000	17332	NA
+MAXED_1011_Day_B	45	Response	88	1309915	27246	1
+MAXED_1011_Day_B	46	Picture	instructions_46	1310002	0	1	47833	1	0	next	false_alarm	160
+MAXED_1011_Day_B	46	Pulse	99	1320000	9998	NA
+MAXED_1011_Day_B	46	Pulse	99	1340000	29998	NA
+MAXED_1011_Day_B	46	Response	88	1357755	47753	1
+MAXED_1011_Day_B	47	Picture	fixation	1357835	0	1	5167	1	0	next	other	0
+MAXED_1011_Day_B	47	Pulse	99	1360000	2165	NA
+MAXED_1011_Day_B	48	Picture	stage1	1363002	0	1	17833	1	0	next	false_alarm	165
+MAXED_1011_Day_B	48	Pulse	99	1380000	16998	NA
+MAXED_1011_Day_B	48	Response	1	1380635	17633	1
+MAXED_1011_Day_B	49	Picture	stage1_box	1380835	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	50	Picture	stage1_outcome	1388502	0	1	333	1	0	next	other	0
+MAXED_1011_Day_B	51	Picture	stage2A	1388835	0	1	9333	1	0	next	false_alarm	169
+MAXED_1011_Day_B	51	Response	1	1398075	9240	1
+MAXED_1011_Day_B	52	Picture	stage2_box	1398169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	52	Pulse	99	1400000	1831	NA
+MAXED_1011_Day_B	53	Picture	stage2_up	1405835	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	54	Picture	stage2_win	1413502	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	54	Pulse	99	1420000	6498	NA
+MAXED_1011_Day_B	55	Picture	stage1	1423669	0	1	12167	1	0	next	false_alarm	176
+MAXED_1011_Day_B	55	Response	1	1435755	12086	1
+MAXED_1011_Day_B	56	Picture	stage1_box	1435835	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	56	Pulse	99	1440000	4165	NA
+MAXED_1011_Day_B	57	Picture	stage1_outcome	1443502	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	58	Picture	stage2A	1443669	0	1	4833	1	0	next	false_alarm	181
+MAXED_1011_Day_B	58	Response	2	1448315	4646	1
+MAXED_1011_Day_B	59	Picture	stage2_box	1448502	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	60	Picture	stage2_up	1456169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	60	Pulse	99	1460000	3831	NA
+MAXED_1011_Day_B	61	Picture	stage2_lose	1463835	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	62	Picture	stage1	1474002	0	1	5333	1	0	next	false_alarm	187
+MAXED_1011_Day_B	62	Response	1	1479275	5273	1
+MAXED_1011_Day_B	63	Picture	stage1_box	1479335	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	63	Pulse	99	1480000	665	NA
+MAXED_1011_Day_B	64	Picture	stage1_outcome	1487002	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	65	Picture	stage2A	1487169	0	1	7667	1	0	next	false_alarm	192
+MAXED_1011_Day_B	65	Response	1	1494715	7546	1
+MAXED_1011_Day_B	66	Picture	stage2_box	1494835	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	66	Pulse	99	1500000	5165	NA
+MAXED_1011_Day_B	67	Picture	stage2_up	1502502	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	68	Picture	stage2_lose	1510169	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	68	Pulse	99	1520000	9831	NA
+MAXED_1011_Day_B	69	Picture	stage1	1520335	0	1	3167	1	0	next	false_alarm	199
+MAXED_1011_Day_B	69	Response	1	1523435	3099	1
+MAXED_1011_Day_B	70	Picture	stage1_box	1523502	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	71	Picture	stage1_outcome	1531169	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	72	Picture	stage2A	1531335	0	1	7833	1	0	next	false_alarm	203
+MAXED_1011_Day_B	72	Response	2	1539035	7699	1
+MAXED_1011_Day_B	73	Picture	stage2_box	1539169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	73	Pulse	99	1540000	831	NA
+MAXED_1011_Day_B	74	Picture	stage2_up	1546835	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	75	Picture	stage2_win	1554502	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	75	Pulse	99	1560000	5498	NA
+MAXED_1011_Day_B	76	Picture	stage1	1564669	0	1	3833	1	0	next	false_alarm	210
+MAXED_1011_Day_B	76	Response	2	1568315	3646	1
+MAXED_1011_Day_B	77	Picture	stage1_box	1568502	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	78	Picture	stage1_outcome	1576169	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	79	Picture	stage2B	1576335	0	1	6167	1	0	next	false_alarm	215
+MAXED_1011_Day_B	79	Pulse	99	1580000	3665	NA
+MAXED_1011_Day_B	79	Response	2	1582315	5979	1
+MAXED_1011_Day_B	80	Picture	stage2_box	1582502	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	81	Picture	stage2_up	1590169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	82	Picture	stage2_lose	1597836	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	82	Pulse	99	1600000	2164	NA
+MAXED_1011_Day_B	83	Picture	stage1	1608002	0	1	3500	1	0	next	false_alarm	221
+MAXED_1011_Day_B	83	Response	2	1611435	3433	1
+MAXED_1011_Day_B	84	Picture	stage1_box	1611502	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	85	Picture	stage1_outcome	1619169	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	86	Picture	stage2B	1619336	0	1	5667	1	0	next	false_alarm	226
+MAXED_1011_Day_B	86	Pulse	99	1620000	664	NA
+MAXED_1011_Day_B	86	Response	1	1624874	5539	1
+MAXED_1011_Day_B	87	Picture	stage2_box	1625002	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	88	Picture	stage2_up	1632669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	88	Pulse	99	1640000	7331	NA
+MAXED_1011_Day_B	89	Picture	stage2_win	1640336	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	90	Picture	stage1	1650502	0	1	4667	1	0	next	false_alarm	232
+MAXED_1011_Day_B	90	Response	2	1655115	4613	1
+MAXED_1011_Day_B	91	Picture	stage1_box	1655169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	91	Pulse	99	1660000	4831	NA
+MAXED_1011_Day_B	92	Picture	stage1_outcome	1662836	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	93	Picture	stage2A	1663002	0	1	11667	1	0	next	false_alarm	237
+MAXED_1011_Day_B	93	Response	1	1674475	11472	1
+MAXED_1011_Day_B	94	Picture	stage2_box	1674669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	94	Pulse	99	1680000	5331	NA
+MAXED_1011_Day_B	95	Picture	stage2_up	1682336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	96	Picture	stage2_lose	1690002	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	96	Pulse	99	1700000	9998	NA
+MAXED_1011_Day_B	97	Picture	stage1	1700169	0	1	5500	1	0	next	false_alarm	244
+MAXED_1011_Day_B	97	Response	1	1705595	5426	1
+MAXED_1011_Day_B	98	Picture	stage1_box	1705669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	99	Picture	stage1_outcome	1713336	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	100	Picture	stage2A	1713502	0	1	5667	1	0	next	false_alarm	248
+MAXED_1011_Day_B	100	Response	2	1719035	5532	1
+MAXED_1011_Day_B	101	Picture	stage2_box	1719169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	101	Pulse	99	1720000	831	NA
+MAXED_1011_Day_B	102	Picture	stage2_up	1726836	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	103	Picture	stage2_win	1734502	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	103	Pulse	99	1740000	5498	NA
+MAXED_1011_Day_B	104	Picture	stage1	1744669	0	1	3333	1	0	next	false_alarm	255
+MAXED_1011_Day_B	104	Response	1	1747915	3246	1
+MAXED_1011_Day_B	105	Picture	stage1_box	1748002	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	106	Picture	stage1_outcome	1755669	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	107	Picture	stage2B	1755836	0	1	13833	1	0	next	false_alarm	260
+MAXED_1011_Day_B	107	Pulse	99	1760000	4164	NA
+MAXED_1011_Day_B	107	Response	2	1769515	13679	1
+MAXED_1011_Day_B	108	Picture	stage2_box	1769669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	109	Picture	stage2_up	1777336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	109	Pulse	99	1780000	2664	NA
+MAXED_1011_Day_B	110	Picture	stage2_lose	1785002	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	111	Picture	stage1	1795169	0	1	4000	1	0	next	false_alarm	266
+MAXED_1011_Day_B	111	Response	1	1799115	3946	1
+MAXED_1011_Day_B	112	Picture	stage1_box	1799169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	112	Pulse	99	1800000	831	NA
+MAXED_1011_Day_B	113	Picture	stage1_outcome	1806836	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	114	Picture	stage2A	1807002	0	1	14333	1	0	next	false_alarm	272
+MAXED_1011_Day_B	114	Pulse	99	1820000	12998	NA
+MAXED_1011_Day_B	114	Response	2	1821195	14192	1
+MAXED_1011_Day_B	115	Picture	stage2_box	1821336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	116	Picture	stage2_up	1829003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	117	Picture	stage2_win	1836669	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	117	Pulse	99	1840000	3331	NA
+MAXED_1011_Day_B	118	Picture	stage1	1846836	0	1	7500	1	0	next	false_alarm	278
+MAXED_1011_Day_B	118	Response	2	1854235	7399	1
+MAXED_1011_Day_B	119	Picture	stage1_box	1854336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	119	Pulse	99	1860000	5664	NA
+MAXED_1011_Day_B	120	Picture	stage1_outcome	1862003	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	121	Picture	stage2A	1862169	0	1	9667	1	0	next	false_alarm	283
+MAXED_1011_Day_B	121	Response	2	1871755	9586	1
+MAXED_1011_Day_B	122	Picture	stage2_box	1871836	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	123	Picture	stage2_up	1879503	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	123	Pulse	99	1880000	497	NA
+MAXED_1011_Day_B	124	Picture	stage2_lose	1887169	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	125	Picture	stage1	1897336	0	1	2667	1	0	next	false_alarm	289
+MAXED_1011_Day_B	125	Response	1	1899835	2499	1
+MAXED_1011_Day_B	125	Pulse	99	1900000	2664	NA
+MAXED_1011_Day_B	126	Picture	stage1_box	1900003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	127	Picture	stage1_outcome	1907669	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	128	Picture	stage2A	1907836	0	1	8333	1	0	next	false_alarm	294
+MAXED_1011_Day_B	128	Response	2	1916075	8239	1
+MAXED_1011_Day_B	129	Picture	stage2_box	1916169	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	129	Pulse	99	1920000	3831	NA
+MAXED_1011_Day_B	130	Picture	stage2_up	1923836	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	131	Picture	stage2_win	1931503	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	131	Pulse	99	1940000	8497	NA
+MAXED_1011_Day_B	132	Picture	stage1	1941669	0	1	3667	1	0	next	false_alarm	301
+MAXED_1011_Day_B	132	Response	1	1945195	3525	1
+MAXED_1011_Day_B	133	Picture	stage1_box	1945336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	134	Picture	stage1_outcome	1953003	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	135	Picture	stage2A	1953169	0	1	4833	1	0	next	false_alarm	305
+MAXED_1011_Day_B	135	Response	2	1957835	4665	1
+MAXED_1011_Day_B	136	Picture	stage2_box	1958003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	136	Pulse	99	1960000	1997	NA
+MAXED_1011_Day_B	137	Picture	stage2_up	1965669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	138	Picture	stage2_win	1973336	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	138	Pulse	99	1980000	6664	NA
+MAXED_1011_Day_B	139	Picture	stage1	1983503	0	1	3500	1	0	next	false_alarm	312
+MAXED_1011_Day_B	139	Response	1	1986875	3372	1
+MAXED_1011_Day_B	140	Picture	stage1_box	1987003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	141	Picture	stage1_outcome	1994669	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	142	Picture	stage2A	1994836	0	1	3833	1	0	next	false_alarm	316
+MAXED_1011_Day_B	142	Response	2	1998555	3719	1
+MAXED_1011_Day_B	143	Picture	stage2_box	1998669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	143	Pulse	99	2000000	1331	NA
+MAXED_1011_Day_B	144	Picture	stage2_up	2006336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	145	Picture	stage2_lose	2014003	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	145	Pulse	99	2020000	5997	NA
+MAXED_1011_Day_B	146	Picture	stage1	2024169	0	1	2500	1	0	next	false_alarm	323
+MAXED_1011_Day_B	146	Response	2	2026635	2465	1
+MAXED_1011_Day_B	147	Picture	stage1_box	2026669	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	148	Picture	stage1_outcome	2034336	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	149	Picture	stage2A	2034503	0	1	8833	1	0	next	false_alarm	328
+MAXED_1011_Day_B	149	Pulse	99	2040000	5497	NA
+MAXED_1011_Day_B	149	Response	2	2043195	8692	1
+MAXED_1011_Day_B	150	Picture	stage2_box	2043336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	151	Picture	stage2_up	2051003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	152	Picture	stage2_win	2058670	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	152	Pulse	99	2060000	1330	NA
+MAXED_1011_Day_B	153	Picture	stage1	2068836	0	1	2833	1	0	next	false_alarm	334
+MAXED_1011_Day_B	153	Response	2	2071515	2678	1
+MAXED_1011_Day_B	154	Picture	stage1_box	2071670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	155	Picture	stage1_outcome	2079336	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	156	Picture	stage2B	2079503	0	1	10167	1	0	next	false_alarm	339
+MAXED_1011_Day_B	156	Pulse	99	2080000	497	NA
+MAXED_1011_Day_B	156	Response	1	2089515	10012	1
+MAXED_1011_Day_B	157	Picture	stage2_box	2089670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	158	Picture	stage2_up	2097336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	158	Pulse	99	2100000	2664	NA
+MAXED_1011_Day_B	159	Picture	stage2_lose	2105003	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	160	Picture	stage1	2115170	0	1	2833	1	0	next	false_alarm	345
+MAXED_1011_Day_B	160	Response	2	2117835	2665	1
+MAXED_1011_Day_B	161	Picture	stage1_box	2118003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	161	Pulse	99	2120000	1997	NA
+MAXED_1011_Day_B	162	Picture	stage1_outcome	2125670	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	163	Picture	stage2A	2125836	0	1	7500	1	0	next	false_alarm	350
+MAXED_1011_Day_B	163	Response	2	2133195	7359	1
+MAXED_1011_Day_B	164	Picture	stage2_box	2133336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	164	Pulse	99	2140000	6664	NA
+MAXED_1011_Day_B	165	Picture	stage2_up	2141003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	166	Picture	stage2_lose	2148670	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	167	Picture	stage1	2158836	0	1	2167	1	0	next	false_alarm	357
+MAXED_1011_Day_B	167	Pulse	99	2160000	1164	NA
+MAXED_1011_Day_B	167	Response	1	2160955	2119	1
+MAXED_1011_Day_B	168	Picture	stage1_box	2161003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	169	Picture	stage1_outcome	2168670	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	170	Picture	stage2A	2168836	0	1	6000	1	0	next	false_alarm	361
+MAXED_1011_Day_B	170	Response	2	2174795	5959	1
+MAXED_1011_Day_B	171	Picture	stage2_box	2174836	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	171	Pulse	99	2180000	5164	NA
+MAXED_1011_Day_B	172	Picture	stage2_up	2182503	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	173	Picture	stage2_lose	2190170	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	173	Pulse	99	2200000	9830	NA
+MAXED_1011_Day_B	174	Picture	stage1	2200336	0	1	2833	1	0	next	false_alarm	368
+MAXED_1011_Day_B	174	Response	1	2203115	2779	1
+MAXED_1011_Day_B	175	Picture	stage1_box	2203170	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	176	Picture	stage1_outcome	2210836	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	177	Picture	stage2A	2211003	0	1	5667	1	0	next	false_alarm	372
+MAXED_1011_Day_B	177	Response	1	2216475	5472	1
+MAXED_1011_Day_B	178	Picture	stage2_box	2216670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	178	Pulse	99	2220000	3330	NA
+MAXED_1011_Day_B	179	Picture	stage2_up	2224336	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	180	Picture	stage2_lose	2232003	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	180	Pulse	99	2240000	7997	NA
+MAXED_1011_Day_B	181	Picture	stage1	2242170	0	1	3500	1	0	next	false_alarm	379
+MAXED_1011_Day_B	181	Response	2	2245515	3345	1
+MAXED_1011_Day_B	182	Picture	stage1_box	2245670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	183	Picture	stage1_outcome	2253337	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	184	Picture	stage2A	2253503	0	1	6167	1	0	next	false_alarm	383
+MAXED_1011_Day_B	184	Response	2	2259596	6093	1
+MAXED_1011_Day_B	185	Picture	stage2_box	2259670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	185	Pulse	99	2260000	330	NA
+MAXED_1011_Day_B	186	Picture	stage2_up	2267337	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	187	Picture	stage2_lose	2275003	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	187	Pulse	99	2280000	4997	NA
+MAXED_1011_Day_B	188	Picture	stage1	2285170	0	1	7333	1	0	next	false_alarm	390
+MAXED_1011_Day_B	188	Response	2	2292395	7225	1
+MAXED_1011_Day_B	189	Picture	stage1_box	2292503	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	189	Pulse	99	2300000	7497	NA
+MAXED_1011_Day_B	190	Picture	stage1_outcome	2300170	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	191	Picture	stage2A	2300337	0	1	4667	1	0	next	false_alarm	395
+MAXED_1011_Day_B	191	Response	1	2304875	4538	1
+MAXED_1011_Day_B	192	Picture	stage2_box	2305003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	193	Picture	stage2_up	2312670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	193	Pulse	99	2320000	7330	NA
+MAXED_1011_Day_B	194	Picture	stage2_lose	2320337	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	195	Picture	stage1	2330503	0	1	2500	1	0	next	false_alarm	401
+MAXED_1011_Day_B	195	Response	1	2332955	2452	1
+MAXED_1011_Day_B	196	Picture	stage1_box	2333003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	196	Pulse	99	2340000	6997	NA
+MAXED_1011_Day_B	197	Picture	stage1_outcome	2340670	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	198	Picture	stage2B	2340837	0	1	12333	1	0	next	false_alarm	406
+MAXED_1011_Day_B	198	Response	1	2353115	12278	1
+MAXED_1011_Day_B	199	Picture	stage2_box	2353170	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	199	Pulse	99	2360000	6830	NA
+MAXED_1011_Day_B	200	Picture	stage2_up	2360837	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	201	Picture	stage2_lose	2368503	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	202	Picture	stage1	2378670	0	1	3167	1	0	next	false_alarm	413
+MAXED_1011_Day_B	202	Pulse	99	2380000	1330	NA
+MAXED_1011_Day_B	202	Response	1	2381675	3005	1
+MAXED_1011_Day_B	203	Picture	stage1_box	2381837	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	204	Picture	stage1_outcome	2389503	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	205	Picture	stage2B	2389670	0	1	3667	1	0	next	false_alarm	417
+MAXED_1011_Day_B	205	Response	2	2393195	3525	1
+MAXED_1011_Day_B	206	Picture	stage2_box	2393337	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	206	Pulse	99	2400000	6663	NA
+MAXED_1011_Day_B	207	Picture	stage2_up	2401003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	208	Picture	stage2_lose	2408670	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	209	Picture	stage1	2418837	0	1	4167	1	0	next	false_alarm	424
+MAXED_1011_Day_B	209	Pulse	99	2420000	1163	NA
+MAXED_1011_Day_B	209	Response	1	2422875	4038	1
+MAXED_1011_Day_B	210	Picture	stage1_box	2423003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	211	Picture	stage1_outcome	2430670	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	212	Picture	stage2B	2430837	0	1	2333	1	0	next	false_alarm	428
+MAXED_1011_Day_B	212	Response	2	2433035	2198	1
+MAXED_1011_Day_B	213	Picture	stage2_box	2433170	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	213	Pulse	99	2440000	6830	NA
+MAXED_1011_Day_B	214	Picture	stage2_up	2440837	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	215	Picture	stage2_lose	2448503	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	216	Picture	stage1	2458670	0	1	2667	1	0	next	false_alarm	435
+MAXED_1011_Day_B	216	Pulse	99	2460000	1330	NA
+MAXED_1011_Day_B	216	Response	1	2461275	2605	1
+MAXED_1011_Day_B	217	Picture	stage1_box	2461337	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	218	Picture	stage1_outcome	2469003	0	1	167	1	0	next	other	0
+MAXED_1011_Day_B	219	Picture	stage2A	2469170	0	1	8833	1	0	next	false_alarm	439
+MAXED_1011_Day_B	219	Response	2	2477915	8745	1
+MAXED_1011_Day_B	220	Picture	stage2_box	2478003	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	220	Pulse	99	2480000	1997	NA
+MAXED_1011_Day_B	221	Picture	stage2_up	2485670	0	1	7667	1	0	next	other	0
+MAXED_1011_Day_B	222	Picture	stage2_win	2493337	0	1	10167	1	0	next	other	0
+MAXED_1011_Day_B	222	Pulse	99	2500000	6663	NA
+MAXED_1011_Day_B	223	Response	1	2505835	2332	1
+MAXED_1011_Day_B	223	Pulse	99	2520000	16496	NA
+MAXED_1011_Day_B	223	Pulse	99	2540000	36496	NA
+MAXED_1011_Day_B	223	Pulse	99	2560000	56496	NA
+MAXED_1011_Day_B	223	Pulse	99	2580000	76496	NA
+MAXED_1011_Day_B	223	Response	88	2594955	91451	1

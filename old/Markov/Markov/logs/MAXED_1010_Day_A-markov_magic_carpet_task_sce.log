@@ -1,0 +1,2343 @@
+Scenario - 
+Logfile written - 10/05/2021 18:25:47
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+MAXED_1010	0	Pulse	99	0	0	NA
+MAXED_1010	1	Picture	instructions_1	166	0	1	17167	1	0	next	false_alarm	3
+MAXED_1010	1	Response	88	17168	17002	1
+MAXED_1010	2	Picture	instructions_2	17333	0	1	318334	1	0	next	false_alarm	21
+MAXED_1010	2	Pulse	99	20000	2667	NA
+MAXED_1010	2	Pulse	99	40000	22667	NA
+MAXED_1010	2	Pulse	99	60000	42667	NA
+MAXED_1010	2	Pulse	99	80000	62667	NA
+MAXED_1010	2	Pulse	99	100000	82667	NA
+MAXED_1010	2	Pulse	99	120000	102667	NA
+MAXED_1010	2	Pulse	99	140000	122667	NA
+MAXED_1010	2	Pulse	99	160000	142667	NA
+MAXED_1010	2	Pulse	99	180000	162667	NA
+MAXED_1010	2	Pulse	99	200000	182667	NA
+MAXED_1010	2	Pulse	99	220000	202667	NA
+MAXED_1010	2	Pulse	99	240000	222667	NA
+MAXED_1010	2	Pulse	99	260000	242667	NA
+MAXED_1010	2	Pulse	99	280000	262667	NA
+MAXED_1010	2	Pulse	99	300000	282667	NA
+MAXED_1010	2	Pulse	99	320000	302667	NA
+MAXED_1010	2	Response	88	335568	318235	1
+MAXED_1010	3	Picture	instructions_3	335667	0	1	114334	1	0	next	false_alarm	29
+MAXED_1010	3	Pulse	99	340000	4333	NA
+MAXED_1010	3	Pulse	99	360000	24333	NA
+MAXED_1010	3	Pulse	99	380000	44333	NA
+MAXED_1010	3	Pulse	99	400000	64333	NA
+MAXED_1010	3	Pulse	99	420000	84333	NA
+MAXED_1010	3	Pulse	99	440000	104333	NA
+MAXED_1010	3	Response	88	449889	114222	1
+MAXED_1010	4	Picture	instructions_4	450000	0	1	109667	1	0	next	false_alarm	36
+MAXED_1010	4	Pulse	99	460000	10000	NA
+MAXED_1010	4	Pulse	99	480000	30000	NA
+MAXED_1010	4	Pulse	99	500000	50000	NA
+MAXED_1010	4	Pulse	99	520000	70000	NA
+MAXED_1010	4	Pulse	99	540000	90000	NA
+MAXED_1010	4	Response	88	559569	109568	1
+MAXED_1010	5	Picture	instructions_5	559667	0	1	86667	1	0	next	false_alarm	43
+MAXED_1010	5	Pulse	99	560000	333	NA
+MAXED_1010	5	Pulse	99	580000	20333	NA
+MAXED_1010	5	Pulse	99	600000	40333	NA
+MAXED_1010	5	Pulse	99	620000	60333	NA
+MAXED_1010	5	Pulse	99	640000	80333	NA
+MAXED_1010	5	Response	88	646129	86461	1
+MAXED_1010	6	Picture	instructions_6	646334	0	1	36833	1	0	next	false_alarm	47
+MAXED_1010	6	Pulse	99	660000	13666	NA
+MAXED_1010	6	Pulse	99	680000	33666	NA
+MAXED_1010	6	Response	88	683089	36755	1
+MAXED_1010	7	Picture	instructions_7	683167	0	1	100667	1	0	next	false_alarm	54
+MAXED_1010	7	Pulse	99	700000	16833	NA
+MAXED_1010	7	Pulse	99	720000	36833	NA
+MAXED_1010	7	Pulse	99	740000	56833	NA
+MAXED_1010	7	Pulse	99	760000	76833	NA
+MAXED_1010	7	Pulse	99	780000	96833	NA
+MAXED_1010	7	Response	88	783729	100561	1
+MAXED_1010	8	Picture	instructions_8	783834	0	1	117500	1	0	next	false_alarm	62
+MAXED_1010	8	Pulse	99	800000	16166	NA
+MAXED_1010	8	Pulse	99	820000	36166	NA
+MAXED_1010	8	Pulse	99	840000	56166	NA
+MAXED_1010	8	Pulse	99	860000	76166	NA
+MAXED_1010	8	Pulse	99	880000	96166	NA
+MAXED_1010	8	Pulse	99	900000	116166	NA
+MAXED_1010	8	Response	88	901169	117335	1
+MAXED_1010	9	Picture	instructions_9	901334	0	1	143334	1	0	next	false_alarm	71
+MAXED_1010	9	Pulse	99	920000	18666	NA
+MAXED_1010	9	Pulse	99	940000	38666	NA
+MAXED_1010	9	Pulse	99	960000	58666	NA
+MAXED_1010	9	Pulse	99	980000	78666	NA
+MAXED_1010	9	Pulse	99	1000000	98666	NA
+MAXED_1010	9	Pulse	99	1020000	118666	NA
+MAXED_1010	9	Pulse	99	1040000	138666	NA
+MAXED_1010	9	Response	88	1044529	143194	1
+MAXED_1010	10	Picture	instructions_10	1044668	0	1	119834	1	0	next	false_alarm	79
+MAXED_1010	10	Pulse	99	1060000	15332	NA
+MAXED_1010	10	Pulse	99	1080000	35332	NA
+MAXED_1010	10	Pulse	99	1100000	55332	NA
+MAXED_1010	10	Pulse	99	1120000	75332	NA
+MAXED_1010	10	Pulse	99	1140000	95332	NA
+MAXED_1010	10	Pulse	99	1160000	115332	NA
+MAXED_1010	10	Response	88	1164449	119781	1
+MAXED_1010	11	Picture	instructions_11	1164502	0	1	97500	1	0	next	false_alarm	86
+MAXED_1010	11	Pulse	99	1180000	15498	NA
+MAXED_1010	11	Pulse	99	1200000	35498	NA
+MAXED_1010	11	Pulse	99	1220000	55498	NA
+MAXED_1010	11	Pulse	99	1240000	75498	NA
+MAXED_1010	11	Pulse	99	1260000	95498	NA
+MAXED_1010	11	Response	88	1261809	97307	1
+MAXED_1010	12	Picture	instructions_12	1262002	0	1	23333	1	0	next	false_alarm	89
+MAXED_1010	12	Pulse	99	1280000	17998	NA
+MAXED_1010	12	Response	88	1285249	23247	1
+MAXED_1010	13	Picture	instructions_13	1285335	0	1	27000	1	0	next	false_alarm	92
+MAXED_1010	13	Pulse	99	1300000	14665	NA
+MAXED_1010	13	Response	88	1312289	26954	1
+MAXED_1010	14	Picture	fixation	1312335	0	1	5167	1	0	next	other	0
+MAXED_1010	15	Picture	stage1	1317502	0	1	31667	1	0	next	false_alarm	97
+MAXED_1010	15	Pulse	99	1320000	2498	NA
+MAXED_1010	15	Pulse	99	1340000	22498	NA
+MAXED_1010	15	Response	1	1349089	31587	1
+MAXED_1010	16	Picture	stage1_box	1349168	0	1	7667	1	0	next	other	0
+MAXED_1010	17	Picture	stage1_outcome	1356835	0	1	167	1	0	next	other	0
+MAXED_1010	18	Picture	stage2A	1357002	0	1	16167	1	0	next	false_alarm	102
+MAXED_1010	18	Pulse	99	1360000	2998	NA
+MAXED_1010	18	Response	1	1373009	16007	1
+MAXED_1010	19	Picture	stage2_box	1373169	0	1	7667	1	0	next	other	0
+MAXED_1010	19	Pulse	99	1380000	6831	NA
+MAXED_1010	20	Picture	stage2_up	1380835	0	1	7667	1	0	next	other	0
+MAXED_1010	21	Picture	stage2_lose	1388502	0	1	10167	1	0	next	other	0
+MAXED_1010	22	Picture	stage1	1398669	0	1	29333	1	0	next	false_alarm	110
+MAXED_1010	22	Pulse	99	1400000	1331	NA
+MAXED_1010	22	Pulse	99	1420000	21331	NA
+MAXED_1010	22	Response	1	1427969	29300	1
+MAXED_1010	23	Picture	stage1_box	1428002	0	1	7667	1	0	next	other	0
+MAXED_1010	24	Picture	stage1_outcome	1435669	0	1	167	1	0	next	other	0
+MAXED_1010	25	Picture	stage2B	1435835	0	1	10333	1	0	next	false_alarm	115
+MAXED_1010	25	Pulse	99	1440000	4165	NA
+MAXED_1010	25	Response	2	1446129	10294	1
+MAXED_1010	26	Picture	stage2_box	1446169	0	1	7667	1	0	next	other	0
+MAXED_1010	27	Picture	stage2_up	1453835	0	1	7667	1	0	next	other	0
+MAXED_1010	27	Pulse	99	1460000	6165	NA
+MAXED_1010	28	Picture	stage2_lose	1461502	0	1	10167	1	0	next	other	0
+MAXED_1010	29	Picture	stage1	1471669	0	1	7667	1	0	next	false_alarm	121
+MAXED_1010	29	Response	1	1479249	7580	1
+MAXED_1010	30	Picture	stage1_box	1479335	0	1	7667	1	0	next	other	0
+MAXED_1010	30	Pulse	99	1480000	665	NA
+MAXED_1010	31	Picture	stage1_outcome	1487002	0	1	167	1	0	next	other	0
+MAXED_1010	32	Picture	stage2A	1487169	0	1	12333	1	0	next	false_alarm	126
+MAXED_1010	32	Response	1	1499329	12160	1
+MAXED_1010	33	Picture	stage2_box	1499502	0	1	7667	1	0	next	other	0
+MAXED_1010	33	Pulse	99	1500000	498	NA
+MAXED_1010	34	Picture	stage2_up	1507169	0	1	7667	1	0	next	other	0
+MAXED_1010	35	Picture	stage2_lose	1514835	0	1	10167	1	0	next	other	0
+MAXED_1010	35	Pulse	99	1520000	5165	NA
+MAXED_1010	36	Picture	stage1	1525002	0	1	11167	1	0	next	false_alarm	133
+MAXED_1010	36	Response	1	1536049	11047	1
+MAXED_1010	37	Picture	stage1_box	1536169	0	1	7667	1	0	next	other	0
+MAXED_1010	37	Pulse	99	1540000	3831	NA
+MAXED_1010	38	Picture	stage1_outcome	1543835	0	1	167	1	0	next	other	0
+MAXED_1010	39	Picture	stage2B	1544002	0	1	13833	1	0	next	false_alarm	138
+MAXED_1010	39	Response	2	1557649	13647	1
+MAXED_1010	40	Picture	stage2_box	1557835	0	1	7667	1	0	next	other	0
+MAXED_1010	40	Pulse	99	1560000	2165	NA
+MAXED_1010	41	Picture	stage2_up	1565502	0	1	7667	1	0	next	other	0
+MAXED_1010	42	Picture	stage2_win	1573169	0	1	10167	1	0	next	other	0
+MAXED_1010	42	Pulse	99	1580000	6831	NA
+MAXED_1010	43	Picture	stage1	1583335	0	1	5500	1	0	next	false_alarm	145
+MAXED_1010	43	Response	1	1588689	5354	1
+MAXED_1010	44	Picture	stage1_box	1588835	0	1	7667	1	0	next	other	0
+MAXED_1010	45	Picture	stage1_outcome	1596502	0	1	167	1	0	next	other	0
+MAXED_1010	46	Picture	stage2A	1596669	0	1	7500	1	0	next	false_alarm	150
+MAXED_1010	46	Pulse	99	1600000	3331	NA
+MAXED_1010	46	Response	2	1604049	7380	1
+MAXED_1010	47	Picture	stage2_box	1604169	0	1	7667	1	0	next	other	0
+MAXED_1010	48	Picture	stage2_up	1611836	0	1	7667	1	0	next	other	0
+MAXED_1010	49	Picture	stage2_win	1619502	0	1	10167	1	0	next	other	0
+MAXED_1010	49	Pulse	99	1620000	498	NA
+MAXED_1010	50	Picture	stage1	1629669	0	1	4667	1	0	next	false_alarm	156
+MAXED_1010	50	Response	1	1634209	4540	1
+MAXED_1010	51	Picture	stage1_box	1634336	0	1	7667	1	0	next	other	0
+MAXED_1010	51	Pulse	99	1640000	5664	NA
+MAXED_1010	52	Picture	stage1_outcome	1642002	0	1	167	1	0	next	other	0
+MAXED_1010	53	Picture	stage2B	1642169	0	1	7000	1	0	next	false_alarm	161
+MAXED_1010	53	Response	2	1649089	6920	1
+MAXED_1010	54	Picture	stage2_box	1649169	0	1	7667	1	0	next	other	0
+MAXED_1010	55	Picture	stage2_up	1656836	0	1	7667	1	0	next	other	0
+MAXED_1010	55	Pulse	99	1660000	3164	NA
+MAXED_1010	56	Picture	stage2_lose	1664502	0	1	10167	1	0	next	other	0
+MAXED_1010	57	Picture	stage1	1674669	0	1	4333	1	0	next	false_alarm	167
+MAXED_1010	57	Response	1	1678849	4180	1
+MAXED_1010	58	Picture	stage1_box	1679002	0	1	7667	1	0	next	other	0
+MAXED_1010	58	Pulse	99	1680000	998	NA
+MAXED_1010	59	Picture	stage1_outcome	1686669	0	1	167	1	0	next	other	0
+MAXED_1010	60	Picture	stage2A	1686836	0	1	3500	1	0	next	false_alarm	172
+MAXED_1010	60	Response	2	1690289	3453	1
+MAXED_1010	61	Picture	stage2_box	1690336	0	1	7667	1	0	next	other	0
+MAXED_1010	62	Picture	stage2_up	1698002	0	1	7667	1	0	next	other	0
+MAXED_1010	62	Pulse	99	1700000	1998	NA
+MAXED_1010	63	Picture	stage2_lose	1705669	0	1	10167	1	0	next	other	0
+MAXED_1010	64	Picture	stage1	1715836	0	1	3833	1	0	next	false_alarm	178
+MAXED_1010	64	Response	1	1719489	3653	1
+MAXED_1010	65	Picture	stage1_box	1719669	0	1	7667	1	0	next	other	0
+MAXED_1010	65	Pulse	99	1720000	331	NA
+MAXED_1010	66	Picture	stage1_outcome	1727336	0	1	167	1	0	next	other	0
+MAXED_1010	67	Picture	stage2A	1727502	0	1	6167	1	0	next	false_alarm	183
+MAXED_1010	67	Response	2	1733489	5987	1
+MAXED_1010	68	Picture	stage2_box	1733669	0	1	7667	1	0	next	other	0
+MAXED_1010	68	Pulse	99	1740000	6331	NA
+MAXED_1010	69	Picture	stage2_up	1741336	0	1	7667	1	0	next	other	0
+MAXED_1010	70	Picture	stage2_lose	1749002	0	1	10167	1	0	next	other	0
+MAXED_1010	71	Picture	stage1	1759169	0	1	3500	1	0	next	false_alarm	190
+MAXED_1010	71	Pulse	99	1760000	831	NA
+MAXED_1010	71	Response	1	1762609	3440	1
+MAXED_1010	72	Picture	stage1_box	1762669	0	1	7667	1	0	next	other	0
+MAXED_1010	73	Picture	stage1_outcome	1770336	0	1	167	1	0	next	other	0
+MAXED_1010	74	Picture	stage2A	1770502	0	1	5833	1	0	next	false_alarm	194
+MAXED_1010	74	Response	2	1776209	5707	1
+MAXED_1010	75	Picture	stage2_box	1776336	0	1	7667	1	0	next	other	0
+MAXED_1010	75	Pulse	99	1780000	3664	NA
+MAXED_1010	76	Picture	stage2_up	1784002	0	1	7667	1	0	next	other	0
+MAXED_1010	77	Picture	stage2_lose	1791669	0	1	10167	1	0	next	other	0
+MAXED_1010	77	Pulse	99	1800000	8331	NA
+MAXED_1010	78	Picture	stage1	1801836	0	1	3000	1	0	next	false_alarm	201
+MAXED_1010	78	Response	1	1804769	2933	1
+MAXED_1010	79	Picture	stage1_box	1804836	0	1	7667	1	0	next	other	0
+MAXED_1010	80	Picture	stage1_outcome	1812503	0	1	167	1	0	next	other	0
+MAXED_1010	81	Picture	stage2B	1812669	0	1	5167	1	0	next	false_alarm	205
+MAXED_1010	81	Response	2	1817649	4980	1
+MAXED_1010	82	Picture	stage2_box	1817836	0	1	7667	1	0	next	other	0
+MAXED_1010	82	Pulse	99	1820000	2164	NA
+MAXED_1010	83	Picture	stage2_up	1825503	0	1	7667	1	0	next	other	0
+MAXED_1010	84	Picture	stage2_lose	1833169	0	1	10167	1	0	next	other	0
+MAXED_1010	84	Pulse	99	1840000	6831	NA
+MAXED_1010	85	Picture	stage1	1843336	0	1	3000	1	0	next	false_alarm	212
+MAXED_1010	85	Response	1	1846289	2953	1
+MAXED_1010	86	Picture	stage1_box	1846336	0	1	7667	1	0	next	other	0
+MAXED_1010	87	Picture	stage1_outcome	1854003	0	1	167	1	0	next	other	0
+MAXED_1010	88	Picture	stage2A	1854169	0	1	3833	1	0	next	false_alarm	216
+MAXED_1010	88	Response	1	1857809	3640	1
+MAXED_1010	89	Picture	stage2_box	1858003	0	1	7667	1	0	next	other	0
+MAXED_1010	89	Pulse	99	1860000	1997	NA
+MAXED_1010	90	Picture	stage2_up	1865669	0	1	7667	1	0	next	other	0
+MAXED_1010	91	Picture	stage2_lose	1873336	0	1	10167	1	0	next	other	0
+MAXED_1010	91	Pulse	99	1880000	6664	NA
+MAXED_1010	92	Picture	stage1	1883503	0	1	3500	1	0	next	false_alarm	223
+MAXED_1010	92	Response	1	1886929	3426	1
+MAXED_1010	93	Picture	stage1_box	1887003	0	1	7667	1	0	next	other	0
+MAXED_1010	94	Picture	stage1_outcome	1894669	0	1	167	1	0	next	other	0
+MAXED_1010	95	Picture	stage2A	1894836	0	1	3167	1	0	next	false_alarm	227
+MAXED_1010	95	Response	1	1897809	2973	1
+MAXED_1010	96	Picture	stage2_box	1898003	0	1	7667	1	0	next	other	0
+MAXED_1010	96	Pulse	99	1900000	1997	NA
+MAXED_1010	97	Picture	stage2_up	1905669	0	1	7667	1	0	next	other	0
+MAXED_1010	98	Picture	stage2_lose	1913336	0	1	10167	1	0	next	other	0
+MAXED_1010	98	Pulse	99	1920000	6664	NA
+MAXED_1010	99	Picture	stage1	1923503	0	1	3000	1	0	next	false_alarm	234
+MAXED_1010	99	Response	1	1926449	2946	1
+MAXED_1010	100	Picture	stage1_box	1926503	0	1	7667	1	0	next	other	0
+MAXED_1010	101	Picture	stage1_outcome	1934169	0	1	167	1	0	next	other	0
+MAXED_1010	102	Picture	stage2B	1934336	0	1	6000	1	0	next	false_alarm	239
+MAXED_1010	102	Pulse	99	1940000	5664	NA
+MAXED_1010	102	Response	1	1940209	5873	1
+MAXED_1010	103	Picture	stage2_box	1940336	0	1	7667	1	0	next	other	0
+MAXED_1010	104	Picture	stage2_up	1948003	0	1	7667	1	0	next	other	0
+MAXED_1010	105	Picture	stage2_lose	1955669	0	1	10167	1	0	next	other	0
+MAXED_1010	105	Pulse	99	1960000	4331	NA
+MAXED_1010	106	Picture	stage1	1965836	0	1	3167	1	0	next	false_alarm	245
+MAXED_1010	106	Response	1	1968929	3093	1
+MAXED_1010	107	Picture	stage1_box	1969003	0	1	7667	1	0	next	other	0
+MAXED_1010	108	Picture	stage1_outcome	1976669	0	1	167	1	0	next	other	0
+MAXED_1010	109	Picture	stage2B	1976836	0	1	3167	1	0	next	false_alarm	249
+MAXED_1010	109	Response	2	1979889	3053	1
+MAXED_1010	109	Pulse	99	1980000	3164	NA
+MAXED_1010	110	Picture	stage2_box	1980003	0	1	7667	1	0	next	other	0
+MAXED_1010	111	Picture	stage2_up	1987669	0	1	7667	1	0	next	other	0
+MAXED_1010	112	Picture	stage2_win	1995336	0	1	10167	1	0	next	other	0
+MAXED_1010	112	Pulse	99	2000000	4664	NA
+MAXED_1010	113	Picture	stage1	2005503	0	1	3167	1	0	next	false_alarm	256
+MAXED_1010	113	Response	1	2008529	3026	1
+MAXED_1010	114	Picture	stage1_box	2008669	0	1	7667	1	0	next	other	0
+MAXED_1010	115	Picture	stage1_outcome	2016336	0	1	167	1	0	next	other	0
+MAXED_1010	116	Picture	stage2A	2016503	0	1	3167	1	0	next	false_alarm	260
+MAXED_1010	116	Response	2	2019569	3066	1
+MAXED_1010	117	Picture	stage2_box	2019669	0	1	7667	1	0	next	other	0
+MAXED_1010	117	Pulse	99	2020000	331	NA
+MAXED_1010	118	Picture	stage2_up	2027336	0	1	7667	1	0	next	other	0
+MAXED_1010	119	Picture	stage2_win	2035003	0	1	10167	1	0	next	other	0
+MAXED_1010	119	Pulse	99	2040000	4997	NA
+MAXED_1010	120	Picture	stage1	2045170	0	1	3000	1	0	next	false_alarm	267
+MAXED_1010	120	Response	1	2048129	2960	1
+MAXED_1010	121	Picture	stage1_box	2048170	0	1	7667	1	0	next	other	0
+MAXED_1010	122	Picture	stage1_outcome	2055836	0	1	167	1	0	next	other	0
+MAXED_1010	123	Picture	stage2B	2056003	0	1	3000	1	0	next	false_alarm	271
+MAXED_1010	123	Response	2	2058849	2846	1
+MAXED_1010	124	Picture	stage2_box	2059003	0	1	7667	1	0	next	other	0
+MAXED_1010	124	Pulse	99	2060000	997	NA
+MAXED_1010	125	Picture	stage2_up	2066670	0	1	7667	1	0	next	other	0
+MAXED_1010	126	Picture	stage2_win	2074336	0	1	10167	1	0	next	other	0
+MAXED_1010	126	Pulse	99	2080000	5664	NA
+MAXED_1010	127	Picture	stage1	2084503	0	1	3500	1	0	next	false_alarm	278
+MAXED_1010	127	Response	1	2087969	3466	1
+MAXED_1010	128	Picture	stage1_box	2088003	0	1	7667	1	0	next	other	0
+MAXED_1010	129	Picture	stage1_outcome	2095670	0	1	167	1	0	next	other	0
+MAXED_1010	130	Picture	stage2B	2095836	0	1	6167	1	0	next	false_alarm	283
+MAXED_1010	130	Pulse	99	2100000	4164	NA
+MAXED_1010	130	Response	2	2101889	6053	1
+MAXED_1010	131	Picture	stage2_box	2102003	0	1	7667	1	0	next	other	0
+MAXED_1010	132	Picture	stage2_up	2109670	0	1	7667	1	0	next	other	0
+MAXED_1010	133	Picture	stage2_lose	2117336	0	1	10167	1	0	next	other	0
+MAXED_1010	133	Pulse	99	2120000	2664	NA
+MAXED_1010	134	Picture	stage1	2127503	0	1	2833	1	0	next	false_alarm	289
+MAXED_1010	134	Response	1	2130289	2786	1
+MAXED_1010	135	Picture	stage1_box	2130336	0	1	7667	1	0	next	other	0
+MAXED_1010	136	Picture	stage1_outcome	2138003	0	1	167	1	0	next	other	0
+MAXED_1010	137	Picture	stage2B	2138170	0	1	2833	1	0	next	false_alarm	294
+MAXED_1010	137	Pulse	99	2140000	1830	NA
+MAXED_1010	137	Response	2	2140929	2759	1
+MAXED_1010	138	Picture	stage2_box	2141003	0	1	7667	1	0	next	other	0
+MAXED_1010	139	Picture	stage2_up	2148670	0	1	7667	1	0	next	other	0
+MAXED_1010	140	Picture	stage2_win	2156336	0	1	10167	1	0	next	other	0
+MAXED_1010	140	Pulse	99	2160000	3664	NA
+MAXED_1010	141	Picture	stage1	2166503	0	1	5833	1	0	next	false_alarm	300
+MAXED_1010	141	Response	1	2172209	5706	1
+MAXED_1010	142	Picture	stage1_box	2172336	0	1	7667	1	0	next	other	0
+MAXED_1010	142	Pulse	99	2180000	7664	NA
+MAXED_1010	143	Picture	stage1_outcome	2180003	0	1	167	1	0	next	other	0
+MAXED_1010	144	Picture	stage2B	2180170	0	1	2833	1	0	next	false_alarm	305
+MAXED_1010	144	Response	2	2182929	2759	1
+MAXED_1010	145	Picture	stage2_box	2183003	0	1	7667	1	0	next	other	0
+MAXED_1010	146	Picture	stage2_up	2190670	0	1	7667	1	0	next	other	0
+MAXED_1010	147	Picture	stage2_win	2198336	0	1	10167	1	0	next	other	0
+MAXED_1010	147	Pulse	99	2200000	1664	NA
+MAXED_1010	148	Picture	stage1	2208503	0	1	3000	1	0	next	false_alarm	311
+MAXED_1010	148	Response	1	2211409	2906	1
+MAXED_1010	149	Picture	stage1_box	2211503	0	1	7667	1	0	next	other	0
+MAXED_1010	150	Picture	stage1_outcome	2219170	0	1	167	1	0	next	other	0
+MAXED_1010	151	Picture	stage2A	2219336	0	1	5667	1	0	next	false_alarm	316
+MAXED_1010	151	Pulse	99	2220000	664	NA
+MAXED_1010	151	Response	2	2224849	5513	1
+MAXED_1010	152	Picture	stage2_box	2225003	0	1	7667	1	0	next	other	0
+MAXED_1010	153	Picture	stage2_up	2232670	0	1	7667	1	0	next	other	0
+MAXED_1010	153	Pulse	99	2240000	7330	NA
+MAXED_1010	154	Picture	stage2_win	2240336	0	1	10167	1	0	next	other	0
+MAXED_1010	155	Picture	stage1	2250503	0	1	3000	1	0	next	false_alarm	322
+MAXED_1010	155	Response	1	2253329	2826	1
+MAXED_1010	156	Picture	stage1_box	2253503	0	1	7667	1	0	next	other	0
+MAXED_1010	156	Pulse	99	2260000	6497	NA
+MAXED_1010	157	Picture	stage1_outcome	2261170	0	1	167	1	0	next	other	0
+MAXED_1010	158	Picture	stage2B	2261337	0	1	4500	1	0	next	false_alarm	327
+MAXED_1010	158	Response	2	2265729	4393	1
+MAXED_1010	159	Picture	stage2_box	2265837	0	1	7667	1	0	next	other	0
+MAXED_1010	160	Picture	stage2_up	2273503	0	1	7667	1	0	next	other	0
+MAXED_1010	160	Pulse	99	2280000	6497	NA
+MAXED_1010	161	Picture	stage2_win	2281170	0	1	10167	1	0	next	other	0
+MAXED_1010	162	Picture	stage1	2291337	0	1	3333	1	0	next	false_alarm	333
+MAXED_1010	162	Response	1	2294609	3273	1
+MAXED_1010	163	Picture	stage1_box	2294670	0	1	7667	1	0	next	other	0
+MAXED_1010	163	Pulse	99	2300000	5330	NA
+MAXED_1010	164	Picture	stage1_outcome	2302337	0	1	167	1	0	next	other	0
+MAXED_1010	165	Picture	stage2A	2302503	0	1	3500	1	0	next	false_alarm	338
+MAXED_1010	165	Response	2	2305969	3466	1
+MAXED_1010	166	Picture	stage2_box	2306003	0	1	7667	1	0	next	other	0
+MAXED_1010	167	Picture	stage2_up	2313670	0	1	7667	1	0	next	other	0
+MAXED_1010	167	Pulse	99	2320000	6330	NA
+MAXED_1010	168	Picture	stage2_win	2321337	0	1	10167	1	0	next	other	0
+MAXED_1010	169	Picture	stage1	2331503	0	1	2833	1	0	next	false_alarm	344
+MAXED_1010	169	Response	1	2334289	2786	1
+MAXED_1010	170	Picture	stage1_box	2334337	0	1	7667	1	0	next	other	0
+MAXED_1010	170	Pulse	99	2340000	5663	NA
+MAXED_1010	171	Picture	stage1_outcome	2342003	0	1	167	1	0	next	other	0
+MAXED_1010	172	Picture	stage2A	2342170	0	1	3667	1	0	next	false_alarm	349
+MAXED_1010	172	Response	2	2345729	3559	1
+MAXED_1010	173	Picture	stage2_box	2345837	0	1	7667	1	0	next	other	0
+MAXED_1010	174	Picture	stage2_up	2353503	0	1	7667	1	0	next	other	0
+MAXED_1010	174	Pulse	99	2360000	6497	NA
+MAXED_1010	175	Picture	stage2_win	2361170	0	1	10167	1	0	next	other	0
+MAXED_1010	176	Picture	stage1	2371337	0	1	2667	1	0	next	false_alarm	355
+MAXED_1010	176	Response	1	2373969	2633	1
+MAXED_1010	177	Picture	stage1_box	2374003	0	1	7667	1	0	next	other	0
+MAXED_1010	177	Pulse	99	2380000	5997	NA
+MAXED_1010	178	Picture	stage1_outcome	2381670	0	1	167	1	0	next	other	0
+MAXED_1010	179	Picture	stage2A	2381837	0	1	3167	1	0	next	false_alarm	360
+MAXED_1010	179	Response	2	2384929	3092	1
+MAXED_1010	180	Picture	stage2_box	2385003	0	1	7667	1	0	next	other	0
+MAXED_1010	181	Picture	stage2_up	2392670	0	1	7667	1	0	next	other	0
+MAXED_1010	181	Pulse	99	2400000	7330	NA
+MAXED_1010	182	Picture	stage2_win	2400337	0	1	10167	1	0	next	other	0
+MAXED_1010	183	Picture	stage1	2410503	0	1	2500	1	0	next	false_alarm	366
+MAXED_1010	183	Response	1	2412929	2426	1
+MAXED_1010	184	Picture	stage1_box	2413003	0	1	7667	1	0	next	other	0
+MAXED_1010	184	Pulse	99	2420000	6997	NA
+MAXED_1010	185	Picture	stage1_outcome	2420670	0	1	167	1	0	next	other	0
+MAXED_1010	186	Picture	stage2A	2420837	0	1	3333	1	0	next	false_alarm	371
+MAXED_1010	186	Response	2	2424049	3212	1
+MAXED_1010	187	Picture	stage2_box	2424170	0	1	7667	1	0	next	other	0
+MAXED_1010	188	Picture	stage2_up	2431837	0	1	7667	1	0	next	other	0
+MAXED_1010	189	Picture	stage2_lose	2439503	0	1	10167	1	0	next	other	0
+MAXED_1010	189	Pulse	99	2440000	497	NA
+MAXED_1010	190	Picture	stage1	2449670	0	1	3333	1	0	next	false_alarm	377
+MAXED_1010	190	Response	1	2452849	3179	1
+MAXED_1010	191	Picture	stage1_box	2453003	0	1	7667	1	0	next	other	0
+MAXED_1010	191	Pulse	99	2460000	6997	NA
+MAXED_1010	192	Picture	stage1_outcome	2460670	0	1	167	1	0	next	other	0
+MAXED_1010	193	Picture	stage2A	2460837	0	1	5167	1	0	next	false_alarm	382
+MAXED_1010	193	Response	2	2465969	5132	1
+MAXED_1010	194	Picture	stage2_box	2466004	0	1	7667	1	0	next	other	0
+MAXED_1010	195	Picture	stage2_up	2473670	0	1	7667	1	0	next	other	0
+MAXED_1010	195	Pulse	99	2480000	6330	NA
+MAXED_1010	196	Picture	stage2_lose	2481337	0	1	10167	1	0	next	other	0
+MAXED_1010	197	Picture	stage1	2491504	0	1	2667	1	0	next	false_alarm	388
+MAXED_1010	197	Response	1	2494129	2626	1
+MAXED_1010	198	Picture	stage1_box	2494170	0	1	7667	1	0	next	other	0
+MAXED_1010	198	Pulse	99	2500000	5830	NA
+MAXED_1010	199	Picture	stage1_outcome	2501837	0	1	167	1	0	next	other	0
+MAXED_1010	200	Picture	stage2A	2502004	0	1	3667	1	0	next	false_alarm	393
+MAXED_1010	200	Response	1	2505569	3566	1
+MAXED_1010	201	Picture	stage2_box	2505670	0	1	7667	1	0	next	other	0
+MAXED_1010	202	Picture	stage2_up	2513337	0	1	7667	1	0	next	other	0
+MAXED_1010	202	Pulse	99	2520000	6663	NA
+MAXED_1010	203	Picture	stage2_lose	2521004	0	1	10167	1	0	next	other	0
+MAXED_1010	204	Picture	stage1	2531170	0	1	2833	1	0	next	false_alarm	399
+MAXED_1010	204	Response	1	2533889	2719	1
+MAXED_1010	205	Picture	stage1_box	2534004	0	1	7667	1	0	next	other	0
+MAXED_1010	205	Pulse	99	2540000	5996	NA
+MAXED_1010	206	Picture	stage1_outcome	2541670	0	1	167	1	0	next	other	0
+MAXED_1010	207	Picture	stage2A	2541837	0	1	2667	1	0	next	false_alarm	404
+MAXED_1010	207	Response	1	2544369	2532	1
+MAXED_1010	208	Picture	stage2_box	2544504	0	1	7667	1	0	next	other	0
+MAXED_1010	209	Picture	stage2_up	2552170	0	1	7667	1	0	next	other	0
+MAXED_1010	210	Picture	stage2_win	2559837	0	1	10167	1	0	next	other	0
+MAXED_1010	210	Pulse	99	2560000	163	NA
+MAXED_1010	211	Picture	stage1	2570004	0	1	3333	1	0	next	false_alarm	410
+MAXED_1010	211	Response	1	2573169	3166	1
+MAXED_1010	212	Picture	stage1_box	2573337	0	1	7667	1	0	next	other	0
+MAXED_1010	212	Pulse	99	2580000	6663	NA
+MAXED_1010	213	Picture	stage1_outcome	2581004	0	1	167	1	0	next	other	0
+MAXED_1010	214	Picture	stage2A	2581170	0	1	3000	1	0	next	false_alarm	415
+MAXED_1010	214	Response	1	2584129	2959	1
+MAXED_1010	215	Picture	stage2_box	2584170	0	1	7667	1	0	next	other	0
+MAXED_1010	216	Picture	stage2_up	2591837	0	1	7667	1	0	next	other	0
+MAXED_1010	217	Picture	stage2_lose	2599504	0	1	10167	1	0	next	other	0
+MAXED_1010	217	Pulse	99	2600000	496	NA
+MAXED_1010	218	Picture	stage1	2609670	0	1	2500	1	0	next	false_alarm	421
+MAXED_1010	218	Response	1	2612129	2459	1
+MAXED_1010	219	Picture	stage1_box	2612170	0	1	7667	1	0	next	other	0
+MAXED_1010	220	Picture	stage1_outcome	2619837	0	1	167	1	0	next	other	0
+MAXED_1010	220	Pulse	99	2620000	163	NA
+MAXED_1010	221	Picture	stage2A	2620004	0	1	2333	1	0	next	false_alarm	426
+MAXED_1010	221	Response	1	2622209	2206	1
+MAXED_1010	222	Picture	stage2_box	2622337	0	1	7667	1	0	next	other	0
+MAXED_1010	223	Picture	stage2_up	2630004	0	1	7667	1	0	next	other	0
+MAXED_1010	224	Picture	stage2_lose	2637670	0	1	10167	1	0	next	other	0
+MAXED_1010	224	Pulse	99	2640000	2330	NA
+MAXED_1010	225	Picture	stage1	2647837	0	1	3667	1	0	next	false_alarm	432
+MAXED_1010	225	Response	1	2651329	3492	1
+MAXED_1010	226	Picture	stage1_box	2651504	0	1	7667	1	0	next	other	0
+MAXED_1010	227	Picture	stage1_outcome	2659170	0	1	167	1	0	next	other	0
+MAXED_1010	228	Picture	stage2B	2659337	0	1	3167	1	0	next	false_alarm	437
+MAXED_1010	228	Pulse	99	2660000	663	NA
+MAXED_1010	228	Response	1	2662369	3032	1
+MAXED_1010	229	Picture	stage2_box	2662504	0	1	7667	1	0	next	other	0
+MAXED_1010	230	Picture	stage2_up	2670170	0	1	7667	1	0	next	other	0
+MAXED_1010	231	Picture	stage2_lose	2677837	0	1	10167	1	0	next	other	0
+MAXED_1010	231	Pulse	99	2680000	2163	NA
+MAXED_1010	232	Picture	stage1	2688004	0	1	3167	1	0	next	false_alarm	443
+MAXED_1010	232	Response	1	2691009	3005	1
+MAXED_1010	233	Picture	stage1_box	2691170	0	1	7667	1	0	next	other	0
+MAXED_1010	234	Picture	stage1_outcome	2698837	0	1	167	1	0	next	other	0
+MAXED_1010	235	Picture	stage2A	2699004	0	1	5000	1	0	next	false_alarm	448
+MAXED_1010	235	Pulse	99	2700000	996	NA
+MAXED_1010	235	Response	1	2703969	4965	1
+MAXED_1010	236	Picture	stage2_box	2704004	0	1	7667	1	0	next	other	0
+MAXED_1010	237	Picture	stage2_up	2711671	0	1	7667	1	0	next	other	0
+MAXED_1010	238	Picture	stage2_lose	2719337	0	1	10167	1	0	next	other	0
+MAXED_1010	238	Pulse	99	2720000	663	NA
+MAXED_1010	239	Picture	stage1	2729504	0	1	3167	1	0	next	false_alarm	454
+MAXED_1010	239	Response	1	2732609	3105	1
+MAXED_1010	240	Picture	stage1_box	2732671	0	1	7667	1	0	next	other	0
+MAXED_1010	240	Pulse	99	2740000	7329	NA
+MAXED_1010	241	Picture	stage1_outcome	2740337	0	1	167	1	0	next	other	0
+MAXED_1010	242	Picture	stage2A	2740504	0	1	3333	1	0	next	false_alarm	459
+MAXED_1010	242	Response	2	2743649	3145	1
+MAXED_1010	243	Picture	stage2_box	2743837	0	1	7667	1	0	next	other	0
+MAXED_1010	244	Picture	stage2_up	2751504	0	1	7667	1	0	next	other	0
+MAXED_1010	245	Picture	stage2_win	2759171	0	1	10167	1	0	next	other	0
+MAXED_1010	245	Pulse	99	2760000	829	NA
+MAXED_1010	246	Picture	stage1	2769337	0	1	6667	1	0	next	false_alarm	465
+MAXED_1010	246	Response	2	2775809	6472	1
+MAXED_1010	247	Picture	stage1_box	2776004	0	1	7667	1	0	next	other	0
+MAXED_1010	247	Pulse	99	2780000	3996	NA
+MAXED_1010	248	Picture	stage1_outcome	2783671	0	1	167	1	0	next	other	0
+MAXED_1010	249	Picture	stage2B	2783837	0	1	7167	1	0	next	false_alarm	470
+MAXED_1010	249	Response	2	2790849	7012	1
+MAXED_1010	250	Picture	stage2_box	2791004	0	1	7667	1	0	next	other	0
+MAXED_1010	251	Picture	stage2_up	2798671	0	1	7667	1	0	next	other	0
+MAXED_1010	251	Pulse	99	2800000	1329	NA
+MAXED_1010	252	Picture	stage2_lose	2806337	0	1	10167	1	0	next	other	0
+MAXED_1010	253	Picture	stage1	2816504	0	1	5500	1	0	next	false_alarm	477
+MAXED_1010	253	Pulse	99	2820000	3496	NA
+MAXED_1010	253	Response	2	2821889	5385	1
+MAXED_1010	254	Picture	stage1_box	2822004	0	1	7667	1	0	next	other	0
+MAXED_1010	255	Picture	stage1_outcome	2829671	0	1	167	1	0	next	other	0
+MAXED_1010	256	Picture	stage2B	2829837	0	1	2667	1	0	next	false_alarm	481
+MAXED_1010	256	Response	1	2832369	2532	1
+MAXED_1010	257	Picture	stage2_box	2832504	0	1	7667	1	0	next	other	0
+MAXED_1010	257	Pulse	99	2840000	7496	NA
+MAXED_1010	258	Picture	stage2_up	2840171	0	1	7667	1	0	next	other	0
+MAXED_1010	259	Picture	stage2_lose	2847837	0	1	10167	1	0	next	other	0
+MAXED_1010	260	Picture	stage1	2858004	0	1	5500	1	0	next	false_alarm	488
+MAXED_1010	260	Pulse	99	2860000	1996	NA
+MAXED_1010	260	Response	2	2863409	5405	1
+MAXED_1010	261	Picture	stage1_box	2863504	0	1	7667	1	0	next	other	0
+MAXED_1010	262	Picture	stage1_outcome	2871171	0	1	167	1	0	next	other	0
+MAXED_1010	263	Picture	stage2B	2871337	0	1	2500	1	0	next	false_alarm	492
+MAXED_1010	263	Response	2	2873649	2312	1
+MAXED_1010	264	Picture	stage2_box	2873837	0	1	7667	1	0	next	other	0
+MAXED_1010	264	Pulse	99	2880000	6163	NA
+MAXED_1010	265	Picture	stage2_up	2881504	0	1	7667	1	0	next	other	0
+MAXED_1010	266	Picture	stage2_lose	2889171	0	1	10167	1	0	next	other	0
+MAXED_1010	267	Picture	stage1	2899337	0	1	3000	1	0	next	false_alarm	499
+MAXED_1010	267	Pulse	99	2900000	663	NA
+MAXED_1010	267	Response	2	2902290	2952	1
+MAXED_1010	268	Picture	stage1_box	2902337	0	1	7667	1	0	next	other	0
+MAXED_1010	269	Picture	stage1_outcome	2910004	0	1	167	1	0	next	other	0
+MAXED_1010	270	Picture	stage2B	2910171	0	1	2667	1	0	next	false_alarm	503
+MAXED_1010	270	Response	2	2912769	2598	1
+MAXED_1010	271	Picture	stage2_box	2912837	0	1	7667	1	0	next	other	0
+MAXED_1010	271	Pulse	99	2920000	7163	NA
+MAXED_1010	272	Picture	stage2_up	2920504	0	1	7667	1	0	next	other	0
+MAXED_1010	273	Picture	stage2_lose	2928171	0	1	10167	1	0	next	other	0
+MAXED_1010	274	Picture	stage1	2938338	0	1	6167	1	0	next	false_alarm	510
+MAXED_1010	274	Pulse	99	2940000	1662	NA
+MAXED_1010	274	Response	2	2944369	6032	1
+MAXED_1010	275	Picture	stage1_box	2944504	0	1	7667	1	0	next	other	0
+MAXED_1010	276	Picture	stage1_outcome	2952171	0	1	167	1	0	next	other	0
+MAXED_1010	277	Picture	stage2A	2952338	0	1	4333	1	0	next	false_alarm	514
+MAXED_1010	277	Response	1	2956609	4272	1
+MAXED_1010	278	Picture	stage2_box	2956671	0	1	7667	1	0	next	other	0
+MAXED_1010	278	Pulse	99	2960000	3329	NA
+MAXED_1010	279	Picture	stage2_up	2964338	0	1	7667	1	0	next	other	0
+MAXED_1010	280	Picture	stage2_win	2972004	0	1	10167	1	0	next	other	0
+MAXED_1010	280	Pulse	99	2980000	7996	NA
+MAXED_1010	281	Picture	stage1	2982171	0	1	3167	1	0	next	false_alarm	521
+MAXED_1010	281	Response	2	2985169	2998	1
+MAXED_1010	282	Picture	stage1_box	2985338	0	1	7667	1	0	next	other	0
+MAXED_1010	283	Picture	stage1_outcome	2993004	0	1	167	1	0	next	other	0
+MAXED_1010	284	Picture	stage2B	2993171	0	1	2167	1	0	next	false_alarm	525
+MAXED_1010	284	Response	1	2995249	2079	1
+MAXED_1010	285	Picture	stage2_box	2995338	0	1	7667	1	0	next	other	0
+MAXED_1010	285	Pulse	99	3000000	4662	NA
+MAXED_1010	286	Picture	stage2_up	3003004	0	1	7667	1	0	next	other	0
+MAXED_1010	287	Picture	stage2_win	3010671	0	1	10167	1	0	next	other	0
+MAXED_1010	287	Pulse	99	3020000	9329	NA
+MAXED_1010	288	Picture	stage1	3020838	0	1	2667	1	0	next	false_alarm	532
+MAXED_1010	288	Response	2	3023329	2492	1
+MAXED_1010	289	Picture	stage1_box	3023504	0	1	7667	1	0	next	other	0
+MAXED_1010	290	Picture	stage1_outcome	3031171	0	1	167	1	0	next	other	0
+MAXED_1010	291	Picture	stage2B	3031338	0	1	2333	1	0	next	false_alarm	536
+MAXED_1010	291	Response	1	3033569	2232	1
+MAXED_1010	292	Picture	stage2_box	3033671	0	1	7667	1	0	next	other	0
+MAXED_1010	292	Pulse	99	3040000	6329	NA
+MAXED_1010	293	Picture	stage2_up	3041338	0	1	7667	1	0	next	other	0
+MAXED_1010	294	Picture	stage2_win	3049004	0	1	10167	1	0	next	other	0
+MAXED_1010	295	Picture	stage1	3059171	0	1	4000	1	0	next	false_alarm	543
+MAXED_1010	295	Pulse	99	3060000	829	NA
+MAXED_1010	295	Response	2	3063089	3918	1
+MAXED_1010	296	Picture	stage1_box	3063171	0	1	7667	1	0	next	other	0
+MAXED_1010	297	Picture	stage1_outcome	3070838	0	1	167	1	0	next	other	0
+MAXED_1010	298	Picture	stage2A	3071004	0	1	3833	1	0	next	false_alarm	547
+MAXED_1010	298	Response	1	3074689	3685	1
+MAXED_1010	299	Picture	stage2_box	3074838	0	1	7667	1	0	next	other	0
+MAXED_1010	299	Pulse	99	3080000	5162	NA
+MAXED_1010	300	Picture	stage2_up	3082504	0	1	7667	1	0	next	other	0
+MAXED_1010	301	Picture	stage2_lose	3090171	0	1	10167	1	0	next	other	0
+MAXED_1010	301	Pulse	99	3100000	9829	NA
+MAXED_1010	302	Picture	stage1	3100338	0	1	3167	1	0	next	false_alarm	554
+MAXED_1010	302	Response	2	3103329	2992	1
+MAXED_1010	303	Picture	stage1_box	3103504	0	1	7667	1	0	next	other	0
+MAXED_1010	304	Picture	stage1_outcome	3111171	0	1	167	1	0	next	other	0
+MAXED_1010	305	Picture	stage2B	3111338	0	1	2667	1	0	next	false_alarm	558
+MAXED_1010	305	Response	1	3113890	2552	1
+MAXED_1010	306	Picture	stage2_box	3114004	0	1	7667	1	0	next	other	0
+MAXED_1010	306	Pulse	99	3120000	5996	NA
+MAXED_1010	307	Picture	stage2_up	3121671	0	1	7667	1	0	next	other	0
+MAXED_1010	308	Picture	stage2_win	3129338	0	1	10167	1	0	next	other	0
+MAXED_1010	309	Picture	stage1	3139505	0	1	88333	1	0	next	false_alarm	569
+MAXED_1010	309	Pulse	99	3140000	495	NA
+MAXED_1010	309	Pulse	99	3160000	20495	NA
+MAXED_1010	309	Pulse	99	3180000	40495	NA
+MAXED_1010	309	Pulse	99	3200000	60495	NA
+MAXED_1010	309	Pulse	99	3220000	80495	NA
+MAXED_1010	309	Response	2	3227649	88145	1
+MAXED_1010	310	Picture	stage1_box	3227838	0	1	7667	1	0	next	other	0
+MAXED_1010	311	Picture	stage1_outcome	3235505	0	1	167	1	0	next	other	0
+MAXED_1010	312	Picture	stage2B	3235671	0	1	5000	1	0	next	false_alarm	574
+MAXED_1010	312	Pulse	99	3240000	4329	NA
+MAXED_1010	312	Response	1	3240609	4938	1
+MAXED_1010	313	Picture	stage2_box	3240671	0	1	7667	1	0	next	other	0
+MAXED_1010	314	Picture	stage2_up	3248338	0	1	7667	1	0	next	other	0
+MAXED_1010	315	Picture	stage2_win	3256005	0	1	10167	1	0	next	other	0
+MAXED_1010	315	Pulse	99	3260000	3995	NA
+MAXED_1010	316	Picture	stage1	3266171	0	1	6000	1	0	next	false_alarm	580
+MAXED_1010	316	Response	2	3272049	5878	1
+MAXED_1010	317	Picture	stage1_box	3272171	0	1	7667	1	0	next	other	0
+MAXED_1010	318	Picture	stage1_outcome	3279838	0	1	167	1	0	next	other	0
+MAXED_1010	318	Pulse	99	3280000	162	NA
+MAXED_1010	319	Picture	stage2B	3280005	0	1	2667	1	0	next	false_alarm	585
+MAXED_1010	319	Response	1	3282609	2605	1
+MAXED_1010	320	Picture	stage2_box	3282671	0	1	7667	1	0	next	other	0
+MAXED_1010	321	Picture	stage2_up	3290338	0	1	7667	1	0	next	other	0
+MAXED_1010	322	Picture	stage2_win	3298005	0	1	10167	1	0	next	other	0
+MAXED_1010	322	Pulse	99	3300000	1995	NA
+MAXED_1010	323	Picture	stage1	3308171	0	1	72500	1	0	next	false_alarm	595
+MAXED_1010	323	Pulse	99	3320000	11829	NA
+MAXED_1010	323	Pulse	99	3340000	31829	NA
+MAXED_1010	323	Pulse	99	3360000	51829	NA
+MAXED_1010	323	Pulse	99	3380000	71829	NA
+MAXED_1010	323	Response	2	3380529	72358	1
+MAXED_1010	324	Picture	stage1_box	3380672	0	1	7667	1	0	next	other	0
+MAXED_1010	325	Picture	stage1_outcome	3388338	0	1	167	1	0	next	other	0
+MAXED_1010	326	Picture	stage2B	3388505	0	1	3000	1	0	next	false_alarm	599
+MAXED_1010	326	Response	1	3391409	2905	1
+MAXED_1010	327	Picture	stage2_box	3391505	0	1	7667	1	0	next	other	0
+MAXED_1010	328	Picture	stage2_up	3399172	0	1	7667	1	0	next	other	0
+MAXED_1010	328	Pulse	99	3400000	828	NA
+MAXED_1010	329	Picture	stage2_lose	3406838	0	1	10167	1	0	next	other	0
+MAXED_1010	330	Picture	stage1	3417005	0	1	4500	1	0	next	false_alarm	606
+MAXED_1010	330	Pulse	99	3420000	2995	NA
+MAXED_1010	330	Response	2	3421410	4405	1
+MAXED_1010	331	Picture	stage1_box	3421505	0	1	7667	1	0	next	other	0
+MAXED_1010	332	Picture	stage1_outcome	3429172	0	1	167	1	0	next	other	0
+MAXED_1010	333	Picture	stage2B	3429338	0	1	2500	1	0	next	false_alarm	610
+MAXED_1010	333	Response	2	3431810	2471	1
+MAXED_1010	334	Picture	stage2_box	3431838	0	1	7667	1	0	next	other	0
+MAXED_1010	335	Picture	stage2_up	3439505	0	1	7667	1	0	next	other	0
+MAXED_1010	335	Pulse	99	3440000	495	NA
+MAXED_1010	336	Picture	stage2_lose	3447172	0	1	10167	1	0	next	other	0
+MAXED_1010	337	Picture	stage1	3457338	0	1	9333	1	0	next	false_alarm	617
+MAXED_1010	337	Pulse	99	3460000	2662	NA
+MAXED_1010	337	Response	2	3466529	9191	1
+MAXED_1010	338	Picture	stage1_box	3466672	0	1	7667	1	0	next	other	0
+MAXED_1010	339	Picture	stage1_outcome	3474338	0	1	167	1	0	next	other	0
+MAXED_1010	340	Picture	stage2B	3474505	0	1	2500	1	0	next	false_alarm	621
+MAXED_1010	340	Response	2	3476850	2345	1
+MAXED_1010	341	Picture	stage2_box	3477005	0	1	7667	1	0	next	other	0
+MAXED_1010	341	Pulse	99	3480000	2995	NA
+MAXED_1010	342	Picture	stage2_up	3484672	0	1	7667	1	0	next	other	0
+MAXED_1010	343	Picture	stage2_lose	3492338	0	1	10167	1	0	next	other	0
+MAXED_1010	343	Pulse	99	3500000	7662	NA
+MAXED_1010	344	Picture	stage1	3502505	0	1	3000	1	0	next	false_alarm	628
+MAXED_1010	344	Response	1	3505329	2824	1
+MAXED_1010	345	Picture	stage1_box	3505505	0	1	7667	1	0	next	other	0
+MAXED_1010	346	Picture	stage1_outcome	3513172	0	1	167	1	0	next	other	0
+MAXED_1010	347	Picture	stage2A	3513338	0	1	2833	1	0	next	false_alarm	632
+MAXED_1010	347	Response	1	3516130	2791	1
+MAXED_1010	348	Picture	stage2_box	3516172	0	1	7667	1	0	next	other	0
+MAXED_1010	348	Pulse	99	3520000	3828	NA
+MAXED_1010	349	Picture	stage2_up	3523838	0	1	7667	1	0	next	other	0
+MAXED_1010	350	Picture	stage2_lose	3531505	0	1	10167	1	0	next	other	0
+MAXED_1010	350	Pulse	99	3540000	8495	NA
+MAXED_1010	351	Picture	stage1	3541672	0	1	3167	1	0	next	false_alarm	639
+MAXED_1010	351	Response	1	3544770	3098	1
+MAXED_1010	352	Picture	stage1_box	3544838	0	1	7667	1	0	next	other	0
+MAXED_1010	353	Picture	stage1_outcome	3552505	0	1	167	1	0	next	other	0
+MAXED_1010	354	Picture	stage2A	3552672	0	1	2500	1	0	next	false_alarm	643
+MAXED_1010	354	Response	2	3555010	2338	1
+MAXED_1010	355	Picture	stage2_box	3555172	0	1	7667	1	0	next	other	0
+MAXED_1010	355	Pulse	99	3560000	4828	NA
+MAXED_1010	356	Picture	stage2_up	3562838	0	1	7667	1	0	next	other	0
+MAXED_1010	357	Picture	stage2_win	3570505	0	1	10167	1	0	next	other	0
+MAXED_1010	357	Pulse	99	3580000	9495	NA
+MAXED_1010	358	Picture	stage1	3580672	0	1	3167	1	0	next	false_alarm	650
+MAXED_1010	358	Response	1	3583810	3138	1
+MAXED_1010	359	Picture	stage1_box	3583839	0	1	7667	1	0	next	other	0
+MAXED_1010	360	Picture	stage1_outcome	3591505	0	1	167	1	0	next	other	0
+MAXED_1010	361	Picture	stage2A	3591672	0	1	3000	1	0	next	false_alarm	654
+MAXED_1010	361	Response	2	3594529	2858	1
+MAXED_1010	362	Picture	stage2_box	3594672	0	1	7667	1	0	next	other	0
+MAXED_1010	362	Pulse	99	3600000	5328	NA
+MAXED_1010	363	Picture	stage2_up	3602339	0	1	7667	1	0	next	other	0
+MAXED_1010	364	Picture	stage2_win	3610005	0	1	10167	1	0	next	other	0
+MAXED_1010	364	Pulse	99	3620000	9995	NA
+MAXED_1010	365	Picture	stage1	3620172	0	1	2833	1	0	next	false_alarm	661
+MAXED_1010	365	Response	1	3622930	2758	1
+MAXED_1010	366	Picture	stage1_box	3623005	0	1	7667	1	0	next	other	0
+MAXED_1010	367	Picture	stage1_outcome	3630672	0	1	167	1	0	next	other	0
+MAXED_1010	368	Picture	stage2B	3630839	0	1	2667	1	0	next	false_alarm	665
+MAXED_1010	368	Response	2	3633410	2571	1
+MAXED_1010	369	Picture	stage2_box	3633505	0	1	7667	1	0	next	other	0
+MAXED_1010	369	Pulse	99	3640000	6495	NA
+MAXED_1010	370	Picture	stage2_up	3641172	0	1	7667	1	0	next	other	0
+MAXED_1010	371	Picture	stage2_win	3648839	0	1	10167	1	0	next	other	0
+MAXED_1010	372	Picture	stage1	3659005	0	1	6833	1	0	next	false_alarm	672
+MAXED_1010	372	Pulse	99	3660000	995	NA
+MAXED_1010	372	Response	1	3665809	6804	1
+MAXED_1010	373	Picture	stage1_box	3665839	0	1	7667	1	0	next	other	0
+MAXED_1010	374	Picture	stage1_outcome	3673505	0	1	167	1	0	next	other	0
+MAXED_1010	375	Picture	stage2A	3673672	0	1	3167	1	0	next	false_alarm	676
+MAXED_1010	375	Response	2	3676690	3018	1
+MAXED_1010	376	Picture	stage2_box	3676839	0	1	7667	1	0	next	other	0
+MAXED_1010	376	Pulse	99	3680000	3161	NA
+MAXED_1010	377	Picture	stage2_up	3684505	0	1	7667	1	0	next	other	0
+MAXED_1010	378	Picture	stage2_win	3692172	0	1	10167	1	0	next	other	0
+MAXED_1010	378	Pulse	99	3700000	7828	NA
+MAXED_1010	379	Picture	stage1	3702339	0	1	4833	1	0	next	false_alarm	683
+MAXED_1010	379	Response	1	3707090	4752	1
+MAXED_1010	380	Picture	stage1_box	3707172	0	1	7667	1	0	next	other	0
+MAXED_1010	381	Picture	stage1_outcome	3714839	0	1	167	1	0	next	other	0
+MAXED_1010	382	Picture	stage2B	3715005	0	1	2333	1	0	next	false_alarm	687
+MAXED_1010	382	Response	2	3717249	2244	1
+MAXED_1010	383	Picture	stage2_box	3717339	0	1	7667	1	0	next	other	0
+MAXED_1010	383	Pulse	99	3720000	2661	NA
+MAXED_1010	384	Picture	stage2_up	3725005	0	1	7667	1	0	next	other	0
+MAXED_1010	385	Picture	stage2_lose	3732672	0	1	10167	1	0	next	other	0
+MAXED_1010	385	Pulse	99	3740000	7328	NA
+MAXED_1010	386	Picture	stage1	3742839	0	1	4500	1	0	next	false_alarm	694
+MAXED_1010	386	Response	1	3747250	4411	1
+MAXED_1010	387	Picture	stage1_box	3747339	0	1	7667	1	0	next	other	0
+MAXED_1010	388	Picture	stage1_outcome	3755005	0	1	167	1	0	next	other	0
+MAXED_1010	389	Picture	stage2B	3755172	0	1	3500	1	0	next	false_alarm	698
+MAXED_1010	389	Response	1	3758529	3357	1
+MAXED_1010	390	Picture	stage2_box	3758672	0	1	7667	1	0	next	other	0
+MAXED_1010	390	Pulse	99	3760000	1328	NA
+MAXED_1010	391	Picture	stage2_up	3766339	0	1	7667	1	0	next	other	0
+MAXED_1010	392	Picture	stage2_win	3774005	0	1	10167	1	0	next	other	0
+MAXED_1010	392	Pulse	99	3780000	5995	NA
+MAXED_1010	393	Picture	stage1	3784172	0	1	5500	1	0	next	false_alarm	705
+MAXED_1010	393	Response	1	3789490	5317	1
+MAXED_1010	394	Picture	stage1_box	3789672	0	1	7667	1	0	next	other	0
+MAXED_1010	395	Picture	stage1_outcome	3797339	0	1	167	1	0	next	other	0
+MAXED_1010	396	Picture	stage2A	3797505	0	1	3500	1	0	next	false_alarm	710
+MAXED_1010	396	Pulse	99	3800000	2495	NA
+MAXED_1010	396	Response	1	3800849	3344	1
+MAXED_1010	397	Picture	stage2_box	3801005	0	1	7667	1	0	next	other	0
+MAXED_1010	398	Picture	stage2_up	3808672	0	1	7667	1	0	next	other	0
+MAXED_1010	399	Picture	stage2_win	3816339	0	1	10167	1	0	next	other	0
+MAXED_1010	399	Pulse	99	3820000	3661	NA
+MAXED_1010	400	Picture	stage1	3826506	0	1	4333	1	0	next	false_alarm	716
+MAXED_1010	400	Response	1	3830770	4264	1
+MAXED_1010	401	Picture	stage1_box	3830839	0	1	7667	1	0	next	other	0
+MAXED_1010	402	Picture	stage1_outcome	3838506	0	1	167	1	0	next	other	0
+MAXED_1010	403	Picture	stage2A	3838672	0	1	3167	1	0	next	false_alarm	721
+MAXED_1010	403	Pulse	99	3840000	1328	NA
+MAXED_1010	403	Response	1	3841810	3137	1
+MAXED_1010	404	Picture	stage2_box	3841839	0	1	7667	1	0	next	other	0
+MAXED_1010	405	Picture	stage2_up	3849506	0	1	7667	1	0	next	other	0
+MAXED_1010	406	Picture	stage2_win	3857172	0	1	10167	1	0	next	other	0
+MAXED_1010	406	Pulse	99	3860000	2828	NA
+MAXED_1010	407	Picture	stage1	3867339	0	1	6500	1	0	next	false_alarm	727
+MAXED_1010	407	Response	1	3873810	6471	1
+MAXED_1010	408	Picture	stage1_box	3873839	0	1	7667	1	0	next	other	0
+MAXED_1010	408	Pulse	99	3880000	6161	NA
+MAXED_1010	409	Picture	stage1_outcome	3881506	0	1	167	1	0	next	other	0
+MAXED_1010	410	Picture	stage2A	3881672	0	1	3167	1	0	next	false_alarm	732
+MAXED_1010	410	Response	1	3884690	3017	1
+MAXED_1010	411	Picture	stage2_box	3884839	0	1	7667	1	0	next	other	0
+MAXED_1010	412	Picture	stage2_up	3892506	0	1	7667	1	0	next	other	0
+MAXED_1010	412	Pulse	99	3900000	7494	NA
+MAXED_1010	413	Picture	stage2_win	3900172	0	1	10167	1	0	next	other	0
+MAXED_1010	414	Picture	stage1	3910339	0	1	27833	1	0	next	false_alarm	739
+MAXED_1010	414	Pulse	99	3920000	9661	NA
+MAXED_1010	414	Response	1	3938130	27791	1
+MAXED_1010	415	Picture	stage1_box	3938172	0	1	7667	1	0	next	other	0
+MAXED_1010	415	Pulse	99	3940000	1828	NA
+MAXED_1010	416	Picture	stage1_outcome	3945839	0	1	167	1	0	next	other	0
+MAXED_1010	417	Picture	stage2A	3946006	0	1	61667	1	0	next	false_alarm	747
+MAXED_1010	417	Pulse	99	3960000	13994	NA
+MAXED_1010	417	Pulse	99	3980000	33994	NA
+MAXED_1010	417	Pulse	99	4000000	53994	NA
+MAXED_1010	417	Response	1	4007570	61564	1
+MAXED_1010	418	Picture	stage2_box	4007672	0	1	7667	1	0	next	other	0
+MAXED_1010	419	Picture	stage2_up	4015339	0	1	7667	1	0	next	other	0
+MAXED_1010	419	Pulse	99	4020000	4661	NA
+MAXED_1010	420	Picture	stage2_win	4023006	0	1	10167	1	0	next	other	0
+MAXED_1010	421	Picture	stage1	4033173	0	1	74667	1	0	next	false_alarm	757
+MAXED_1010	421	Pulse	99	4040000	6828	NA
+MAXED_1010	421	Pulse	99	4060000	26828	NA
+MAXED_1010	421	Pulse	99	4080000	46828	NA
+MAXED_1010	421	Pulse	99	4100000	66828	NA
+MAXED_1010	421	Response	1	4107730	74557	1
+MAXED_1010	422	Picture	stage1_box	4107839	0	1	7667	1	0	next	other	0
+MAXED_1010	423	Picture	stage1_outcome	4115506	0	1	167	1	0	next	other	0
+MAXED_1010	424	Picture	stage2A	4115673	0	1	4667	1	0	next	false_alarm	762
+MAXED_1010	424	Pulse	99	4120000	4327	NA
+MAXED_1010	424	Response	1	4120290	4617	1
+MAXED_1010	425	Picture	stage2_box	4120339	0	1	7667	1	0	next	other	0
+MAXED_1010	426	Picture	stage2_up	4128006	0	1	7667	1	0	next	other	0
+MAXED_1010	427	Picture	stage2_lose	4135673	0	1	10167	1	0	next	other	0
+MAXED_1010	427	Pulse	99	4140000	4327	NA
+MAXED_1010	428	Picture	stage1	4145839	0	1	3667	1	0	next	false_alarm	768
+MAXED_1010	428	Response	1	4149410	3570	1
+MAXED_1010	429	Picture	stage1_box	4149506	0	1	7667	1	0	next	other	0
+MAXED_1010	430	Picture	stage1_outcome	4157173	0	1	167	1	0	next	other	0
+MAXED_1010	431	Picture	stage2A	4157339	0	1	2833	1	0	next	false_alarm	773
+MAXED_1010	431	Pulse	99	4160000	2661	NA
+MAXED_1010	431	Response	2	4160050	2710	1
+MAXED_1010	432	Picture	stage2_box	4160173	0	1	7667	1	0	next	other	0
+MAXED_1010	433	Picture	stage2_up	4167839	0	1	7667	1	0	next	other	0
+MAXED_1010	434	Picture	stage2_win	4175506	0	1	10167	1	0	next	other	0
+MAXED_1010	434	Pulse	99	4180000	4494	NA
+MAXED_1010	435	Picture	stage1	4185673	0	1	6667	1	0	next	false_alarm	779
+MAXED_1010	435	Response	1	4192210	6537	1
+MAXED_1010	436	Picture	stage1_box	4192339	0	1	7667	1	0	next	other	0
+MAXED_1010	436	Pulse	99	4200000	7661	NA
+MAXED_1010	437	Picture	stage1_outcome	4200006	0	1	167	1	0	next	other	0
+MAXED_1010	438	Picture	stage2B	4200173	0	1	2833	1	0	next	false_alarm	784
+MAXED_1010	438	Response	2	4202850	2677	1
+MAXED_1010	439	Picture	stage2_box	4203006	0	1	7667	1	0	next	other	0
+MAXED_1010	440	Picture	stage2_up	4210673	0	1	7667	1	0	next	other	0
+MAXED_1010	441	Picture	stage2_win	4218339	0	1	10167	1	0	next	other	0
+MAXED_1010	441	Pulse	99	4220000	1661	NA
+MAXED_1010	442	Picture	stage1	4228506	0	1	3667	1	0	next	false_alarm	790
+MAXED_1010	442	Response	1	4232130	3624	1
+MAXED_1010	443	Picture	stage1_box	4232173	0	1	7667	1	0	next	other	0
+MAXED_1010	444	Picture	stage1_outcome	4239839	0	1	167	1	0	next	other	0
+MAXED_1010	444	Pulse	99	4240000	161	NA
+MAXED_1010	445	Picture	stage2B	4240006	0	1	3000	1	0	next	false_alarm	795
+MAXED_1010	445	Response	2	4242850	2843	1
+MAXED_1010	446	Picture	stage2_box	4243006	0	1	7667	1	0	next	other	0
+MAXED_1010	447	Picture	stage2_up	4250673	0	1	7667	1	0	next	other	0
+MAXED_1010	448	Picture	stage2_lose	4258340	0	1	10167	1	0	next	other	0
+MAXED_1010	448	Pulse	99	4260000	1661	NA
+MAXED_1010	449	Picture	stage1	4268506	0	1	6833	1	0	next	false_alarm	801
+MAXED_1010	449	Response	1	4275250	6744	1
+MAXED_1010	450	Picture	stage1_box	4275340	0	1	7667	1	0	next	other	0
+MAXED_1010	450	Pulse	99	4280000	4660	NA
+MAXED_1010	451	Picture	stage1_outcome	4283006	0	1	167	1	0	next	other	0
+MAXED_1010	452	Picture	stage2B	4283173	0	1	2333	1	0	next	false_alarm	806
+MAXED_1010	452	Response	2	4285330	2157	1
+MAXED_1010	453	Picture	stage2_box	4285506	0	1	7667	1	0	next	other	0
+MAXED_1010	454	Picture	stage2_up	4293173	0	1	7667	1	0	next	other	0
+MAXED_1010	454	Pulse	99	4300000	6827	NA
+MAXED_1010	455	Picture	stage2_lose	4300840	0	1	10167	1	0	next	other	0
+MAXED_1010	456	Picture	stage1	4311006	0	1	4000	1	0	next	false_alarm	812
+MAXED_1010	456	Response	1	4314930	3924	1
+MAXED_1010	457	Picture	stage1_box	4315006	0	1	7667	1	0	next	other	0
+MAXED_1010	457	Pulse	99	4320000	4994	NA
+MAXED_1010	458	Picture	stage1_outcome	4322673	0	1	167	1	0	next	other	0
+MAXED_1010	459	Picture	stage2A	4322840	0	1	4167	1	0	next	false_alarm	817
+MAXED_1010	459	Response	1	4326930	4090	1
+MAXED_1010	460	Picture	stage2_box	4327006	0	1	7667	1	0	next	other	0
+MAXED_1010	461	Picture	stage2_up	4334673	0	1	7667	1	0	next	other	0
+MAXED_1010	461	Pulse	99	4340000	5327	NA
+MAXED_1010	462	Picture	stage2_lose	4342340	0	1	10167	1	0	next	other	0
+MAXED_1010	463	Picture	stage1	4352506	0	1	5333	1	0	next	false_alarm	823
+MAXED_1010	463	Response	2	4357810	5303	1
+MAXED_1010	464	Picture	stage1_box	4357840	0	1	7667	1	0	next	other	0
+MAXED_1010	464	Pulse	99	4360000	2160	NA
+MAXED_1010	465	Picture	stage1_outcome	4365506	0	1	167	1	0	next	other	0
+MAXED_1010	466	Picture	stage2B	4365673	0	1	3000	1	0	next	false_alarm	828
+MAXED_1010	466	Response	2	4368530	2857	1
+MAXED_1010	467	Picture	stage2_box	4368673	0	1	7667	1	0	next	other	0
+MAXED_1010	468	Picture	stage2_up	4376340	0	1	7667	1	0	next	other	0
+MAXED_1010	468	Pulse	99	4380000	3660	NA
+MAXED_1010	469	Picture	stage2_lose	4384006	0	1	10167	1	0	next	other	0
+MAXED_1010	470	Picture	stage1	4394173	0	1	4167	1	0	next	false_alarm	834
+MAXED_1010	470	Response	2	4398210	4037	1
+MAXED_1010	471	Picture	stage1_box	4398340	0	1	7667	1	0	next	other	0
+MAXED_1010	471	Pulse	99	4400000	1660	NA
+MAXED_1010	472	Picture	stage1_outcome	4406006	0	1	167	1	0	next	other	0
+MAXED_1010	473	Picture	stage2A	4406173	0	1	3500	1	0	next	false_alarm	839
+MAXED_1010	473	Response	2	4409490	3317	1
+MAXED_1010	474	Picture	stage2_box	4409673	0	1	7667	1	0	next	other	0
+MAXED_1010	475	Picture	stage2_up	4417340	0	1	7667	1	0	next	other	0
+MAXED_1010	475	Pulse	99	4420000	2660	NA
+MAXED_1010	476	Picture	stage2_win	4425006	0	1	10167	1	0	next	other	0
+MAXED_1010	477	Picture	stage1	4435173	0	1	4667	1	0	next	false_alarm	845
+MAXED_1010	477	Response	2	4439650	4476	1
+MAXED_1010	478	Picture	stage1_box	4439840	0	1	7667	1	0	next	other	0
+MAXED_1010	478	Pulse	99	4440000	160	NA
+MAXED_1010	479	Picture	stage1_outcome	4447506	0	1	167	1	0	next	other	0
+MAXED_1010	480	Picture	stage2B	4447673	0	1	3000	1	0	next	false_alarm	850
+MAXED_1010	480	Response	2	4450530	2857	1
+MAXED_1010	481	Picture	stage2_box	4450673	0	1	7667	1	0	next	other	0
+MAXED_1010	482	Picture	stage2_up	4458340	0	1	7667	1	0	next	other	0
+MAXED_1010	482	Pulse	99	4460000	1660	NA
+MAXED_1010	483	Picture	stage2_lose	4466006	0	1	10167	1	0	next	other	0
+MAXED_1010	484	Picture	stage1	4476173	0	1	4667	1	0	next	false_alarm	857
+MAXED_1010	484	Pulse	99	4480000	3827	NA
+MAXED_1010	484	Response	2	4480770	4597	1
+MAXED_1010	485	Picture	stage1_box	4480840	0	1	7667	1	0	next	other	0
+MAXED_1010	486	Picture	stage1_outcome	4488507	0	1	167	1	0	next	other	0
+MAXED_1010	487	Picture	stage2B	4488673	0	1	3333	1	0	next	false_alarm	861
+MAXED_1010	487	Response	2	4491890	3217	1
+MAXED_1010	488	Picture	stage2_box	4492007	0	1	7667	1	0	next	other	0
+MAXED_1010	489	Picture	stage2_up	4499673	0	1	7667	1	0	next	other	0
+MAXED_1010	489	Pulse	99	4500000	327	NA
+MAXED_1010	490	Picture	stage2_lose	4507340	0	1	10167	1	0	next	other	0
+MAXED_1010	491	Picture	stage1	4517507	0	1	6167	1	0	next	false_alarm	868
+MAXED_1010	491	Pulse	99	4520000	2493	NA
+MAXED_1010	491	Response	2	4523490	5983	1
+MAXED_1010	492	Picture	stage1_box	4523673	0	1	7667	1	0	next	other	0
+MAXED_1010	493	Picture	stage1_outcome	4531340	0	1	167	1	0	next	other	0
+MAXED_1010	494	Picture	stage2B	4531507	0	1	3333	1	0	next	false_alarm	872
+MAXED_1010	494	Response	2	4534690	3183	1
+MAXED_1010	495	Picture	stage2_box	4534840	0	1	7667	1	0	next	other	0
+MAXED_1010	495	Pulse	99	4540000	5160	NA
+MAXED_1010	496	Picture	stage2_up	4542507	0	1	7667	1	0	next	other	0
+MAXED_1010	497	Picture	stage2_win	4550173	0	1	10167	1	0	next	other	0
+MAXED_1010	497	Pulse	99	4560000	9827	NA
+MAXED_1010	498	Picture	stage1	4560340	0	1	8833	1	0	next	false_alarm	879
+MAXED_1010	498	Response	2	4569090	8750	1
+MAXED_1010	499	Picture	stage1_box	4569173	0	1	7667	1	0	next	other	0
+MAXED_1010	500	Picture	stage1_outcome	4576840	0	1	167	1	0	next	other	0
+MAXED_1010	501	Picture	stage2B	4577007	0	1	2833	1	0	next	false_alarm	883
+MAXED_1010	501	Response	2	4579730	2723	1
+MAXED_1010	502	Picture	stage2_box	4579840	0	1	7667	1	0	next	other	0
+MAXED_1010	502	Pulse	99	4580000	160	NA
+MAXED_1010	503	Picture	stage2_up	4587507	0	1	7667	1	0	next	other	0
+MAXED_1010	504	Picture	stage2_lose	4595173	0	1	10167	1	0	next	other	0
+MAXED_1010	504	Pulse	99	4600000	4827	NA
+MAXED_1010	505	Picture	stage1	4605340	0	1	3333	1	0	next	false_alarm	890
+MAXED_1010	505	Response	2	4608530	3190	1
+MAXED_1010	506	Picture	stage1_box	4608673	0	1	7667	1	0	next	other	0
+MAXED_1010	507	Picture	stage1_outcome	4616340	0	1	167	1	0	next	other	0
+MAXED_1010	508	Picture	stage2B	4616507	0	1	4167	1	0	next	false_alarm	895
+MAXED_1010	508	Pulse	99	4620000	3493	NA
+MAXED_1010	508	Response	2	4620610	4103	1
+MAXED_1010	509	Picture	stage2_box	4620673	0	1	7667	1	0	next	other	0
+MAXED_1010	510	Picture	stage2_up	4628340	0	1	7667	1	0	next	other	0
+MAXED_1010	511	Picture	stage2_lose	4636007	0	1	10167	1	0	next	other	0
+MAXED_1010	511	Pulse	99	4640000	3993	NA
+MAXED_1010	512	Picture	stage1	4646173	0	1	4833	1	0	next	false_alarm	901
+MAXED_1010	512	Response	2	4650930	4756	1
+MAXED_1010	513	Picture	stage1_box	4651007	0	1	7667	1	0	next	other	0
+MAXED_1010	514	Picture	stage1_outcome	4658673	0	1	167	1	0	next	other	0
+MAXED_1010	515	Picture	stage2B	4658840	0	1	3000	1	0	next	false_alarm	906
+MAXED_1010	515	Pulse	99	4660000	1160	NA
+MAXED_1010	515	Response	2	4661730	2890	1
+MAXED_1010	516	Picture	stage2_box	4661840	0	1	7667	1	0	next	other	0
+MAXED_1010	517	Picture	stage2_up	4669507	0	1	7667	1	0	next	other	0
+MAXED_1010	518	Picture	stage2_win	4677174	0	1	10167	1	0	next	other	0
+MAXED_1010	518	Pulse	99	4680000	2827	NA
+MAXED_1010	519	Picture	stage1	4687340	0	1	2833	1	0	next	false_alarm	912
+MAXED_1010	519	Response	1	4690130	2790	1
+MAXED_1010	520	Picture	stage1_box	4690173	0	1	7667	1	0	next	other	0
+MAXED_1010	521	Picture	stage1_outcome	4697840	0	1	167	1	0	next	other	0
+MAXED_1010	522	Picture	stage2B	4698007	0	1	3500	1	0	next	false_alarm	917
+MAXED_1010	522	Pulse	99	4700000	1993	NA
+MAXED_1010	522	Response	1	4701410	3403	1
+MAXED_1010	523	Picture	stage2_box	4701507	0	1	7667	1	0	next	other	0
+MAXED_1010	524	Picture	stage2_up	4709174	0	1	7667	1	0	next	other	0
+MAXED_1010	525	Picture	stage2_win	4716840	0	1	10167	1	0	next	other	0
+MAXED_1010	525	Pulse	99	4720000	3160	NA
+MAXED_1010	526	Picture	stage1	4727007	0	1	4000	1	0	next	false_alarm	923
+MAXED_1010	526	Response	1	4730850	3843	1
+MAXED_1010	527	Picture	stage1_box	4731007	0	1	7667	1	0	next	other	0
+MAXED_1010	528	Picture	stage1_outcome	4738674	0	1	167	1	0	next	other	0
+MAXED_1010	529	Picture	stage2A	4738840	0	1	2667	1	0	next	false_alarm	928
+MAXED_1010	529	Pulse	99	4740000	1160	NA
+MAXED_1010	529	Response	1	4741410	2570	1
+MAXED_1010	530	Picture	stage2_box	4741507	0	1	7667	1	0	next	other	0
+MAXED_1010	531	Picture	stage2_up	4749174	0	1	7667	1	0	next	other	0
+MAXED_1010	532	Picture	stage2_lose	4756840	0	1	10167	1	0	next	other	0
+MAXED_1010	532	Pulse	99	4760000	3160	NA
+MAXED_1010	533	Picture	stage1	4767007	0	1	3333	1	0	next	false_alarm	934
+MAXED_1010	533	Response	1	4770210	3203	1
+MAXED_1010	534	Picture	stage1_box	4770340	0	1	7667	1	0	next	other	0
+MAXED_1010	535	Picture	stage1_outcome	4778007	0	1	167	1	0	next	other	0
+MAXED_1010	536	Picture	stage2B	4778174	0	1	3333	1	0	next	false_alarm	939
+MAXED_1010	536	Pulse	99	4780000	1826	NA
+MAXED_1010	536	Response	2	4781330	3156	1
+MAXED_1010	537	Picture	stage2_box	4781507	0	1	7667	1	0	next	other	0
+MAXED_1010	538	Picture	stage2_up	4789174	0	1	7667	1	0	next	other	0
+MAXED_1010	539	Picture	stage2_lose	4796840	0	1	10167	1	0	next	other	0
+MAXED_1010	539	Pulse	99	4800000	3160	NA
+MAXED_1010	540	Picture	stage1	4807007	0	1	2833	1	0	next	false_alarm	945
+MAXED_1010	540	Response	1	4809650	2643	1
+MAXED_1010	541	Picture	stage1_box	4809840	0	1	7667	1	0	next	other	0
+MAXED_1010	542	Picture	stage1_outcome	4817507	0	1	167	1	0	next	other	0
+MAXED_1010	543	Picture	stage2A	4817674	0	1	3500	1	0	next	false_alarm	950
+MAXED_1010	543	Pulse	99	4820000	2326	NA
+MAXED_1010	543	Response	2	4821010	3336	1
+MAXED_1010	544	Picture	stage2_box	4821174	0	1	7667	1	0	next	other	0
+MAXED_1010	545	Picture	stage2_up	4828840	0	1	7667	1	0	next	other	0
+MAXED_1010	546	Picture	stage2_lose	4836507	0	1	10167	1	0	next	other	0
+MAXED_1010	546	Pulse	99	4840000	3493	NA
+MAXED_1010	547	Picture	stage1	4846674	0	1	2667	1	0	next	false_alarm	956
+MAXED_1010	547	Response	1	4849250	2576	1
+MAXED_1010	548	Picture	stage1_box	4849340	0	1	7667	1	0	next	other	0
+MAXED_1010	549	Picture	stage1_outcome	4857007	0	1	167	1	0	next	other	0
+MAXED_1010	550	Picture	stage2A	4857174	0	1	2500	1	0	next	false_alarm	960
+MAXED_1010	550	Response	1	4859570	2396	1
+MAXED_1010	551	Picture	stage2_box	4859674	0	1	7667	1	0	next	other	0
+MAXED_1010	551	Pulse	99	4860000	326	NA
+MAXED_1010	552	Picture	stage2_up	4867340	0	1	7667	1	0	next	other	0
+MAXED_1010	553	Picture	stage2_win	4875007	0	1	10167	1	0	next	other	0
+MAXED_1010	553	Pulse	99	4880000	4993	NA
+MAXED_1010	554	Picture	stage1	4885174	0	1	4167	1	0	next	false_alarm	967
+MAXED_1010	554	Response	2	4889250	4076	1
+MAXED_1010	555	Picture	stage1_box	4889340	0	1	7667	1	0	next	other	0
+MAXED_1010	556	Picture	stage1_outcome	4897007	0	1	167	1	0	next	other	0
+MAXED_1010	557	Picture	stage2A	4897174	0	1	3333	1	0	next	false_alarm	972
+MAXED_1010	557	Pulse	99	4900000	2826	NA
+MAXED_1010	557	Response	2	4900370	3196	1
+MAXED_1010	558	Picture	stage2_box	4900507	0	1	7667	1	0	next	other	0
+MAXED_1010	559	Picture	stage2_up	4908174	0	1	7667	1	0	next	other	0
+MAXED_1010	560	Picture	stage2_win	4915841	0	1	10167	1	0	next	other	0
+MAXED_1010	560	Pulse	99	4920000	4160	NA
+MAXED_1010	561	Picture	stage1	4926007	0	1	3333	1	0	next	false_alarm	978
+MAXED_1010	561	Response	2	4929250	3243	1
+MAXED_1010	562	Picture	stage1_box	4929341	0	1	7667	1	0	next	other	0
+MAXED_1010	563	Picture	stage1_outcome	4937007	0	1	167	1	0	next	other	0
+MAXED_1010	564	Picture	stage2B	4937174	0	1	4500	1	0	next	false_alarm	983
+MAXED_1010	564	Pulse	99	4940000	2826	NA
+MAXED_1010	564	Response	2	4941570	4396	1
+MAXED_1010	565	Picture	stage2_box	4941674	0	1	7667	1	0	next	other	0
+MAXED_1010	566	Picture	stage2_up	4949341	0	1	7667	1	0	next	other	0
+MAXED_1010	567	Picture	stage2_lose	4957007	0	1	10167	1	0	next	other	0
+MAXED_1010	567	Pulse	99	4960000	2993	NA
+MAXED_1010	568	Picture	stage1	4967174	0	1	2833	1	0	next	false_alarm	989
+MAXED_1010	568	Response	2	4969970	2796	1
+MAXED_1010	569	Picture	stage1_box	4970007	0	1	7667	1	0	next	other	0
+MAXED_1010	570	Picture	stage1_outcome	4977674	0	1	167	1	0	next	other	0
+MAXED_1010	571	Picture	stage2B	4977841	0	1	2833	1	0	next	false_alarm	994
+MAXED_1010	571	Pulse	99	4980000	2159	NA
+MAXED_1010	571	Response	2	4980610	2769	1
+MAXED_1010	572	Picture	stage2_box	4980674	0	1	7667	1	0	next	other	0
+MAXED_1010	573	Picture	stage2_up	4988341	0	1	7667	1	0	next	other	0
+MAXED_1010	574	Picture	stage2_lose	4996007	0	1	10167	1	0	next	other	0
+MAXED_1010	574	Pulse	99	5000000	3993	NA
+MAXED_1010	575	Picture	stage1	5006174	0	1	5167	1	0	next	false_alarm	1000
+MAXED_1010	575	Response	1	5011250	5076	1
+MAXED_1010	576	Picture	stage1_box	5011341	0	1	7667	1	0	next	other	0
+MAXED_1010	577	Picture	stage1_outcome	5019007	0	1	167	1	0	next	other	0
+MAXED_1010	578	Picture	stage2A	5019174	0	1	3000	1	0	next	false_alarm	1005
+MAXED_1010	578	Pulse	99	5020000	826	NA
+MAXED_1010	578	Response	1	5022130	2956	1
+MAXED_1010	579	Picture	stage2_box	5022174	0	1	7667	1	0	next	other	0
+MAXED_1010	580	Picture	stage2_up	5029841	0	1	7667	1	0	next	other	0
+MAXED_1010	581	Picture	stage2_win	5037507	0	1	10167	1	0	next	other	0
+MAXED_1010	581	Pulse	99	5040000	2493	NA
+MAXED_1010	582	Picture	stage1	5047674	0	1	3167	1	0	next	false_alarm	1011
+MAXED_1010	582	Response	1	5050690	3016	1
+MAXED_1010	583	Picture	stage1_box	5050841	0	1	7667	1	0	next	other	0
+MAXED_1010	584	Picture	stage1_outcome	5058507	0	1	167	1	0	next	other	0
+MAXED_1010	585	Picture	stage2A	5058674	0	1	3167	1	0	next	false_alarm	1016
+MAXED_1010	585	Pulse	99	5060000	1326	NA
+MAXED_1010	585	Response	1	5061810	3136	1
+MAXED_1010	586	Picture	stage2_box	5061841	0	1	7667	1	0	next	other	0
+MAXED_1010	587	Picture	stage2_up	5069507	0	1	7667	1	0	next	other	0
+MAXED_1010	588	Picture	stage2_lose	5077174	0	1	10167	1	0	next	other	0
+MAXED_1010	588	Pulse	99	5080000	2826	NA
+MAXED_1010	589	Picture	stage1	5087341	0	1	3000	1	0	next	false_alarm	1022
+MAXED_1010	589	Response	1	5090290	2949	1
+MAXED_1010	590	Picture	stage1_box	5090341	0	1	7667	1	0	next	other	0
+MAXED_1010	591	Picture	stage1_outcome	5098007	0	1	167	1	0	next	other	0
+MAXED_1010	592	Picture	stage2B	5098174	0	1	2833	1	0	next	false_alarm	1027
+MAXED_1010	592	Pulse	99	5100000	1826	NA
+MAXED_1010	592	Response	2	5100930	2756	1
+MAXED_1010	593	Picture	stage2_box	5101007	0	1	7667	1	0	next	other	0
+MAXED_1010	594	Picture	stage2_up	5108674	0	1	7667	1	0	next	other	0
+MAXED_1010	595	Picture	stage2_win	5116341	0	1	10167	1	0	next	other	0
+MAXED_1010	595	Pulse	99	5120000	3659	NA
+MAXED_1010	596	Picture	stage1	5126507	0	1	3000	1	0	next	false_alarm	1033
+MAXED_1010	596	Response	1	5129410	2902	1
+MAXED_1010	597	Picture	stage1_box	5129507	0	1	7667	1	0	next	other	0
+MAXED_1010	598	Picture	stage1_outcome	5137174	0	1	167	1	0	next	other	0
+MAXED_1010	599	Picture	stage2B	5137341	0	1	4500	1	0	next	false_alarm	1038
+MAXED_1010	599	Pulse	99	5140000	2659	NA
+MAXED_1010	599	Response	2	5141730	4389	1
+MAXED_1010	600	Picture	stage2_box	5141841	0	1	7667	1	0	next	other	0
+MAXED_1010	601	Picture	stage2_up	5149508	0	1	7667	1	0	next	other	0
+MAXED_1010	602	Picture	stage2_lose	5157174	0	1	10167	1	0	next	other	0
+MAXED_1010	602	Pulse	99	5160000	2826	NA
+MAXED_1010	603	Picture	stage1	5167341	0	1	3667	1	0	next	false_alarm	1044
+MAXED_1010	603	Response	1	5170850	3509	1
+MAXED_1010	604	Picture	stage1_box	5171008	0	1	7667	1	0	next	other	0
+MAXED_1010	605	Picture	stage1_outcome	5178674	0	1	167	1	0	next	other	0
+MAXED_1010	606	Picture	stage2A	5178841	0	1	3000	1	0	next	false_alarm	1049
+MAXED_1010	606	Pulse	99	5180000	1159	NA
+MAXED_1010	606	Response	2	5181650	2809	1
+MAXED_1010	607	Picture	stage2_box	5181841	0	1	7667	1	0	next	other	0
+MAXED_1010	608	Picture	stage2_up	5189508	0	1	7667	1	0	next	other	0
+MAXED_1010	609	Picture	stage2_win	5197174	0	1	10167	1	0	next	other	0
+MAXED_1010	609	Pulse	99	5200000	2826	NA
+MAXED_1010	610	Picture	stage1	5207341	0	1	3333	1	0	next	false_alarm	1055
+MAXED_1010	610	Response	1	5210610	3269	1
+MAXED_1010	611	Picture	stage1_box	5210674	0	1	7667	1	0	next	other	0
+MAXED_1010	612	Picture	stage1_outcome	5218341	0	1	167	1	0	next	other	0
+MAXED_1010	613	Picture	stage2A	5218508	0	1	4667	1	0	next	false_alarm	1060
+MAXED_1010	613	Pulse	99	5220000	1492	NA
+MAXED_1010	613	Response	2	5223010	4502	1
+MAXED_1010	614	Picture	stage2_box	5223174	0	1	7667	1	0	next	other	0
+MAXED_1010	615	Picture	stage2_up	5230841	0	1	7667	1	0	next	other	0
+MAXED_1010	616	Picture	stage2_win	5238508	0	1	10167	1	0	next	other	0
+MAXED_1010	616	Pulse	99	5240000	1492	NA
+MAXED_1010	617	Picture	stage1	5248674	0	1	3833	1	0	next	false_alarm	1066
+MAXED_1010	617	Response	1	5252450	3776	1
+MAXED_1010	618	Picture	stage1_box	5252508	0	1	7667	1	0	next	other	0
+MAXED_1010	618	Pulse	99	5260000	7492	NA
+MAXED_1010	619	Picture	stage1_outcome	5260174	0	1	167	1	0	next	other	0
+MAXED_1010	620	Picture	stage2A	5260341	0	1	2333	1	0	next	false_alarm	1071
+MAXED_1010	620	Response	2	5262530	2189	1
+MAXED_1010	621	Picture	stage2_box	5262674	0	1	7667	1	0	next	other	0
+MAXED_1010	622	Picture	stage2_up	5270341	0	1	7667	1	0	next	other	0
+MAXED_1010	623	Picture	stage2_win	5278008	0	1	10167	1	0	next	other	0
+MAXED_1010	623	Pulse	99	5280000	1992	NA
+MAXED_1010	624	Picture	stage1	5288174	0	1	2667	1	0	next	false_alarm	1077
+MAXED_1010	624	Response	1	5290770	2596	1
+MAXED_1010	625	Picture	stage1_box	5290841	0	1	7667	1	0	next	other	0
+MAXED_1010	626	Picture	stage1_outcome	5298508	0	1	167	1	0	next	other	0
+MAXED_1010	627	Picture	stage2A	5298674	0	1	2333	1	0	next	false_alarm	1082
+MAXED_1010	627	Pulse	99	5300000	1326	NA
+MAXED_1010	627	Response	2	5300930	2256	1
+MAXED_1010	628	Picture	stage2_box	5301008	0	1	7667	1	0	next	other	0
+MAXED_1010	629	Picture	stage2_up	5308674	0	1	7667	1	0	next	other	0
+MAXED_1010	630	Picture	stage2_lose	5316341	0	1	10167	1	0	next	other	0
+MAXED_1010	630	Pulse	99	5320000	3659	NA
+MAXED_1010	631	Picture	stage1	5326508	0	1	2667	1	0	next	false_alarm	1088
+MAXED_1010	631	Response	1	5329090	2582	1
+MAXED_1010	632	Picture	stage1_box	5329174	0	1	7667	1	0	next	other	0
+MAXED_1010	633	Picture	stage1_outcome	5336841	0	1	167	1	0	next	other	0
+MAXED_1010	634	Picture	stage2A	5337008	0	1	2500	1	0	next	false_alarm	1092
+MAXED_1010	634	Response	1	5339410	2402	1
+MAXED_1010	635	Picture	stage2_box	5339508	0	1	7667	1	0	next	other	0
+MAXED_1010	635	Pulse	99	5340000	492	NA
+MAXED_1010	636	Picture	stage2_up	5347174	0	1	7667	1	0	next	other	0
+MAXED_1010	637	Picture	stage2_win	5354841	0	1	10167	1	0	next	other	0
+MAXED_1010	637	Pulse	99	5360000	5159	NA
+MAXED_1010	638	Picture	stage1	5365008	0	1	3833	1	0	next	false_alarm	1099
+MAXED_1010	638	Response	1	5368690	3682	1
+MAXED_1010	639	Picture	stage1_box	5368841	0	1	7667	1	0	next	other	0
+MAXED_1010	640	Picture	stage1_outcome	5376508	0	1	167	1	0	next	other	0
+MAXED_1010	641	Picture	stage2A	5376675	0	1	2000	1	0	next	false_alarm	1103
+MAXED_1010	641	Response	1	5378530	1856	1
+MAXED_1010	642	Picture	stage2_box	5378675	0	1	7667	1	0	next	other	0
+MAXED_1010	642	Pulse	99	5380000	1325	NA
+MAXED_1010	643	Picture	stage2_up	5386341	0	1	7667	1	0	next	other	0
+MAXED_1010	644	Picture	stage2_win	5394008	0	1	10167	1	0	next	other	0
+MAXED_1010	644	Pulse	99	5400000	5992	NA
+MAXED_1010	645	Picture	stage1	5404175	0	1	4500	1	0	next	false_alarm	1110
+MAXED_1010	645	Response	1	5408530	4356	1
+MAXED_1010	646	Picture	stage1_box	5408675	0	1	7667	1	0	next	other	0
+MAXED_1010	647	Picture	stage1_outcome	5416341	0	1	167	1	0	next	other	0
+MAXED_1010	648	Picture	stage2A	5416508	0	1	2167	1	0	next	false_alarm	1114
+MAXED_1010	648	Response	1	5418530	2022	1
+MAXED_1010	649	Picture	stage2_box	5418675	0	1	7667	1	0	next	other	0
+MAXED_1010	649	Pulse	99	5420000	1325	NA
+MAXED_1010	650	Picture	stage2_up	5426341	0	1	7667	1	0	next	other	0
+MAXED_1010	651	Picture	stage2_lose	5434008	0	1	10167	1	0	next	other	0
+MAXED_1010	651	Pulse	99	5440000	5992	NA
+MAXED_1010	652	Picture	stage1	5444175	0	1	3167	1	0	next	false_alarm	1121
+MAXED_1010	652	Response	2	5447250	3075	1
+MAXED_1010	653	Picture	stage1_box	5447341	0	1	7667	1	0	next	other	0
+MAXED_1010	654	Picture	stage1_outcome	5455008	0	1	167	1	0	next	other	0
+MAXED_1010	655	Picture	stage2B	5455175	0	1	3000	1	0	next	false_alarm	1125
+MAXED_1010	655	Response	2	5458130	2956	1
+MAXED_1010	656	Picture	stage2_box	5458175	0	1	7667	1	0	next	other	0
+MAXED_1010	656	Pulse	99	5460000	1825	NA
+MAXED_1010	657	Picture	stage2_up	5465841	0	1	7667	1	0	next	other	0
+MAXED_1010	658	Picture	stage2_lose	5473508	0	1	10167	1	0	next	other	0
+MAXED_1010	658	Pulse	99	5480000	6492	NA
+MAXED_1010	659	Picture	stage1	5483675	0	1	2833	1	0	next	false_alarm	1132
+MAXED_1010	659	Response	2	5486370	2696	1
+MAXED_1010	660	Picture	stage1_box	5486508	0	1	7667	1	0	next	other	0
+MAXED_1010	661	Picture	stage1_outcome	5494175	0	1	167	1	0	next	other	0
+MAXED_1010	662	Picture	stage2B	5494341	0	1	2833	1	0	next	false_alarm	1136
+MAXED_1010	662	Response	1	5497090	2748	1
+MAXED_1010	663	Picture	stage2_box	5497175	0	1	7667	1	0	next	other	0
+MAXED_1010	663	Pulse	99	5500000	2825	NA
+MAXED_1010	664	Picture	stage2_up	5504841	0	1	7667	1	0	next	other	0
+MAXED_1010	665	Picture	stage2_lose	5512508	0	1	10167	1	0	next	other	0
+MAXED_1010	665	Pulse	99	5520000	7492	NA
+MAXED_1010	666	Picture	stage1	5522675	0	1	5333	1	0	next	false_alarm	1143
+MAXED_1010	666	Response	2	5527970	5295	1
+MAXED_1010	667	Picture	stage1_box	5528008	0	1	7667	1	0	next	other	0
+MAXED_1010	668	Picture	stage1_outcome	5535675	0	1	167	1	0	next	other	0
+MAXED_1010	669	Picture	stage2A	5535841	0	1	2667	1	0	next	false_alarm	1147
+MAXED_1010	669	Response	1	5538450	2609	1
+MAXED_1010	670	Picture	stage2_box	5538508	0	1	7667	1	0	next	other	0
+MAXED_1010	670	Pulse	99	5540000	1492	NA
+MAXED_1010	671	Picture	stage2_up	5546175	0	1	7667	1	0	next	other	0
+MAXED_1010	672	Picture	stage2_win	5553841	0	1	10167	1	0	next	other	0
+MAXED_1010	672	Pulse	99	5560000	6159	NA
+MAXED_1010	673	Picture	stage1	5564008	0	1	3333	1	0	next	false_alarm	1154
+MAXED_1010	673	Response	2	5567250	3242	1
+MAXED_1010	674	Picture	stage1_box	5567342	0	1	7667	1	0	next	other	0
+MAXED_1010	675	Picture	stage1_outcome	5575008	0	1	167	1	0	next	other	0
+MAXED_1010	676	Picture	stage2B	5575175	0	1	2667	1	0	next	false_alarm	1158
+MAXED_1010	676	Response	1	5577810	2635	1
+MAXED_1010	677	Picture	stage2_box	5577842	0	1	7667	1	0	next	other	0
+MAXED_1010	677	Pulse	99	5580000	2159	NA
+MAXED_1010	678	Picture	stage2_up	5585508	0	1	7667	1	0	next	other	0
+MAXED_1010	679	Picture	stage2_win	5593175	0	1	10167	1	0	next	other	0
+MAXED_1010	679	Pulse	99	5600000	6825	NA
+MAXED_1010	680	Picture	stage1	5603342	0	1	3333	1	0	next	false_alarm	1165
+MAXED_1010	680	Response	2	5606610	3268	1
+MAXED_1010	681	Picture	stage1_box	5606675	0	1	7667	1	0	next	other	0
+MAXED_1010	682	Picture	stage1_outcome	5614342	0	1	167	1	0	next	other	0
+MAXED_1010	683	Picture	stage2B	5614508	0	1	2333	1	0	next	false_alarm	1169
+MAXED_1010	683	Response	1	5616770	2262	1
+MAXED_1010	684	Picture	stage2_box	5616842	0	1	7667	1	0	next	other	0
+MAXED_1010	684	Pulse	99	5620000	3158	NA
+MAXED_1010	685	Picture	stage2_up	5624508	0	1	7667	1	0	next	other	0
+MAXED_1010	686	Picture	stage2_win	5632175	0	1	10167	1	0	next	other	0
+MAXED_1010	686	Pulse	99	5640000	7825	NA
+MAXED_1010	687	Picture	stage1	5642342	0	1	3167	1	0	next	false_alarm	1176
+MAXED_1010	687	Response	2	5645330	2989	1
+MAXED_1010	688	Picture	stage1_box	5645508	0	1	7667	1	0	next	other	0
+MAXED_1010	689	Picture	stage1_outcome	5653175	0	1	167	1	0	next	other	0
+MAXED_1010	690	Picture	stage2B	5653342	0	1	3000	1	0	next	false_alarm	1180
+MAXED_1010	690	Response	1	5656290	2949	1
+MAXED_1010	691	Picture	stage2_box	5656342	0	1	7667	1	0	next	other	0
+MAXED_1010	691	Pulse	99	5660000	3658	NA
+MAXED_1010	692	Picture	stage2_up	5664008	0	1	7667	1	0	next	other	0
+MAXED_1010	693	Picture	stage2_win	5671675	0	1	10167	1	0	next	other	0
+MAXED_1010	693	Pulse	99	5680000	8325	NA
+MAXED_1010	694	Picture	stage1	5681842	0	1	3500	1	0	next	false_alarm	1187
+MAXED_1010	694	Response	2	5685250	3409	1
+MAXED_1010	695	Picture	stage1_box	5685342	0	1	7667	1	0	next	other	0
+MAXED_1010	696	Picture	stage1_outcome	5693008	0	1	167	1	0	next	other	0
+MAXED_1010	697	Picture	stage2A	5693175	0	1	2167	1	0	next	false_alarm	1191
+MAXED_1010	697	Response	1	5695250	2075	1
+MAXED_1010	698	Picture	stage2_box	5695342	0	1	7667	1	0	next	other	0
+MAXED_1010	698	Pulse	99	5700000	4658	NA
+MAXED_1010	699	Picture	stage2_up	5703008	0	1	7667	1	0	next	other	0
+MAXED_1010	700	Picture	stage2_win	5710675	0	1	10167	1	0	next	other	0
+MAXED_1010	700	Pulse	99	5720000	9325	NA
+MAXED_1010	701	Picture	stage1	5720842	0	1	3833	1	0	next	false_alarm	1198
+MAXED_1010	701	Response	2	5724610	3769	1
+MAXED_1010	702	Picture	stage1_box	5724675	0	1	7667	1	0	next	other	0
+MAXED_1010	703	Picture	stage1_outcome	5732342	0	1	167	1	0	next	other	0
+MAXED_1010	704	Picture	stage2B	5732508	0	1	2833	1	0	next	false_alarm	1202
+MAXED_1010	704	Response	1	5735250	2742	1
+MAXED_1010	705	Picture	stage2_box	5735342	0	1	7667	1	0	next	other	0
+MAXED_1010	705	Pulse	99	5740000	4658	NA
+MAXED_1010	706	Picture	stage2_up	5743008	0	1	7667	1	0	next	other	0
+MAXED_1010	707	Picture	stage2_lose	5750675	0	1	10167	1	0	next	other	0
+MAXED_1010	707	Pulse	99	5760000	9325	NA
+MAXED_1010	708	Picture	stage1	5760842	0	1	2833	1	0	next	false_alarm	1209
+MAXED_1010	708	Response	2	5763490	2648	1
+MAXED_1010	709	Picture	stage1_box	5763675	0	1	7667	1	0	next	other	0
+MAXED_1010	710	Picture	stage1_outcome	5771342	0	1	167	1	0	next	other	0
+MAXED_1010	711	Picture	stage2B	5771508	0	1	2333	1	0	next	false_alarm	1213
+MAXED_1010	711	Response	2	5773730	2222	1
+MAXED_1010	712	Picture	stage2_box	5773842	0	1	7667	1	0	next	other	0
+MAXED_1010	712	Pulse	99	5780000	6158	NA
+MAXED_1010	713	Picture	stage2_up	5781508	0	1	7667	1	0	next	other	0
+MAXED_1010	714	Picture	stage2_lose	5789175	0	1	10167	1	0	next	other	0
+MAXED_1010	715	Picture	stage1	5799342	0	1	2667	1	0	next	false_alarm	1220
+MAXED_1010	715	Pulse	99	5800000	658	NA
+MAXED_1010	715	Response	1	5801970	2628	1
+MAXED_1010	716	Picture	stage1_box	5802008	0	1	7667	1	0	next	other	0
+MAXED_1010	717	Picture	stage1_outcome	5809675	0	1	167	1	0	next	other	0
+MAXED_1010	718	Picture	stage2B	5809842	0	1	2500	1	0	next	false_alarm	1224
+MAXED_1010	718	Response	1	5812290	2448	1
+MAXED_1010	719	Picture	stage2_box	5812342	0	1	7667	1	0	next	other	0
+MAXED_1010	719	Pulse	99	5820000	7658	NA
+MAXED_1010	720	Picture	stage2_up	5820009	0	1	7667	1	0	next	other	0
+MAXED_1010	721	Picture	stage2_lose	5827675	0	1	10167	1	0	next	other	0
+MAXED_1010	722	Picture	stage1	5837842	0	1	2667	1	0	next	false_alarm	1231
+MAXED_1010	722	Pulse	99	5840000	2158	NA
+MAXED_1010	722	Response	1	5840450	2608	1
+MAXED_1010	723	Picture	stage1_box	5840509	0	1	7667	1	0	next	other	0
+MAXED_1010	724	Picture	stage1_outcome	5848175	0	1	167	1	0	next	other	0
+MAXED_1010	725	Picture	stage2B	5848342	0	1	6167	1	0	next	false_alarm	1235
+MAXED_1010	725	Response	2	5854370	6028	1
+MAXED_1010	726	Picture	stage2_box	5854509	0	1	7667	1	0	next	other	0
+MAXED_1010	726	Pulse	99	5860000	5491	NA
+MAXED_1010	727	Picture	stage2_up	5862175	0	1	7667	1	0	next	other	0
+MAXED_1010	728	Picture	stage2_win	5869842	0	1	10167	1	0	next	other	0
+MAXED_1010	728	Pulse	99	5880000	10158	NA
+MAXED_1010	729	Picture	stage1	5880009	0	1	3167	1	0	next	false_alarm	1242
+MAXED_1010	729	Response	1	5883010	3002	1
+MAXED_1010	730	Picture	stage1_box	5883175	0	1	7667	1	0	next	other	0
+MAXED_1010	731	Picture	stage1_outcome	5890842	0	1	167	1	0	next	other	0
+MAXED_1010	732	Picture	stage2A	5891009	0	1	2667	1	0	next	false_alarm	1246
+MAXED_1010	732	Response	2	5893570	2562	1
+MAXED_1010	733	Picture	stage2_box	5893675	0	1	7667	1	0	next	other	0
+MAXED_1010	733	Pulse	99	5900000	6325	NA
+MAXED_1010	734	Picture	stage2_up	5901342	0	1	7667	1	0	next	other	0
+MAXED_1010	735	Picture	stage2_lose	5909009	0	1	10167	1	0	next	other	0
+MAXED_1010	736	Picture	stage1	5919175	0	1	2833	1	0	next	false_alarm	1253
+MAXED_1010	736	Pulse	99	5920000	825	NA
+MAXED_1010	736	Response	1	5921970	2795	1
+MAXED_1010	737	Picture	stage1_box	5922009	0	1	7667	1	0	next	other	0
+MAXED_1010	738	Picture	stage1_outcome	5929675	0	1	167	1	0	next	other	0
+MAXED_1010	739	Picture	stage2A	5929842	0	1	2500	1	0	next	false_alarm	1257
+MAXED_1010	739	Response	1	5932290	2448	1
+MAXED_1010	740	Picture	stage2_box	5932342	0	1	7667	1	0	next	other	0
+MAXED_1010	740	Pulse	99	5940000	7658	NA
+MAXED_1010	741	Picture	stage2_up	5940009	0	1	7667	1	0	next	other	0
+MAXED_1010	742	Picture	stage2_win	5947675	0	1	10167	1	0	next	other	0
+MAXED_1010	743	Picture	stage1	5957842	0	1	3000	1	0	next	false_alarm	1264
+MAXED_1010	743	Pulse	99	5960000	2158	NA
+MAXED_1010	743	Response	1	5960690	2848	1
+MAXED_1010	744	Picture	stage1_box	5960842	0	1	7667	1	0	next	other	0
+MAXED_1010	745	Picture	stage1_outcome	5968509	0	1	167	1	0	next	other	0
+MAXED_1010	746	Picture	stage2B	5968675	0	1	2500	1	0	next	false_alarm	1268
+MAXED_1010	746	Response	1	5971090	2415	1
+MAXED_1010	747	Picture	stage2_box	5971175	0	1	7667	1	0	next	other	0
+MAXED_1010	748	Picture	stage2_up	5978842	0	1	7667	1	0	next	other	0
+MAXED_1010	748	Pulse	99	5980000	1158	NA
+MAXED_1010	749	Picture	stage2_win	5986509	0	1	10167	1	0	next	other	0
+MAXED_1010	750	Picture	stage1	5996675	0	1	3000	1	0	next	false_alarm	1274
+MAXED_1010	750	Response	1	5999570	2895	1
+MAXED_1010	751	Picture	stage1_box	5999675	0	1	7667	1	0	next	other	0
+MAXED_1010	751	Pulse	99	6000000	325	NA
+MAXED_1010	752	Picture	stage1_outcome	6007342	0	1	167	1	0	next	other	0
+MAXED_1010	753	Picture	stage2A	6007509	0	1	3000	1	0	next	false_alarm	1279
+MAXED_1010	753	Response	1	6010450	2941	1
+MAXED_1010	754	Picture	stage2_box	6010509	0	1	7667	1	0	next	other	0
+MAXED_1010	755	Picture	stage2_up	6018176	0	1	7667	1	0	next	other	0
+MAXED_1010	755	Pulse	99	6020000	1824	NA
+MAXED_1010	756	Picture	stage2_lose	6025842	0	1	10167	1	0	next	other	0
+MAXED_1010	757	Picture	stage1	6036009	0	1	5500	1	0	next	false_alarm	1286
+MAXED_1010	757	Pulse	99	6040000	3991	NA
+MAXED_1010	757	Response	1	6041330	5321	1
+MAXED_1010	758	Picture	stage1_box	6041509	0	1	7667	1	0	next	other	0
+MAXED_1010	759	Picture	stage1_outcome	6049176	0	1	167	1	0	next	other	0
+MAXED_1010	760	Picture	stage2B	6049342	0	1	5000	1	0	next	false_alarm	1290
+MAXED_1010	760	Response	1	6054290	4948	1
+MAXED_1010	761	Picture	stage2_box	6054342	0	1	7667	1	0	next	other	0
+MAXED_1010	761	Pulse	99	6060000	5658	NA
+MAXED_1010	762	Picture	stage2_up	6062009	0	1	7667	1	0	next	other	0
+MAXED_1010	763	Picture	stage2_lose	6069676	0	1	10167	1	0	next	other	0
+MAXED_1010	764	Picture	stage1	6079842	0	1	5167	1	0	next	false_alarm	1297
+MAXED_1010	764	Pulse	99	6080000	158	NA
+MAXED_1010	764	Response	1	6084850	5008	1
+MAXED_1010	765	Picture	stage1_box	6085009	0	1	7667	1	0	next	other	0
+MAXED_1010	766	Picture	stage1_outcome	6092676	0	1	167	1	0	next	other	0
+MAXED_1010	767	Picture	stage2A	6092842	0	1	8833	1	0	next	false_alarm	1302
+MAXED_1010	767	Pulse	99	6100000	7158	NA
+MAXED_1010	767	Response	1	6101570	8728	1
+MAXED_1010	768	Picture	stage2_box	6101676	0	1	7667	1	0	next	other	0
+MAXED_1010	769	Picture	stage2_up	6109342	0	1	7667	1	0	next	other	0
+MAXED_1010	770	Picture	stage2_win	6117009	0	1	10167	1	0	next	other	0
+MAXED_1010	770	Pulse	99	6120000	2991	NA
+MAXED_1010	771	Picture	stage1	6127176	0	1	6333	1	0	next	false_alarm	1308
+MAXED_1010	771	Response	1	6133330	6155	1
+MAXED_1010	772	Picture	stage1_box	6133509	0	1	7667	1	0	next	other	0
+MAXED_1010	772	Pulse	99	6140000	6491	NA
+MAXED_1010	773	Picture	stage1_outcome	6141176	0	1	167	1	0	next	other	0
+MAXED_1010	774	Picture	stage2B	6141342	0	1	3000	1	0	next	false_alarm	1313
+MAXED_1010	774	Response	1	6144290	2948	1
+MAXED_1010	775	Picture	stage2_box	6144342	0	1	7667	1	0	next	other	0
+MAXED_1010	776	Picture	stage2_up	6152009	0	1	7667	1	0	next	other	0
+MAXED_1010	777	Picture	stage2_win	6159676	0	1	10167	1	0	next	other	0
+MAXED_1010	777	Pulse	99	6160000	324	NA
+MAXED_1010	778	Picture	stage1	6169842	0	1	4333	1	0	next	false_alarm	1319
+MAXED_1010	778	Response	1	6174050	4208	1
+MAXED_1010	779	Picture	stage1_box	6174176	0	1	7667	1	0	next	other	0
+MAXED_1010	779	Pulse	99	6180000	5824	NA
+MAXED_1010	780	Picture	stage1_outcome	6181842	0	1	167	1	0	next	other	0
+MAXED_1010	781	Picture	stage2A	6182009	0	1	2000	1	0	next	false_alarm	1324
+MAXED_1010	781	Response	1	6183970	1961	1
+MAXED_1010	782	Picture	stage2_box	6184009	0	1	7667	1	0	next	other	0
+MAXED_1010	783	Picture	stage2_up	6191676	0	1	7667	1	0	next	other	0
+MAXED_1010	784	Picture	stage2_lose	6199342	0	1	10167	1	0	next	other	0
+MAXED_1010	784	Pulse	99	6200000	658	NA
+MAXED_1010	785	Picture	stage1	6209509	0	1	14833	1	0	next	false_alarm	1331
+MAXED_1010	785	Pulse	99	6220000	10491	NA
+MAXED_1010	785	Response	1	6224210	14701	1
+MAXED_1010	786	Picture	stage1_box	6224342	0	1	7667	1	0	next	other	0
+MAXED_1010	787	Picture	stage1_outcome	6232009	0	1	167	1	0	next	other	0
+MAXED_1010	788	Picture	stage2A	6232176	0	1	3500	1	0	next	false_alarm	1335
+MAXED_1010	788	Response	1	6235490	3314	1
+MAXED_1010	789	Picture	stage2_box	6235676	0	1	7667	1	0	next	other	0
+MAXED_1010	789	Pulse	99	6240000	4324	NA
+MAXED_1010	790	Picture	stage2_up	6243342	0	1	7667	1	0	next	other	0
+MAXED_1010	791	Picture	stage2_win	6251009	0	1	10167	1	0	next	other	0
+MAXED_1010	791	Pulse	99	6260000	8991	NA
+MAXED_1010	792	Picture	stage1	6261176	0	1	10833	1	0	next	false_alarm	1342
+MAXED_1010	792	Response	1	6271888	10712	2
+MAXED_1010	793	Picture	stage1_box	6272009	0	1	7667	1	0	next	other	0
+MAXED_1010	794	Picture	stage1_outcome	6279676	0	1	167	1	0	next	other	0
+MAXED_1010	795	Picture	stage2B	6279843	0	1	3167	1	0	next	false_alarm	1347
+MAXED_1010	795	Pulse	99	6280000	157	NA
+MAXED_1010	795	Response	1	6282850	3008	1
+MAXED_1010	796	Picture	stage2_box	6283009	0	1	7667	1	0	next	other	0
+MAXED_1010	797	Picture	stage2_up	6290676	0	1	7667	1	0	next	other	0
+MAXED_1010	798	Picture	stage2_win	6298343	0	1	10167	1	0	next	other	0
+MAXED_1010	798	Pulse	99	6300000	1657	NA
+MAXED_1010	799	Picture	stage1	6308509	0	1	4000	1	0	next	false_alarm	1353
+MAXED_1010	799	Response	1	6312450	3941	1
+MAXED_1010	800	Picture	stage1_box	6312509	0	1	7667	1	0	next	other	0
+MAXED_1010	800	Pulse	99	6320000	7491	NA
+MAXED_1010	801	Picture	stage1_outcome	6320176	0	1	167	1	0	next	other	0
+MAXED_1010	802	Picture	stage2A	6320343	0	1	2500	1	0	next	false_alarm	1358
+MAXED_1010	802	Response	1	6322770	2428	1
+MAXED_1010	803	Picture	stage2_box	6322843	0	1	7667	1	0	next	other	0
+MAXED_1010	804	Picture	stage2_up	6330509	0	1	7667	1	0	next	other	0
+MAXED_1010	805	Picture	stage2_win	6338176	0	1	10167	1	0	next	other	0
+MAXED_1010	805	Pulse	99	6340000	1824	NA
+MAXED_1010	806	Picture	stage1	6348343	0	1	12000	1	0	next	false_alarm	1365
+MAXED_1010	806	Pulse	99	6360000	11657	NA
+MAXED_1010	806	Response	1	6360290	11948	1
+MAXED_1010	807	Picture	stage1_box	6360343	0	1	7667	1	0	next	other	0
+MAXED_1010	808	Picture	stage1_outcome	6368009	0	1	167	1	0	next	other	0
+MAXED_1010	809	Picture	stage2A	6368176	0	1	3167	1	0	next	false_alarm	1369
+MAXED_1010	809	Response	1	6371250	3074	1
+MAXED_1010	810	Picture	stage2_box	6371343	0	1	7667	1	0	next	other	0
+MAXED_1010	811	Picture	stage2_up	6379009	0	1	7667	1	0	next	other	0
+MAXED_1010	811	Pulse	99	6380000	991	NA
+MAXED_1010	812	Picture	stage2_win	6386676	0	1	10167	1	0	next	other	0
+MAXED_1010	813	Picture	stage1	6396843	0	1	1500	1	0	next	false_alarm	1375
+MAXED_1010	813	Response	1	6398290	1448	1
+MAXED_1010	814	Picture	stage1_box	6398343	0	1	7667	1	0	next	other	0
+MAXED_1010	814	Pulse	99	6400000	1657	NA
+MAXED_1010	815	Picture	stage1_outcome	6406009	0	1	167	1	0	next	other	0
+MAXED_1010	816	Picture	stage2A	6406176	0	1	1667	1	0	next	false_alarm	1380
+MAXED_1010	816	Response	1	6407810	1634	1
+MAXED_1010	817	Picture	stage2_box	6407843	0	1	7667	1	0	next	other	0
+MAXED_1010	818	Picture	stage2_up	6415509	0	1	7667	1	0	next	other	0
+MAXED_1010	818	Pulse	99	6420000	4491	NA
+MAXED_1010	819	Picture	stage2_win	6423176	0	1	10167	1	0	next	other	0
+MAXED_1010	820	Picture	stage1	6433343	0	1	6000	1	0	next	false_alarm	1386
+MAXED_1010	820	Response	1	6439170	5828	1
+MAXED_1010	821	Picture	stage1_box	6439343	0	1	7667	1	0	next	other	0
+MAXED_1010	821	Pulse	99	6440000	657	NA
+MAXED_1010	822	Picture	stage1_outcome	6447009	0	1	167	1	0	next	other	0
+MAXED_1010	823	Picture	stage2A	6447176	0	1	2500	1	0	next	false_alarm	1391
+MAXED_1010	823	Response	1	6449490	2314	1
+MAXED_1010	824	Picture	stage2_box	6449676	0	1	7667	1	0	next	other	0
+MAXED_1010	825	Picture	stage2_up	6457343	0	1	7667	1	0	next	other	0
+MAXED_1010	825	Pulse	99	6460000	2657	NA
+MAXED_1010	826	Picture	stage2_lose	6465010	0	1	10167	1	0	next	other	0
+MAXED_1010	827	Picture	stage1	6475176	0	1	14667	1	0	next	false_alarm	1398
+MAXED_1010	827	Pulse	99	6480000	4824	NA
+MAXED_1010	827	Response	1	6489730	14554	1
+MAXED_1010	828	Picture	stage1_box	6489843	0	1	7667	1	0	next	other	0
+MAXED_1010	829	Picture	stage1_outcome	6497510	0	1	167	1	0	next	other	0
+MAXED_1010	830	Picture	stage2A	6497676	0	1	2167	1	0	next	false_alarm	1402
+MAXED_1010	830	Response	2	6499650	1974	1
+MAXED_1010	831	Picture	stage2_box	6499843	0	1	7667	1	0	next	other	0
+MAXED_1010	831	Pulse	99	6500000	157	NA
+MAXED_1010	832	Picture	stage2_up	6507510	0	1	7667	1	0	next	other	0
+MAXED_1010	833	Picture	stage2_win	6515176	0	1	10167	1	0	next	other	0
+MAXED_1010	833	Pulse	99	6520000	4824	NA
+MAXED_1010	834	Picture	stage1	6525343	0	1	15833	1	0	next	false_alarm	1410
+MAXED_1010	834	Pulse	99	6540000	14657	NA
+MAXED_1010	834	Response	1	6541011	15668	1
+MAXED_1010	835	Picture	stage1_box	6541176	0	1	7667	1	0	next	other	0
+MAXED_1010	836	Picture	stage1_outcome	6548843	0	1	167	1	0	next	other	0
+MAXED_1010	837	Picture	stage2A	6549010	0	1	2500	1	0	next	false_alarm	1414
+MAXED_1010	837	Response	2	6551410	2401	1
+MAXED_1010	838	Picture	stage2_box	6551510	0	1	7667	1	0	next	other	0
+MAXED_1010	839	Picture	stage2_up	6559176	0	1	7667	1	0	next	other	0
+MAXED_1010	839	Pulse	99	6560000	824	NA
+MAXED_1010	840	Picture	stage2_win	6566843	0	1	10167	1	0	next	other	0
+MAXED_1010	841	Picture	stage1	6577010	0	1	3333	1	0	next	false_alarm	1421
+MAXED_1010	841	Pulse	99	6580000	2990	NA
+MAXED_1010	841	Response	2	6580290	3281	1
+MAXED_1010	842	Picture	stage1_box	6580343	0	1	7667	1	0	next	other	0
+MAXED_1010	843	Picture	stage1_outcome	6588010	0	1	167	1	0	next	other	0
+MAXED_1010	844	Picture	stage2B	6588176	0	1	3000	1	0	next	false_alarm	1425
+MAXED_1010	844	Response	2	6591090	2914	1
+MAXED_1010	845	Picture	stage2_box	6591176	0	1	7667	1	0	next	other	0
+MAXED_1010	846	Picture	stage2_up	6598843	0	1	7667	1	0	next	other	0
+MAXED_1010	846	Pulse	99	6600000	1157	NA
+MAXED_1010	847	Picture	stage2_win	6606510	0	1	10167	1	0	next	other	0
+MAXED_1010	848	Picture	stage1	6616676	0	1	3500	1	0	next	false_alarm	1432
+MAXED_1010	848	Pulse	99	6620000	3324	NA
+MAXED_1010	848	Response	2	6620050	3374	1
+MAXED_1010	849	Picture	stage1_box	6620176	0	1	7667	1	0	next	other	0
+MAXED_1010	850	Picture	stage1_outcome	6627843	0	1	167	1	0	next	other	0
+MAXED_1010	851	Picture	stage2B	6628010	0	1	2667	1	0	next	false_alarm	1436
+MAXED_1010	851	Response	2	6630610	2601	1
+MAXED_1010	852	Picture	stage2_box	6630676	0	1	7667	1	0	next	other	0
+MAXED_1010	853	Picture	stage2_up	6638343	0	1	7667	1	0	next	other	0
+MAXED_1010	853	Pulse	99	6640000	1657	NA
+MAXED_1010	854	Picture	stage2_win	6646010	0	1	10167	1	0	next	other	0
+MAXED_1010	855	Picture	stage1	6656176	0	1	2500	1	0	next	false_alarm	1442
+MAXED_1010	855	Response	2	6658610	2434	1
+MAXED_1010	856	Picture	stage1_box	6658676	0	1	7667	1	0	next	other	0
+MAXED_1010	856	Pulse	99	6660000	1324	NA
+MAXED_1010	857	Picture	stage1_outcome	6666343	0	1	167	1	0	next	other	0
+MAXED_1010	858	Picture	stage2B	6666510	0	1	2333	1	0	next	false_alarm	1447
+MAXED_1010	858	Response	2	6668770	2261	1
+MAXED_1010	859	Picture	stage2_box	6668843	0	1	7667	1	0	next	other	0
+MAXED_1010	860	Picture	stage2_up	6676510	0	1	7667	1	0	next	other	0
+MAXED_1010	860	Pulse	99	6680000	3490	NA
+MAXED_1010	861	Picture	stage2_win	6684176	0	1	10167	1	0	next	other	0
+MAXED_1010	862	Picture	stage1	6694343	0	1	3000	1	0	next	false_alarm	1453
+MAXED_1010	862	Response	2	6697250	2907	1
+MAXED_1010	863	Picture	stage1_box	6697343	0	1	7667	1	0	next	other	0
+MAXED_1010	863	Pulse	99	6700000	2657	NA
+MAXED_1010	864	Picture	stage1_outcome	6705010	0	1	167	1	0	next	other	0
+MAXED_1010	865	Picture	stage2B	6705177	0	1	3167	1	0	next	false_alarm	1458
+MAXED_1010	865	Response	2	6708290	3114	1
+MAXED_1010	866	Picture	stage2_box	6708343	0	1	7667	1	0	next	other	0
+MAXED_1010	867	Picture	stage2_up	6716010	0	1	7667	1	0	next	other	0
+MAXED_1010	867	Pulse	99	6720000	3990	NA
+MAXED_1010	868	Picture	stage2_win	6723677	0	1	10167	1	0	next	other	0
+MAXED_1010	869	Picture	stage1	6733843	0	1	3000	1	0	next	false_alarm	1464
+MAXED_1010	869	Response	2	6736770	2927	1
+MAXED_1010	870	Picture	stage1_box	6736843	0	1	7667	1	0	next	other	0
+MAXED_1010	870	Pulse	99	6740000	3157	NA
+MAXED_1010	871	Picture	stage1_outcome	6744510	0	1	167	1	0	next	other	0
+MAXED_1010	872	Picture	stage2B	6744677	0	1	2667	1	0	next	false_alarm	1469
+MAXED_1010	872	Response	2	6747171	2494	1
+MAXED_1010	873	Picture	stage2_box	6747343	0	1	7667	1	0	next	other	0
+MAXED_1010	874	Picture	stage2_up	6755010	0	1	7667	1	0	next	other	0
+MAXED_1010	874	Pulse	99	6760000	4990	NA
+MAXED_1010	875	Picture	stage2_lose	6762677	0	1	10167	1	0	next	other	0
+MAXED_1010	876	Picture	stage1	6772843	0	1	3000	1	0	next	false_alarm	1475
+MAXED_1010	876	Response	2	6775650	2807	1
+MAXED_1010	877	Picture	stage1_box	6775843	0	1	7667	1	0	next	other	0
+MAXED_1010	877	Pulse	99	6780000	4157	NA
+MAXED_1010	878	Picture	stage1_outcome	6783510	0	1	167	1	0	next	other	0
+MAXED_1010	879	Picture	stage2B	6783677	0	1	1333	1	0	next	false_alarm	1480
+MAXED_1010	879	Response	2	6784851	1174	1
+MAXED_1010	880	Picture	stage2_box	6785010	0	1	7667	1	0	next	other	0
+MAXED_1010	881	Picture	stage2_up	6792677	0	1	7667	1	0	next	other	0
+MAXED_1010	881	Pulse	99	6800000	7323	NA
+MAXED_1010	882	Picture	stage2_win	6800343	0	1	10167	1	0	next	other	0
+MAXED_1010	883	Picture	stage1	6810510	0	1	2500	1	0	next	false_alarm	1486
+MAXED_1010	883	Response	2	6812931	2421	1
+MAXED_1010	884	Picture	stage1_box	6813010	0	1	7667	1	0	next	other	0
+MAXED_1010	884	Pulse	99	6820000	6990	NA
+MAXED_1010	885	Picture	stage1_outcome	6820677	0	1	167	1	0	next	other	0
+MAXED_1010	886	Picture	stage2A	6820843	0	1	2167	1	0	next	false_alarm	1491
+MAXED_1010	886	Response	2	6822850	2007	1
+MAXED_1010	887	Picture	stage2_box	6823010	0	1	7667	1	0	next	other	0
+MAXED_1010	888	Picture	stage2_up	6830677	0	1	7667	1	0	next	other	0
+MAXED_1010	889	Picture	stage2_win	6838343	0	1	10167	1	0	next	other	0
+MAXED_1010	889	Pulse	99	6840000	1657	NA
+MAXED_1010	890	Picture	stage1	6848510	0	1	2667	1	0	next	false_alarm	1497
+MAXED_1010	890	Response	2	6851090	2580	1
+MAXED_1010	891	Picture	stage1_box	6851177	0	1	7667	1	0	next	other	0
+MAXED_1010	892	Picture	stage1_outcome	6858843	0	1	167	1	0	next	other	0
+MAXED_1010	893	Picture	stage2B	6859010	0	1	2000	1	0	next	false_alarm	1502
+MAXED_1010	893	Pulse	99	6860000	990	NA
+MAXED_1010	893	Response	2	6860930	1920	1
+MAXED_1010	894	Picture	stage2_box	6861010	0	1	7667	1	0	next	other	0
+MAXED_1010	895	Picture	stage2_up	6868677	0	1	7667	1	0	next	other	0
+MAXED_1010	896	Picture	stage2_lose	6876343	0	1	10167	1	0	next	other	0
+MAXED_1010	896	Pulse	99	6880000	3657	NA
+MAXED_1010	897	Picture	stage1	6886510	0	1	6833	1	0	next	false_alarm	1508
+MAXED_1010	897	Response	2	6893170	6660	1
+MAXED_1010	898	Picture	stage1_box	6893343	0	1	7667	1	0	next	other	0
+MAXED_1010	898	Pulse	99	6900000	6657	NA
+MAXED_1010	899	Picture	stage1_outcome	6901010	0	1	167	1	0	next	other	0
+MAXED_1010	900	Picture	stage2A	6901177	0	1	2667	1	0	next	false_alarm	1513
+MAXED_1010	900	Response	2	6903811	2634	1
+MAXED_1010	901	Picture	stage2_box	6903843	0	1	7667	1	0	next	other	0
+MAXED_1010	902	Picture	stage2_up	6911510	0	1	7667	1	0	next	other	0
+MAXED_1010	903	Picture	stage2_lose	6919177	0	1	10167	1	0	next	other	0
+MAXED_1010	903	Pulse	99	6920000	823	NA
+MAXED_1010	904	Picture	stage1	6929344	0	1	6500	1	0	next	false_alarm	1519
+MAXED_1010	904	Response	2	6935651	6307	1
+MAXED_1010	905	Picture	stage1_box	6935844	0	1	7667	1	0	next	other	0
+MAXED_1010	905	Pulse	99	6940000	4156	NA
+MAXED_1010	906	Picture	stage1_outcome	6943510	0	1	167	1	0	next	other	0
+MAXED_1010	907	Picture	stage2B	6943677	0	1	3000	1	0	next	false_alarm	1524
+MAXED_1010	907	Response	2	6946610	2933	1
+MAXED_1010	908	Picture	stage2_box	6946677	0	1	7667	1	0	next	other	0
+MAXED_1010	909	Picture	stage2_up	6954344	0	1	7667	1	0	next	other	0
+MAXED_1010	909	Pulse	99	6960000	5656	NA
+MAXED_1010	910	Picture	stage2_lose	6962010	0	1	10167	1	0	next	other	0
+MAXED_1010	911	Picture	stage1	6972177	0	1	4500	1	0	next	false_alarm	1530
+MAXED_1010	911	Response	2	6976531	4354	1
+MAXED_1010	912	Picture	stage1_box	6976677	0	1	7667	1	0	next	other	0
+MAXED_1010	912	Pulse	99	6980000	3323	NA
+MAXED_1010	913	Picture	stage1_outcome	6984344	0	1	167	1	0	next	other	0
+MAXED_1010	914	Picture	stage2B	6984510	0	1	12833	1	0	next	false_alarm	1535
+MAXED_1010	914	Response	2	6997251	12740	1
+MAXED_1010	915	Picture	stage2_box	6997344	0	1	7667	1	0	next	other	0
+MAXED_1010	915	Pulse	99	7000000	2656	NA
+MAXED_1010	916	Picture	stage2_up	7005010	0	1	7667	1	0	next	other	0
+MAXED_1010	917	Picture	stage2_lose	7012677	0	1	10167	1	0	next	other	0
+MAXED_1010	917	Pulse	99	7020000	7323	NA
+MAXED_1010	918	Picture	stage1	7022844	0	1	3500	1	0	next	false_alarm	1542
+MAXED_1010	918	Response	2	7026291	3447	1
+MAXED_1010	919	Picture	stage1_box	7026344	0	1	7667	1	0	next	other	0
+MAXED_1010	920	Picture	stage1_outcome	7034010	0	1	167	1	0	next	other	0
+MAXED_1010	921	Picture	stage2A	7034177	0	1	3000	1	0	next	false_alarm	1546
+MAXED_1010	921	Response	2	7037011	2834	1
+MAXED_1010	922	Picture	stage2_box	7037177	0	1	7667	1	0	next	other	0
+MAXED_1010	922	Pulse	99	7040000	2823	NA
+MAXED_1010	923	Picture	stage2_up	7044844	0	1	7667	1	0	next	other	0
+MAXED_1010	924	Picture	stage2_win	7052510	0	1	10167	1	0	next	other	0
+MAXED_1010	924	Pulse	99	7060000	7490	NA
+MAXED_1010	925	Picture	stage1	7062677	0	1	3833	1	0	next	false_alarm	1553
+MAXED_1010	925	Response	2	7066451	3774	1
+MAXED_1010	926	Picture	stage1_box	7066510	0	1	7667	1	0	next	other	0
+MAXED_1010	927	Picture	stage1_outcome	7074177	0	1	167	1	0	next	other	0
+MAXED_1010	928	Picture	stage2A	7074344	0	1	2167	1	0	next	false_alarm	1557
+MAXED_1010	928	Response	2	7076371	2027	1
+MAXED_1010	929	Picture	stage2_box	7076510	0	1	7667	1	0	next	other	0
+MAXED_1010	929	Pulse	99	7080000	3490	NA
+MAXED_1010	930	Picture	stage2_up	7084177	0	1	7667	1	0	next	other	0
+MAXED_1010	931	Picture	stage2_win	7091844	0	1	10167	1	0	next	other	0
+MAXED_1010	931	Pulse	99	7100000	8156	NA
+MAXED_1010	932	Picture	stage1	7102010	0	1	4167	1	0	next	false_alarm	1564
+MAXED_1010	932	Response	2	7106051	4040	1
+MAXED_1010	933	Picture	stage1_box	7106177	0	1	7667	1	0	next	other	0
+MAXED_1010	934	Picture	stage1_outcome	7113844	0	1	167	1	0	next	other	0
+MAXED_1010	935	Picture	stage2B	7114010	0	1	3500	1	0	next	false_alarm	1568
+MAXED_1010	935	Response	2	7117411	3400	1
+MAXED_1010	936	Picture	stage2_box	7117510	0	1	7667	1	0	next	other	0
+MAXED_1010	936	Pulse	99	7120000	2490	NA
+MAXED_1010	937	Picture	stage2_up	7125177	0	1	7667	1	0	next	other	0
+MAXED_1010	938	Picture	stage2_lose	7132844	0	1	10167	1	0	next	other	0
+MAXED_1010	938	Pulse	99	7140000	7156	NA
+MAXED_1010	939	Picture	stage1	7143011	0	1	7167	1	0	next	false_alarm	1575
+MAXED_1010	939	Response	2	7150131	7120	1
+MAXED_1010	940	Picture	stage1_box	7150177	0	1	7667	1	0	next	other	0
+MAXED_1010	941	Picture	stage1_outcome	7157844	0	1	167	1	0	next	other	0
+MAXED_1010	942	Picture	stage2B	7158011	0	1	3833	1	0	next	false_alarm	1580
+MAXED_1010	942	Pulse	99	7160000	1989	NA
+MAXED_1010	942	Response	1	7161651	3640	1
+MAXED_1010	943	Picture	stage2_box	7161844	0	1	7667	1	0	next	other	0
+MAXED_1010	944	Picture	stage2_up	7169511	0	1	7667	1	0	next	other	0
+MAXED_1010	945	Picture	stage2_win	7177177	0	1	10167	1	0	next	other	0
+MAXED_1010	945	Pulse	99	7180000	2823	NA
+MAXED_1010	946	Picture	stage1	7187344	0	1	5667	1	0	next	false_alarm	1586
+MAXED_1010	946	Response	2	7192851	5507	1
+MAXED_1010	947	Picture	stage1_box	7193011	0	1	7667	1	0	next	other	0
+MAXED_1010	947	Pulse	99	7200000	6989	NA
+MAXED_1010	948	Picture	stage1_outcome	7200677	0	1	167	1	0	next	other	0
+MAXED_1010	949	Picture	stage2B	7200844	0	1	2500	1	0	next	false_alarm	1591
+MAXED_1010	949	Response	1	7203251	2407	1
+MAXED_1010	950	Picture	stage2_box	7203344	0	1	7667	1	0	next	other	0
+MAXED_1010	951	Picture	stage2_up	7211011	0	1	7667	1	0	next	other	0
+MAXED_1010	952	Picture	stage2_lose	7218677	0	1	10167	1	0	next	other	0
+MAXED_1010	952	Pulse	99	7220000	1323	NA
+MAXED_1010	953	Picture	stage1	7228844	0	1	5000	1	0	next	false_alarm	1597
+MAXED_1010	953	Response	2	7233651	4807	1
+MAXED_1010	954	Picture	stage1_box	7233844	0	1	7667	1	0	next	other	0
+MAXED_1010	954	Pulse	99	7240000	6156	NA
+MAXED_1010	955	Picture	stage1_outcome	7241511	0	1	167	1	0	next	other	0
+MAXED_1010	956	Picture	stage2B	7241677	0	1	2500	1	0	next	false_alarm	1602
+MAXED_1010	956	Response	1	7244051	2373	1
+MAXED_1010	957	Picture	stage2_box	7244177	0	1	7667	1	0	next	other	0
+MAXED_1010	958	Picture	stage2_up	7251844	0	1	7667	1	0	next	other	0
+MAXED_1010	959	Picture	stage2_lose	7259511	0	1	10167	1	0	next	other	0
+MAXED_1010	959	Pulse	99	7260000	489	NA
+MAXED_1010	960	Picture	stage1	7269677	0	1	3833	1	0	next	false_alarm	1608
+MAXED_1010	960	Response	2	7273411	3733	1
+MAXED_1010	961	Picture	stage1_box	7273511	0	1	7667	1	0	next	other	0
+MAXED_1010	961	Pulse	99	7280000	6489	NA
+MAXED_1010	962	Picture	stage1_outcome	7281177	0	1	167	1	0	next	other	0
+MAXED_1010	963	Picture	stage2B	7281344	0	1	3667	1	0	next	false_alarm	1613
+MAXED_1010	963	Response	1	7284931	3587	1
+MAXED_1010	964	Picture	stage2_box	7285011	0	1	7667	1	0	next	other	0
+MAXED_1010	965	Picture	stage2_up	7292677	0	1	7667	1	0	next	other	0
+MAXED_1010	965	Pulse	99	7300000	7323	NA
+MAXED_1010	966	Picture	stage2_lose	7300344	0	1	10167	1	0	next	other	0
+MAXED_1010	967	Picture	stage1	7310511	0	1	5833	1	0	next	false_alarm	1619
+MAXED_1010	967	Response	1	7316291	5780	1
+MAXED_1010	968	Picture	stage1_box	7316344	0	1	7667	1	0	next	other	0
+MAXED_1010	968	Pulse	99	7320000	3656	NA
+MAXED_1010	969	Picture	stage1_outcome	7324011	0	1	167	1	0	next	other	0
+MAXED_1010	970	Picture	stage2A	7324177	0	1	3333	1	0	next	false_alarm	1624
+MAXED_1010	970	Response	2	7327331	3153	1
+MAXED_1010	971	Picture	stage2_box	7327511	0	1	7667	1	0	next	other	0
+MAXED_1010	972	Picture	stage2_up	7335177	0	1	7667	1	0	next	other	0
+MAXED_1010	972	Pulse	99	7340000	4823	NA
+MAXED_1010	973	Picture	stage2_lose	7342844	0	1	10167	1	0	next	other	0
+MAXED_1010	974	Picture	stage1	7353011	0	1	4667	1	0	next	false_alarm	1630
+MAXED_1010	974	Response	1	7357491	4480	1
+MAXED_1010	975	Picture	stage1_box	7357678	0	1	7667	1	0	next	other	0
+MAXED_1010	975	Pulse	99	7360000	2322	NA
+MAXED_1010	976	Picture	stage1_outcome	7365344	0	1	167	1	0	next	other	0
+MAXED_1010	977	Picture	stage2B	7365511	0	1	2500	1	0	next	false_alarm	1635
+MAXED_1010	977	Response	2	7367891	2380	1
+MAXED_1010	978	Picture	stage2_box	7368011	0	1	7667	1	0	next	other	0
+MAXED_1010	979	Picture	stage2_up	7375678	0	1	7667	1	0	next	other	0
+MAXED_1010	979	Pulse	99	7380000	4322	NA
+MAXED_1010	980	Picture	stage2_win	7383344	0	1	10167	1	0	next	other	0
+MAXED_1010	981	Picture	stage1	7393511	0	1	5833	1	0	next	false_alarm	1641
+MAXED_1010	981	Response	1	7399171	5660	1
+MAXED_1010	982	Picture	stage1_box	7399344	0	1	7667	1	0	next	other	0
+MAXED_1010	982	Pulse	99	7400000	656	NA
+MAXED_1010	983	Picture	stage1_outcome	7407011	0	1	167	1	0	next	other	0
+MAXED_1010	984	Picture	stage2B	7407178	0	1	3167	1	0	next	false_alarm	1646
+MAXED_1010	984	Response	2	7410211	3033	1
+MAXED_1010	985	Picture	stage2_box	7410344	0	1	7667	1	0	next	other	0
+MAXED_1010	986	Picture	stage2_up	7418011	0	1	7667	1	0	next	other	0
+MAXED_1010	986	Pulse	99	7420000	1989	NA
+MAXED_1010	987	Picture	stage2_win	7425678	0	1	10167	1	0	next	other	0
+MAXED_1010	988	Picture	stage1	7435844	0	1	7000	1	0	next	false_alarm	1653
+MAXED_1010	988	Pulse	99	7440000	4156	NA
+MAXED_1010	988	Response	1	7442690	6846	1
+MAXED_1010	989	Picture	stage1_box	7442844	0	1	7667	1	0	next	other	0
+MAXED_1010	990	Picture	stage1_outcome	7450511	0	1	167	1	0	next	other	0
+MAXED_1010	991	Picture	stage2A	7450678	0	1	3167	1	0	next	false_alarm	1657
+MAXED_1010	991	Response	2	7453811	3133	1
+MAXED_1010	992	Picture	stage2_box	7453844	0	1	7667	1	0	next	other	0
+MAXED_1010	992	Pulse	99	7460000	6156	NA
+MAXED_1010	993	Picture	stage2_up	7461511	0	1	7667	1	0	next	other	0
+MAXED_1010	994	Picture	stage2_lose	7469178	0	1	10167	1	0	next	other	0
+MAXED_1010	995	Picture	stage1	7479344	0	1	3333	1	0	next	false_alarm	1664
+MAXED_1010	995	Pulse	99	7480000	656	NA
+MAXED_1010	995	Response	1	7482530	3186	1
+MAXED_1010	996	Picture	stage1_box	7482678	0	1	7667	1	0	next	other	0
+MAXED_1010	997	Picture	stage1_outcome	7490344	0	1	167	1	0	next	other	0
+MAXED_1010	998	Picture	stage2A	7490511	0	1	2833	1	0	next	false_alarm	1668
+MAXED_1010	998	Response	1	7493251	2740	1
+MAXED_1010	999	Picture	stage2_box	7493344	0	1	7667	1	0	next	other	0
+MAXED_1010	999	Pulse	99	7500000	6656	NA
+MAXED_1010	1000	Picture	stage2_up	7501011	0	1	7667	1	0	next	other	0
+MAXED_1010	1001	Picture	stage2_lose	7508678	0	1	10167	1	0	next	other	0
+MAXED_1010	1002	Picture	stage1	7518844	0	1	3667	1	0	next	false_alarm	1675
+MAXED_1010	1002	Pulse	99	7520000	1156	NA
+MAXED_1010	1002	Response	1	7522451	3606	1
+MAXED_1010	1003	Picture	stage1_box	7522511	0	1	7667	1	0	next	other	0
+MAXED_1010	1004	Picture	stage1_outcome	7530178	0	1	167	1	0	next	other	0
+MAXED_1010	1005	Picture	stage2B	7530344	0	1	2500	1	0	next	false_alarm	1679
+MAXED_1010	1005	Response	2	7532771	2426	1
+MAXED_1010	1006	Picture	stage2_box	7532844	0	1	7667	1	0	next	other	0
+MAXED_1010	1006	Pulse	99	7540000	7156	NA
+MAXED_1010	1007	Picture	stage2_up	7540511	0	1	7667	1	0	next	other	0
+MAXED_1010	1008	Picture	stage2_win	7548178	0	1	10167	1	0	next	other	0
+MAXED_1010	1009	Picture	stage1	7558344	0	1	6167	1	0	next	false_alarm	1686
+MAXED_1010	1009	Pulse	99	7560000	1656	NA
+MAXED_1010	1009	Response	1	7564371	6026	1
+MAXED_1010	1010	Picture	stage1_box	7564511	0	1	7667	1	0	next	other	0
+MAXED_1010	1011	Picture	stage1_outcome	7572178	0	1	167	1	0	next	other	0
+MAXED_1010	1012	Picture	stage2B	7572345	0	1	2333	1	0	next	false_alarm	1690
+MAXED_1010	1012	Response	2	7574611	2266	1
+MAXED_1010	1013	Picture	stage2_box	7574678	0	1	7667	1	0	next	other	0
+MAXED_1010	1013	Pulse	99	7580000	5322	NA
+MAXED_1010	1014	Picture	stage2_up	7582345	0	1	7667	1	0	next	other	0
+MAXED_1010	1015	Picture	stage2_win	7590011	0	1	10167	1	0	next	other	0
+MAXED_1010	1015	Pulse	99	7600000	9989	NA
+MAXED_1010	1016	Picture	stage1	7600178	0	1	4833	1	0	next	false_alarm	1697
+MAXED_1010	1016	Response	2	7604931	4753	1
+MAXED_1010	1017	Picture	stage1_box	7605011	0	1	7667	1	0	next	other	0
+MAXED_1010	1018	Picture	stage1_outcome	7612678	0	1	167	1	0	next	other	0
+MAXED_1010	1019	Picture	stage2A	7612845	0	1	4167	1	0	next	false_alarm	1701
+MAXED_1010	1019	Response	2	7616931	4086	1
+MAXED_1010	1020	Picture	stage2_box	7617011	0	1	7667	1	0	next	other	0
+MAXED_1010	1020	Pulse	99	7620000	2989	NA
+MAXED_1010	1021	Picture	stage2_up	7624678	0	1	7667	1	0	next	other	0
+MAXED_1010	1022	Picture	stage2_win	7632345	0	1	10167	1	0	next	other	0
+MAXED_1010	1022	Pulse	99	7640000	7655	NA
+MAXED_1010	1023	Picture	stage1	7642511	0	1	3167	1	0	next	false_alarm	1708
+MAXED_1010	1023	Response	2	7645571	3059	1
+MAXED_1010	1024	Picture	stage1_box	7645678	0	1	7667	1	0	next	other	0
+MAXED_1010	1025	Picture	stage1_outcome	7653345	0	1	167	1	0	next	other	0
+MAXED_1010	1026	Picture	stage2B	7653511	0	1	3167	1	0	next	false_alarm	1712
+MAXED_1010	1026	Response	2	7656610	3099	1
+MAXED_1010	1027	Picture	stage2_box	7656678	0	1	7667	1	0	next	other	0
+MAXED_1010	1027	Pulse	99	7660000	3322	NA
+MAXED_1010	1028	Picture	stage2_up	7664345	0	1	7667	1	0	next	other	0
+MAXED_1010	1029	Picture	stage2_win	7672011	0	1	10167	1	0	next	other	0
+MAXED_1010	1029	Pulse	99	7680000	7989	NA
+MAXED_1010	1030	Picture	stage1	7682178	0	1	2500	1	0	next	false_alarm	1719
+MAXED_1010	1030	Response	2	7684531	2353	1
+MAXED_1010	1031	Picture	stage1_box	7684678	0	1	7667	1	0	next	other	0
+MAXED_1010	1032	Picture	stage1_outcome	7692345	0	1	167	1	0	next	other	0
+MAXED_1010	1033	Picture	stage2B	7692511	0	1	2667	1	0	next	false_alarm	1723
+MAXED_1010	1033	Response	2	7695091	2579	1
+MAXED_1010	1034	Picture	stage2_box	7695178	0	1	7667	1	0	next	other	0
+MAXED_1010	1034	Pulse	99	7700000	4822	NA
+MAXED_1010	1035	Picture	stage2_up	7702845	0	1	7667	1	0	next	other	0
+MAXED_1010	1036	Picture	stage2_win	7710511	0	1	10167	1	0	next	other	0
+MAXED_1010	1036	Pulse	99	7720000	9489	NA
+MAXED_1010	1037	Picture	stage1	7720678	0	1	2667	1	0	next	false_alarm	1730
+MAXED_1010	1037	Response	2	7723250	2572	1
+MAXED_1010	1038	Picture	stage1_box	7723345	0	1	7667	1	0	next	other	0
+MAXED_1010	1039	Picture	stage1_outcome	7731011	0	1	167	1	0	next	other	0
+MAXED_1010	1040	Picture	stage2B	7731178	0	1	2000	1	0	next	false_alarm	1734
+MAXED_1010	1040	Response	2	7733011	1833	1
+MAXED_1010	1041	Picture	stage2_box	7733178	0	1	7667	1	0	next	other	0
+MAXED_1010	1041	Pulse	99	7740000	6822	NA
+MAXED_1010	1042	Picture	stage2_up	7740845	0	1	7667	1	0	next	other	0
+MAXED_1010	1043	Picture	stage2_lose	7748511	0	1	10167	1	0	next	other	0
+MAXED_1010	1044	Picture	stage1	7758678	0	1	6000	1	0	next	false_alarm	1741
+MAXED_1010	1044	Pulse	99	7760000	1322	NA
+MAXED_1010	1044	Response	2	7764531	5853	1
+MAXED_1010	1045	Picture	stage1_box	7764678	0	1	7667	1	0	next	other	0
+MAXED_1010	1046	Picture	stage1_outcome	7772345	0	1	167	1	0	next	other	0
+MAXED_1010	1047	Picture	stage2B	7772511	0	1	2333	1	0	next	false_alarm	1745
+MAXED_1010	1047	Response	2	7774771	2259	1
+MAXED_1010	1048	Picture	stage2_box	7774845	0	1	7667	1	0	next	other	0
+MAXED_1010	1048	Pulse	99	7780000	5155	NA
+MAXED_1010	1049	Picture	stage2_up	7782511	0	1	7667	1	0	next	other	0
+MAXED_1010	1050	Picture	stage2_lose	7790178	0	1	10167	1	0	next	other	0
+MAXED_1010	1050	Pulse	99	7800000	9822	NA
+MAXED_1010	1051	Picture	stage1	7800345	0	1	3167	1	0	next	false_alarm	1752
+MAXED_1010	1051	Response	2	7803331	2986	1
+MAXED_1010	1052	Picture	stage1_box	7803512	0	1	7667	1	0	next	other	0
+MAXED_1010	1053	Picture	stage1_outcome	7811178	0	1	167	1	0	next	other	0
+MAXED_1010	1054	Picture	stage2A	7811345	0	1	2667	1	0	next	false_alarm	1756
+MAXED_1010	1054	Response	2	7813891	2546	1
+MAXED_1010	1055	Picture	stage2_box	7814012	0	1	7667	1	0	next	other	0
+MAXED_1010	1055	Pulse	99	7820000	5988	NA
+MAXED_1010	1056	Picture	stage2_up	7821678	0	1	7667	1	0	next	other	0
+MAXED_1010	1057	Picture	stage2_win	7829345	0	1	10167	1	0	next	other	0
+MAXED_1010	1058	Picture	stage1	7839512	0	1	3333	1	0	next	false_alarm	1763
+MAXED_1010	1058	Pulse	99	7840000	488	NA
+MAXED_1010	1058	Response	2	7842691	3179	1
+MAXED_1010	1059	Picture	stage1_box	7842845	0	1	7667	1	0	next	other	0
+MAXED_1010	1060	Picture	stage1_outcome	7850512	0	1	167	1	0	next	other	0
+MAXED_1010	1061	Picture	stage2B	7850678	0	1	2000	1	0	next	false_alarm	1767
+MAXED_1010	1061	Response	2	7852531	1853	1
+MAXED_1010	1062	Picture	stage2_box	7852678	0	1	7667	1	0	next	other	0
+MAXED_1010	1062	Pulse	99	7860000	7322	NA
+MAXED_1010	1063	Picture	stage2_up	7860345	0	1	7667	1	0	next	other	0
+MAXED_1010	1064	Picture	stage2_win	7868012	0	1	10167	1	0	next	other	0
+MAXED_1010	1065	Picture	stage1	7878178	0	1	3167	1	0	next	false_alarm	1774
+MAXED_1010	1065	Pulse	99	7880000	1822	NA
+MAXED_1010	1065	Response	2	7881171	2993	1
+MAXED_1010	1066	Picture	stage1_box	7881345	0	1	7667	1	0	next	other	0
+MAXED_1010	1067	Picture	stage1_outcome	7889012	0	1	167	1	0	next	other	0
+MAXED_1010	1068	Picture	stage2B	7889178	0	1	2667	1	0	next	false_alarm	1778
+MAXED_1010	1068	Response	2	7891731	2553	1
+MAXED_1010	1069	Picture	stage2_box	7891845	0	1	7667	1	0	next	other	0
+MAXED_1010	1070	Picture	stage2_up	7899512	0	1	7667	1	0	next	other	0
+MAXED_1010	1070	Pulse	99	7900000	488	NA
+MAXED_1010	1071	Picture	stage2_win	7907178	0	1	10167	1	0	next	other	0
+MAXED_1010	1072	Picture	stage1	7917345	0	1	4833	1	0	next	false_alarm	1785
+MAXED_1010	1072	Pulse	99	7920000	2655	NA
+MAXED_1010	1072	Response	2	7922051	4706	1
+MAXED_1010	1073	Picture	stage1_box	7922178	0	1	7667	1	0	next	other	0
+MAXED_1010	1074	Picture	stage1_outcome	7929845	0	1	167	1	0	next	other	0
+MAXED_1010	1075	Picture	stage2A	7930012	0	1	3000	1	0	next	false_alarm	1789
+MAXED_1010	1075	Response	2	7932931	2919	1
+MAXED_1010	1076	Picture	stage2_box	7933012	0	1	7667	1	0	next	other	0
+MAXED_1010	1076	Pulse	99	7940000	6988	NA
+MAXED_1010	1077	Picture	stage2_up	7940678	0	1	7667	1	0	next	other	0
+MAXED_1010	1078	Picture	stage2_win	7948345	0	1	10167	1	0	next	other	0
+MAXED_1010	1079	Picture	stage1	7958512	0	1	4333	1	0	next	false_alarm	1796
+MAXED_1010	1079	Pulse	99	7960000	1488	NA
+MAXED_1010	1079	Response	2	7962691	4179	1
+MAXED_1010	1080	Picture	stage1_box	7962845	0	1	7667	1	0	next	other	0
+MAXED_1010	1081	Picture	stage1_outcome	7970512	0	1	167	1	0	next	other	0
+MAXED_1010	1082	Picture	stage2B	7970678	0	1	3167	1	0	next	false_alarm	1800
+MAXED_1010	1082	Response	2	7973731	3052	1
+MAXED_1010	1083	Picture	stage2_box	7973845	0	1	7667	1	0	next	other	0
+MAXED_1010	1083	Pulse	99	7980000	6155	NA
+MAXED_1010	1084	Picture	stage2_up	7981512	0	1	7667	1	0	next	other	0
+MAXED_1010	1085	Picture	stage2_win	7989178	0	1	10167	1	0	next	false_alarm	1805
+MAXED_1010	1085	Response	2	7994131	4952	1
+MAXED_1010	1086	Picture	stage1	7999345	0	1	2500	1	0	next	false_alarm	1808
+MAXED_1010	1086	Pulse	99	8000000	655	NA
+MAXED_1010	1086	Response	2	8001731	2386	1
+MAXED_1010	1087	Picture	stage1_box	8001845	0	1	7667	1	0	next	other	0
+MAXED_1010	1088	Picture	stage1_outcome	8009512	0	1	167	1	0	next	other	0
+MAXED_1010	1089	Picture	stage2B	8009678	0	1	1167	1	0	next	false_alarm	1812
+MAXED_1010	1089	Response	2	8010771	1092	1
+MAXED_1010	1090	Picture	stage2_box	8010845	0	1	7667	1	0	next	other	0
+MAXED_1010	1091	Picture	stage2_up	8018512	0	1	7667	1	0	next	other	0
+MAXED_1010	1091	Pulse	99	8020000	1488	NA
+MAXED_1010	1092	Picture	stage2_lose	8026179	0	1	10167	1	0	next	other	0
+MAXED_1010	1093	Picture	stage1	8036345	0	1	3333	1	0	next	false_alarm	1818
+MAXED_1010	1093	Response	2	8039491	3146	1
+MAXED_1010	1094	Picture	stage1_box	8039679	0	1	7667	1	0	next	other	0
+MAXED_1010	1094	Pulse	99	8040000	321	NA
+MAXED_1010	1095	Picture	stage1_outcome	8047345	0	1	167	1	0	next	other	0
+MAXED_1010	1096	Picture	stage2A	8047512	0	1	2500	1	0	next	false_alarm	1823
+MAXED_1010	1096	Response	2	8049971	2459	1
+MAXED_1010	1097	Picture	stage2_box	8050012	0	1	7667	1	0	next	other	0
+MAXED_1010	1098	Picture	stage2_up	8057679	0	1	7667	1	0	next	other	0
+MAXED_1010	1098	Pulse	99	8060000	2321	NA
+MAXED_1010	1099	Picture	stage2_win	8065345	0	1	10167	1	0	next	other	0
+MAXED_1010	1100	Picture	stage1	8075512	0	1	3000	1	0	next	false_alarm	1829
+MAXED_1010	1100	Response	2	8078451	2939	1
+MAXED_1010	1101	Picture	stage1_box	8078512	0	1	7667	1	0	next	other	0
+MAXED_1010	1101	Pulse	99	8080000	1488	NA
+MAXED_1010	1102	Picture	stage1_outcome	8086179	0	1	167	1	0	next	other	0
+MAXED_1010	1103	Picture	stage2B	8086345	0	1	2167	1	0	next	false_alarm	1834
+MAXED_1010	1103	Response	2	8088371	2026	1
+MAXED_1010	1104	Picture	stage2_box	8088512	0	1	7667	1	0	next	other	0
+MAXED_1010	1105	Picture	stage2_up	8096179	0	1	7667	1	0	next	other	0
+MAXED_1010	1105	Pulse	99	8100000	3821	NA
+MAXED_1010	1106	Picture	stage2_lose	8103845	0	1	10167	1	0	next	other	0
+MAXED_1010	1107	Picture	stage1	8114012	0	1	3167	1	0	next	false_alarm	1840
+MAXED_1010	1107	Response	2	8117091	3079	1
+MAXED_1010	1108	Picture	stage1_box	8117179	0	1	7667	1	0	next	other	0
+MAXED_1010	1108	Pulse	99	8120000	2821	NA
+MAXED_1010	1109	Picture	stage1_outcome	8124845	0	1	167	1	0	next	other	0
+MAXED_1010	1110	Picture	stage2B	8125012	0	1	2667	1	0	next	false_alarm	1845
+MAXED_1010	1110	Response	2	8127491	2479	1
+MAXED_1010	1111	Picture	stage2_box	8127679	0	1	7667	1	0	next	other	0
+MAXED_1010	1112	Picture	stage2_up	8135345	0	1	7667	1	0	next	other	0
+MAXED_1010	1112	Pulse	99	8140000	4655	NA
+MAXED_1010	1113	Picture	stage2_lose	8143012	0	1	10167	1	0	next	other	0
+MAXED_1010	1114	Picture	stage1	8153179	0	1	3167	1	0	next	false_alarm	1851
+MAXED_1010	1114	Response	2	8156211	3032	1
+MAXED_1010	1115	Picture	stage1_box	8156345	0	1	7667	1	0	next	other	0
+MAXED_1010	1115	Pulse	99	8160000	3655	NA
+MAXED_1010	1116	Picture	stage1_outcome	8164012	0	1	167	1	0	next	other	0
+MAXED_1010	1117	Picture	stage2B	8164179	0	1	2833	1	0	next	false_alarm	1856
+MAXED_1010	1117	Response	2	8166851	2672	1
+MAXED_1010	1118	Picture	stage2_box	8167012	0	1	7667	1	0	next	other	0
+MAXED_1010	1119	Picture	stage2_up	8174679	0	1	7667	1	0	next	other	0
+MAXED_1010	1119	Pulse	99	8180000	5321	NA
+MAXED_1010	1120	Picture	stage2_lose	8182345	0	1	10167	1	0	next	other	0
+MAXED_1010	1121	Picture	stage1	8192512	0	1	3333	1	0	next	false_alarm	1862
+MAXED_1010	1121	Response	2	8195811	3298	1
+MAXED_1010	1122	Picture	stage1_box	8195845	0	1	7667	1	0	next	other	0
+MAXED_1010	1122	Pulse	99	8200000	4155	NA
+MAXED_1010	1123	Picture	stage1_outcome	8203512	0	1	167	1	0	next	other	0
+MAXED_1010	1124	Picture	stage2B	8203679	0	1	4167	1	0	next	false_alarm	1867
+MAXED_1010	1124	Response	2	8207731	4052	1
+MAXED_1010	1125	Picture	stage2_box	8207845	0	1	7667	1	0	next	other	0
+MAXED_1010	1126	Picture	stage2_up	8215512	0	1	7667	1	0	next	other	0
+MAXED_1010	1126	Pulse	99	8220000	4488	NA
+MAXED_1010	1127	Picture	stage2_lose	8223179	0	1	10167	1	0	next	other	0
+MAXED_1010	1128	Picture	stage1	8233345	0	1	2833	1	0	next	false_alarm	1873
+MAXED_1010	1128	Response	2	8236051	2706	1
+MAXED_1010	1129	Picture	stage1_box	8236179	0	1	7667	1	0	next	other	0
+MAXED_1010	1129	Pulse	99	8240000	3821	NA
+MAXED_1010	1130	Picture	stage1_outcome	8243846	0	1	167	1	0	next	other	0
+MAXED_1010	1131	Picture	stage2B	8244012	0	1	1667	1	0	next	false_alarm	1878
+MAXED_1010	1131	Response	2	8245571	1559	1
+MAXED_1010	1132	Picture	stage2_box	8245679	0	1	7667	1	0	next	other	0
+MAXED_1010	1133	Picture	stage2_up	8253346	0	1	7667	1	0	next	other	0
+MAXED_1010	1133	Pulse	99	8260000	6654	NA
+MAXED_1010	1134	Picture	stage2_win	8261012	0	1	10167	1	0	next	other	0
+MAXED_1010	1135	Picture	stage1	8271179	0	1	3000	1	0	next	false_alarm	1884
+MAXED_1010	1135	Response	2	8274131	2952	1
+MAXED_1010	1136	Picture	stage1_box	8274179	0	1	7667	1	0	next	other	0
+MAXED_1010	1136	Pulse	99	8280000	5821	NA
+MAXED_1010	1137	Picture	stage1_outcome	8281846	0	1	167	1	0	next	other	0
+MAXED_1010	1138	Picture	stage2A	8282012	0	1	2333	1	0	next	false_alarm	1889
+MAXED_1010	1138	Response	2	8284291	2279	1
+MAXED_1010	1139	Picture	stage2_box	8284346	0	1	7667	1	0	next	other	0
+MAXED_1010	1140	Picture	stage2_up	8292012	0	1	7667	1	0	next	other	0
+MAXED_1010	1141	Picture	stage2_win	8299679	0	1	10167	1	0	next	other	0
+MAXED_1010	1141	Pulse	99	8300000	321	NA
+MAXED_1010	1142	Picture	stage1	8309846	0	1	2500	1	0	next	false_alarm	1895
+MAXED_1010	1142	Response	1	8312291	2445	1
+MAXED_1010	1143	Picture	stage1_box	8312346	0	1	7667	1	0	next	other	0
+MAXED_1010	1143	Pulse	99	8320000	7654	NA
+MAXED_1010	1144	Picture	stage1_outcome	8320012	0	1	167	1	0	next	other	0
+MAXED_1010	1145	Picture	stage2A	8320179	0	1	2500	1	0	next	false_alarm	1900
+MAXED_1010	1145	Response	2	8322611	2432	1
+MAXED_1010	1146	Picture	stage2_box	8322679	0	1	7667	1	0	next	other	0
+MAXED_1010	1147	Picture	stage2_up	8330346	0	1	7667	1	0	next	other	0
+MAXED_1010	1148	Picture	stage2_lose	8338012	0	1	10167	1	0	next	other	0
+MAXED_1010	1148	Pulse	99	8340000	1988	NA
+MAXED_1010	1149	Picture	stage1	8348179	0	1	2833	1	0	next	false_alarm	1906
+MAXED_1010	1149	Response	1	8350851	2672	1
+MAXED_1010	1150	Picture	stage1_box	8351012	0	1	7667	1	0	next	other	0
+MAXED_1010	1151	Picture	stage1_outcome	8358679	0	1	167	1	0	next	other	0
+MAXED_1010	1152	Picture	stage2B	8358846	0	1	2667	1	0	next	false_alarm	1911
+MAXED_1010	1152	Pulse	99	8360000	1154	NA
+MAXED_1010	1152	Response	2	8361331	2485	1
+MAXED_1010	1153	Picture	stage2_box	8361512	0	1	7667	1	0	next	other	0
+MAXED_1010	1154	Picture	stage2_up	8369179	0	1	7667	1	0	next	other	0
+MAXED_1010	1155	Picture	stage2_win	8376846	0	1	10167	1	0	next	other	0
+MAXED_1010	1155	Pulse	99	8380000	3154	NA
+MAXED_1010	1156	Picture	stage1	8387012	0	1	3500	1	0	next	false_alarm	1917
+MAXED_1010	1156	Response	1	8390371	3358	1
+MAXED_1010	1157	Picture	stage1_box	8390512	0	1	7667	1	0	next	other	0
+MAXED_1010	1158	Picture	stage1_outcome	8398179	0	1	167	1	0	next	other	0
+MAXED_1010	1159	Picture	stage2A	8398346	0	1	667	1	0	next	false_alarm	1921
+MAXED_1010	1159	Response	2	8398931	585	1
+MAXED_1010	1160	Picture	stage2_box	8399012	0	1	7667	1	0	next	other	0
+MAXED_1010	1160	Pulse	99	8400000	988	NA
+MAXED_1010	1161	Picture	stage2_up	8406679	0	1	7667	1	0	next	other	0
+MAXED_1010	1162	Picture	stage2_win	8414346	0	1	10167	1	0	next	other	0
+MAXED_1010	1162	Pulse	99	8420000	5654	NA
+MAXED_1010	1163	Picture	stage1	8424512	0	1	3167	1	0	next	false_alarm	1928
+MAXED_1010	1163	Response	1	8427491	2978	1
+MAXED_1010	1164	Picture	stage1_box	8427679	0	1	7667	1	0	next	other	0
+MAXED_1010	1165	Picture	stage1_outcome	8435346	0	1	167	1	0	next	other	0
+MAXED_1010	1166	Picture	stage2A	8435512	0	1	2667	1	0	next	false_alarm	1932
+MAXED_1010	1166	Response	2	8438051	2538	1
+MAXED_1010	1167	Picture	stage2_box	8438179	0	1	7667	1	0	next	other	0
+MAXED_1010	1167	Pulse	99	8440000	1821	NA
+MAXED_1010	1168	Picture	stage2_up	8445846	0	1	7667	1	0	next	other	0
+MAXED_1010	1169	Picture	stage2_lose	8453513	0	1	10167	1	0	next	other	0
+MAXED_1010	1169	Pulse	99	8460000	6487	NA
+MAXED_1010	1170	Picture	stage1	8463679	0	1	3000	1	0	next	false_alarm	1939
+MAXED_1010	1170	Response	1	8466531	2852	1
+MAXED_1010	1171	Picture	stage1_box	8466679	0	1	7667	1	0	next	other	0
+MAXED_1010	1172	Picture	stage1_outcome	8474346	0	1	167	1	0	next	other	0
+MAXED_1010	1173	Picture	stage2B	8474513	0	1	2500	1	0	next	false_alarm	1943
+MAXED_1010	1173	Response	2	8476931	2418	1
+MAXED_1010	1174	Picture	stage2_box	8477013	0	1	7667	1	0	next	other	0
+MAXED_1010	1174	Pulse	99	8480000	2987	NA
+MAXED_1010	1175	Picture	stage2_up	8484679	0	1	7667	1	0	next	other	0
+MAXED_1010	1176	Picture	stage2_win	8492346	0	1	10167	1	0	next	other	0
+MAXED_1010	1176	Pulse	99	8500000	7654	NA
+MAXED_1010	1177	Picture	stage1	8502513	0	1	4167	1	0	next	false_alarm	1950
+MAXED_1010	1177	Response	1	8506612	4099	1
+MAXED_1010	1178	Picture	stage1_box	8506679	0	1	7667	1	0	next	other	0
+MAXED_1010	1179	Picture	stage1_outcome	8514346	0	1	167	1	0	next	other	0
+MAXED_1010	1180	Picture	stage2A	8514513	0	1	2500	1	0	next	false_alarm	1954
+MAXED_1010	1180	Response	2	8516851	2338	1
+MAXED_1010	1181	Picture	stage2_box	8517013	0	1	7667	1	0	next	other	0
+MAXED_1010	1181	Pulse	99	8520000	2987	NA
+MAXED_1010	1182	Picture	stage2_up	8524679	0	1	7667	1	0	next	other	0
+MAXED_1010	1183	Picture	stage2_win	8532346	0	1	10167	1	0	next	other	0
+MAXED_1010	1183	Pulse	99	8540000	7654	NA
+MAXED_1010	1184	Picture	stage1	8542513	0	1	3500	1	0	next	false_alarm	1961
+MAXED_1010	1184	Response	1	8545971	3458	1
+MAXED_1010	1185	Picture	stage1_box	8546013	0	1	7667	1	0	next	other	0
+MAXED_1010	1186	Picture	stage1_outcome	8553679	0	1	167	1	0	next	other	0
+MAXED_1010	1187	Picture	stage2A	8553846	0	1	2833	1	0	next	false_alarm	1965
+MAXED_1010	1187	Response	2	8556611	2765	1
+MAXED_1010	1188	Picture	stage2_box	8556679	0	1	7667	1	0	next	other	0
+MAXED_1010	1188	Pulse	99	8560000	3321	NA
+MAXED_1010	1189	Picture	stage2_up	8564346	0	1	7667	1	0	next	other	0
+MAXED_1010	1190	Picture	stage2_win	8572013	0	1	10167	1	0	next	other	0
+MAXED_1010	1190	Pulse	99	8580000	7987	NA
+MAXED_1010	1191	Picture	stage1	8582179	0	1	8167	1	0	next	false_alarm	1972
+MAXED_1010	1191	Response	1	8590291	8112	1
+MAXED_1010	1192	Picture	stage1_box	8590346	0	1	7667	1	0	next	other	0
+MAXED_1010	1193	Picture	stage1_outcome	8598013	0	1	167	1	0	next	other	0
+MAXED_1010	1194	Picture	stage2A	8598179	0	1	2167	1	0	next	false_alarm	1977
+MAXED_1010	1194	Pulse	99	8600000	1821	NA
+MAXED_1010	1194	Response	2	8600291	2111	1
+MAXED_1010	1195	Picture	stage2_box	8600346	0	1	7667	1	0	next	other	0
+MAXED_1010	1196	Picture	stage2_up	8608013	0	1	7667	1	0	next	other	0
+MAXED_1010	1197	Picture	stage2_win	8615679	0	1	10167	1	0	next	other	0
+MAXED_1010	1197	Pulse	99	8620000	4321	NA
+MAXED_1010	1198	Picture	stage1	8625846	0	1	2833	1	0	next	false_alarm	1983
+MAXED_1010	1198	Response	1	8628611	2765	1
+MAXED_1010	1199	Picture	stage1_box	8628679	0	1	7667	1	0	next	other	0
+MAXED_1010	1200	Picture	stage1_outcome	8636346	0	1	167	1	0	next	other	0
+MAXED_1010	1201	Picture	stage2A	8636513	0	1	2667	1	0	next	false_alarm	1987
+MAXED_1010	1201	Response	2	8639011	2498	1
+MAXED_1010	1202	Picture	stage2_box	8639179	0	1	7667	1	0	next	other	0
+MAXED_1010	1202	Pulse	99	8640000	821	NA
+MAXED_1010	1203	Picture	stage2_up	8646846	0	1	7667	1	0	next	other	0
+MAXED_1010	1204	Picture	stage2_lose	8654513	0	1	10167	1	0	next	other	0
+MAXED_1010	1204	Pulse	99	8660000	5487	NA
+MAXED_1010	1205	Picture	stage1	8664679	0	1	3167	1	0	next	false_alarm	1994
+MAXED_1010	1205	Response	1	8667811	3132	1
+MAXED_1010	1206	Picture	stage1_box	8667846	0	1	7667	1	0	next	other	0
+MAXED_1010	1207	Picture	stage1_outcome	8675513	0	1	167	1	0	next	other	0
+MAXED_1010	1208	Picture	stage2B	8675680	0	1	2333	1	0	next	false_alarm	1998
+MAXED_1010	1208	Response	2	8677970	2291	1
+MAXED_1010	1209	Picture	stage2_box	8678013	0	1	7667	1	0	next	other	0
+MAXED_1010	1209	Pulse	99	8680000	1987	NA
+MAXED_1010	1210	Picture	stage2_up	8685680	0	1	7667	1	0	next	other	0
+MAXED_1010	1211	Picture	stage2_win	8693346	0	1	10167	1	0	next	other	0
+MAXED_1010	1211	Pulse	99	8700000	6654	NA
+MAXED_1010	1212	Picture	stage1	8703513	0	1	6000	1	0	next	false_alarm	2005
+MAXED_1010	1212	Response	1	8709411	5898	1
+MAXED_1010	1213	Picture	stage1_box	8709513	0	1	7667	1	0	next	other	0
+MAXED_1010	1214	Picture	stage1_outcome	8717180	0	1	167	1	0	next	other	0
+MAXED_1010	1215	Picture	stage2B	8717346	0	1	833	1	0	next	false_alarm	2009
+MAXED_1010	1215	Response	2	8718051	705	1
+MAXED_1010	1216	Picture	stage2_box	8718180	0	1	7667	1	0	next	other	0
+MAXED_1010	1216	Pulse	99	8720000	1820	NA
+MAXED_1010	1217	Picture	stage2_up	8725846	0	1	7667	1	0	next	other	0
+MAXED_1010	1218	Picture	stage2_win	8733513	0	1	10167	1	0	next	other	0
+MAXED_1010	1218	Pulse	99	8740000	6487	NA
+MAXED_1010	1219	Picture	stage1	8743680	0	1	3667	1	0	next	false_alarm	2016
+MAXED_1010	1219	Response	1	8747251	3571	1
+MAXED_1010	1220	Picture	stage1_box	8747346	0	1	7667	1	0	next	other	0
+MAXED_1010	1221	Picture	stage1_outcome	8755013	0	1	167	1	0	next	other	0
+MAXED_1010	1222	Picture	stage2A	8755180	0	1	3000	1	0	next	false_alarm	2020
+MAXED_1010	1222	Response	2	8758051	2871	1
+MAXED_1010	1223	Picture	stage2_box	8758180	0	1	7667	1	0	next	other	0
+MAXED_1010	1223	Pulse	99	8760000	1820	NA
+MAXED_1010	1224	Picture	stage2_up	8765846	0	1	7667	1	0	next	other	0
+MAXED_1010	1225	Picture	stage2_win	8773513	0	1	10167	1	0	next	other	0
+MAXED_1010	1225	Pulse	99	8780000	6487	NA
+MAXED_1010	1226	Picture	stage1	8783680	0	1	3333	1	0	next	false_alarm	2027
+MAXED_1010	1226	Response	1	8786931	3252	1
+MAXED_1010	1227	Picture	stage1_box	8787013	0	1	7667	1	0	next	other	0
+MAXED_1010	1228	Picture	stage1_outcome	8794680	0	1	167	1	0	next	other	0
+MAXED_1010	1229	Picture	stage2A	8794846	0	1	1000	1	0	next	false_alarm	2031
+MAXED_1010	1229	Response	2	8795811	965	1
+MAXED_1010	1230	Picture	stage2_box	8795846	0	1	7667	1	0	next	other	0
+MAXED_1010	1230	Pulse	99	8800000	4154	NA
+MAXED_1010	1231	Picture	stage2_up	8803513	0	1	7667	1	0	next	other	0
+MAXED_1010	1232	Picture	stage2_win	8811180	0	1	10167	1	0	next	other	0
+MAXED_1010	1232	Pulse	99	8820000	8820	NA
+MAXED_1010	1233	Picture	stage1	8821346	0	1	3000	1	0	next	false_alarm	2038
+MAXED_1010	1233	Response	1	8824291	2945	1
+MAXED_1010	1234	Picture	stage1_box	8824346	0	1	7667	1	0	next	other	0
+MAXED_1010	1235	Picture	stage1_outcome	8832013	0	1	167	1	0	next	other	0
+MAXED_1010	1236	Picture	stage2A	8832180	0	1	167	1	0	next	false_alarm	2042
+MAXED_1010	1236	Response	2	8832211	32	1
+MAXED_1010	1237	Picture	stage2_box	8832346	0	1	7667	1	0	next	other	0
+MAXED_1010	1237	Pulse	99	8840000	7654	NA
+MAXED_1010	1238	Picture	stage2_up	8840013	0	1	7667	1	0	next	other	0
+MAXED_1010	1239	Picture	stage2_lose	8847680	0	1	10167	1	0	next	other	0
+MAXED_1010	1240	Picture	stage1	8857846	0	1	3167	1	0	next	false_alarm	2049
+MAXED_1010	1240	Pulse	99	8860000	2154	NA
+MAXED_1010	1240	Response	1	8860851	3005	1
+MAXED_1010	1241	Picture	stage1_box	8861013	0	1	7667	1	0	next	other	0
+MAXED_1010	1242	Picture	stage1_outcome	8868680	0	1	167	1	0	next	other	0
+MAXED_1010	1243	Picture	stage2B	8868846	0	1	2333	1	0	next	false_alarm	2053
+MAXED_1010	1243	Response	2	8871091	2245	1
+MAXED_1010	1244	Picture	stage2_box	8871180	0	1	7667	1	0	next	other	0
+MAXED_1010	1245	Picture	stage2_up	8878846	0	1	7667	1	0	next	other	0
+MAXED_1010	1245	Pulse	99	8880000	1154	NA
+MAXED_1010	1246	Picture	stage2_win	8886513	0	1	10167	1	0	next	other	0
+MAXED_1010	1247	Picture	stage1	8896680	0	1	3000	1	0	next	false_alarm	2059
+MAXED_1010	1247	Response	1	8899491	2811	1
+MAXED_1010	1248	Picture	stage1_box	8899680	0	1	7667	1	0	next	other	0
+MAXED_1010	1248	Pulse	99	8900000	320	NA
+MAXED_1010	1249	Picture	stage1_outcome	8907347	0	1	167	1	0	next	other	0
+MAXED_1010	1250	Picture	stage2A	8907513	0	1	3000	1	0	next	false_alarm	2064
+MAXED_1010	1250	Response	2	8910371	2858	1
+MAXED_1010	1251	Picture	stage2_box	8910513	0	1	7667	1	0	next	other	0
+MAXED_1010	1252	Picture	stage2_up	8918180	0	1	7667	1	0	next	other	0
+MAXED_1010	1252	Pulse	99	8920000	1820	NA
+MAXED_1010	1253	Picture	stage2_win	8925847	0	1	10167	1	0	next	other	0
+MAXED_1010	1254	Picture	stage1	8936013	0	1	2833	1	0	next	false_alarm	2070
+MAXED_1010	1254	Response	1	8938771	2758	1
+MAXED_1010	1255	Picture	stage1_box	8938847	0	1	7667	1	0	next	other	0
+MAXED_1010	1255	Pulse	99	8940000	1153	NA
+MAXED_1010	1256	Picture	stage1_outcome	8946513	0	1	167	1	0	next	other	0
+MAXED_1010	1257	Picture	stage2A	8946680	0	1	3333	1	0	next	false_alarm	2075
+MAXED_1010	1257	Response	2	8949891	3211	1
+MAXED_1010	1258	Picture	stage2_box	8950013	0	1	7667	1	0	next	other	0
+MAXED_1010	1259	Picture	stage2_up	8957680	0	1	7667	1	0	next	other	0
+MAXED_1010	1259	Pulse	99	8960000	2320	NA
+MAXED_1010	1260	Picture	stage2_lose	8965347	0	1	10167	1	0	next	other	0
+MAXED_1010	1261	Picture	stage1	8975513	0	1	2833	1	0	next	false_alarm	2081
+MAXED_1010	1261	Response	1	8978291	2778	1
+MAXED_1010	1262	Picture	stage1_box	8978347	0	1	7667	1	0	next	other	0
+MAXED_1010	1262	Pulse	99	8980000	1653	NA
+MAXED_1010	1263	Picture	stage1_outcome	8986013	0	1	167	1	0	next	other	0
+MAXED_1010	1264	Picture	stage2B	8986180	0	1	2667	1	0	next	false_alarm	2086
+MAXED_1010	1264	Response	2	8988771	2591	1
+MAXED_1010	1265	Picture	stage2_box	8988847	0	1	7667	1	0	next	other	0
+MAXED_1010	1266	Picture	stage2_up	8996513	0	1	7667	1	0	next	other	0
+MAXED_1010	1266	Pulse	99	9000000	3487	NA
+MAXED_1010	1267	Picture	stage2_win	9004180	0	1	10167	1	0	next	other	0
+MAXED_1010	1268	Picture	stage1	9014347	0	1	4500	1	0	next	false_alarm	2092
+MAXED_1010	1268	Response	1	9018691	4344	1
+MAXED_1010	1269	Picture	stage1_box	9018847	0	1	7667	1	0	next	other	0
+MAXED_1010	1269	Pulse	99	9020000	1153	NA
+MAXED_1010	1270	Picture	stage1_outcome	9026513	0	1	167	1	0	next	other	0
+MAXED_1010	1271	Picture	stage2A	9026680	0	1	2833	1	0	next	false_alarm	2097
+MAXED_1010	1271	Response	2	9029411	2731	1
+MAXED_1010	1272	Picture	stage2_box	9029513	0	1	7667	1	0	next	other	0
+MAXED_1010	1273	Picture	stage2_up	9037180	0	1	7667	1	0	next	other	0
+MAXED_1010	1273	Pulse	99	9040000	2820	NA
+MAXED_1010	1274	Picture	stage2_win	9044847	0	1	10167	1	0	next	other	0
+MAXED_1010	1275	Picture	stage1	9055013	0	1	5833	1	0	next	false_alarm	2104
+MAXED_1010	1275	Pulse	99	9060000	4987	NA
+MAXED_1010	1275	Response	1	9060691	5678	1
+MAXED_1010	1276	Picture	stage1_box	9060847	0	1	7667	1	0	next	other	0
+MAXED_1010	1277	Picture	stage1_outcome	9068513	0	1	167	1	0	next	other	0
+MAXED_1010	1278	Picture	stage2A	9068680	0	1	2333	1	0	next	false_alarm	2108
+MAXED_1010	1278	Response	2	9070931	2251	1
+MAXED_1010	1279	Picture	stage2_box	9071013	0	1	7667	1	0	next	other	0
+MAXED_1010	1280	Picture	stage2_up	9078680	0	1	7667	1	0	next	other	0
+MAXED_1010	1280	Pulse	99	9080000	1320	NA
+MAXED_1010	1281	Picture	stage2_win	9086347	0	1	10167	1	0	next	other	0
+MAXED_1010	1282	Picture	stage1	9096513	0	1	3333	1	0	next	false_alarm	2114
+MAXED_1010	1282	Response	1	9099731	3218	1
+MAXED_1010	1283	Picture	stage1_box	9099847	0	1	7667	1	0	next	other	0
+MAXED_1010	1283	Pulse	99	9100000	153	NA
+MAXED_1010	1284	Picture	stage1_outcome	9107513	0	1	167	1	0	next	other	0
+MAXED_1010	1285	Picture	stage2A	9107680	0	1	2833	1	0	next	false_alarm	2119
+MAXED_1010	1285	Response	2	9110371	2691	1
+MAXED_1010	1286	Picture	stage2_box	9110514	0	1	7667	1	0	next	other	0
+MAXED_1010	1287	Picture	stage2_up	9118180	0	1	7667	1	0	next	other	0
+MAXED_1010	1287	Pulse	99	9120000	1820	NA
+MAXED_1010	1288	Picture	stage2_win	9125847	0	1	10167	1	0	next	other	0
+MAXED_1010	1289	Picture	stage1	9136014	0	1	3333	1	0	next	false_alarm	2125
+MAXED_1010	1289	Response	1	9139171	3158	1
+MAXED_1010	1290	Picture	stage1_box	9139347	0	1	7667	1	0	next	other	0
+MAXED_1010	1290	Pulse	99	9140000	653	NA
+MAXED_1010	1291	Picture	stage1_outcome	9147014	0	1	167	1	0	next	other	0
+MAXED_1010	1292	Picture	stage2A	9147180	0	1	2667	1	0	next	false_alarm	2130
+MAXED_1010	1292	Response	2	9149731	2551	1
+MAXED_1010	1293	Picture	stage2_box	9149847	0	1	7667	1	0	next	other	0
+MAXED_1010	1294	Picture	stage2_up	9157514	0	1	7667	1	0	next	other	0
+MAXED_1010	1294	Pulse	99	9160000	2486	NA
+MAXED_1010	1295	Picture	stage2_lose	9165180	0	1	10167	1	0	next	other	0
+MAXED_1010	1296	Picture	stage1	9175347	0	1	2833	1	0	next	false_alarm	2136
+MAXED_1010	1296	Response	1	9178051	2704	1
+MAXED_1010	1297	Picture	stage1_box	9178180	0	1	7667	1	0	next	other	0
+MAXED_1010	1297	Pulse	99	9180000	1820	NA
+MAXED_1010	1298	Picture	stage1_outcome	9185847	0	1	167	1	0	next	other	0
+MAXED_1010	1299	Picture	stage2A	9186014	0	1	7167	1	0	next	false_alarm	2141
+MAXED_1010	1299	Response	2	9193011	6998	1
+MAXED_1010	1300	Picture	stage2_box	9193180	0	1	7667	1	0	next	other	0
+MAXED_1010	1300	Pulse	99	9200000	6820	NA
+MAXED_1010	1301	Picture	stage2_up	9200847	0	1	7667	1	0	next	other	0
+MAXED_1010	1302	Picture	stage2_win	9208514	0	1	10167	1	0	next	other	0
+MAXED_1010	1303	Picture	stage1	9218680	0	1	4000	1	0	next	false_alarm	2148
+MAXED_1010	1303	Pulse	99	9220000	1320	NA
+MAXED_1010	1303	Response	1	9222531	3851	1
+MAXED_1010	1304	Picture	stage1_box	9222680	0	1	7667	1	0	next	other	0
+MAXED_1010	1305	Picture	stage1_outcome	9230347	0	1	167	1	0	next	other	0
+MAXED_1010	1306	Picture	stage2A	9230514	0	1	2833	1	0	next	false_alarm	2152
+MAXED_1010	1306	Response	2	9233171	2658	1
+MAXED_1010	1307	Picture	stage2_box	9233347	0	1	7667	1	0	next	other	0
+MAXED_1010	1307	Pulse	99	9240000	6653	NA
+MAXED_1010	1308	Picture	stage2_up	9241014	0	1	7667	1	0	next	other	0
+MAXED_1010	1309	Picture	stage2_win	9248680	0	1	10167	1	0	next	other	0
+MAXED_1010	1310	Picture	stage1	9258847	0	1	3333	1	0	next	false_alarm	2159
+MAXED_1010	1310	Pulse	99	9260000	1153	NA
+MAXED_1010	1310	Response	1	9262051	3204	1
+MAXED_1010	1311	Picture	stage1_box	9262180	0	1	7667	1	0	next	other	0
+MAXED_1010	1312	Picture	stage1_outcome	9269847	0	1	167	1	0	next	other	0
+MAXED_1010	1313	Picture	stage2A	9270014	0	1	2500	1	0	next	false_alarm	2163
+MAXED_1010	1313	Response	2	9272371	2357	1
+MAXED_1010	1314	Picture	stage2_box	9272514	0	1	7667	1	0	next	other	0
+MAXED_1010	1314	Pulse	99	9280000	7486	NA
+MAXED_1010	1315	Picture	stage2_up	9280180	0	1	7667	1	0	next	other	0
+MAXED_1010	1316	Picture	stage2_lose	9287847	0	1	10167	1	0	next	false_alarm	2168
+MAXED_1010	1316	Response	1	9291091	3244	1
+MAXED_1010	1317	Picture	stage1	9298014	0	1	2667	1	0	next	false_alarm	2171
+MAXED_1010	1317	Pulse	99	9300000	1986	NA
+MAXED_1010	1317	Response	1	9300611	2597	1
+MAXED_1010	1318	Picture	stage1_box	9300680	0	1	7667	1	0	next	other	0
+MAXED_1010	1319	Picture	stage1_outcome	9308347	0	1	167	1	0	next	other	0
+MAXED_1010	1320	Picture	stage2A	9308514	0	1	2833	1	0	next	false_alarm	2175
+MAXED_1010	1320	Response	2	9311251	2737	1
+MAXED_1010	1321	Picture	stage2_box	9311347	0	1	7667	1	0	next	other	0
+MAXED_1010	1322	Picture	stage2_up	9319014	0	1	7667	1	0	next	other	0
+MAXED_1010	1322	Pulse	99	9320000	986	NA
+MAXED_1010	1323	Picture	stage2_lose	9326680	0	1	10167	1	0	next	other	0
+MAXED_1010	1324	Picture	stage1	9336847	0	1	2833	1	0	next	false_alarm	2181
+MAXED_1010	1324	Response	2	9339491	2644	1
+MAXED_1010	1325	Picture	stage1_box	9339681	0	1	7667	1	0	next	other	0
+MAXED_1010	1325	Pulse	99	9340000	319	NA
+MAXED_1010	1326	Picture	stage1_outcome	9347347	0	1	167	1	0	next	other	0
+MAXED_1010	1327	Picture	stage2B	9347514	0	1	2667	1	0	next	false_alarm	2186
+MAXED_1010	1327	Response	2	9350131	2617	1
+MAXED_1010	1328	Picture	stage2_box	9350181	0	1	7667	1	0	next	other	0
+MAXED_1010	1329	Picture	stage2_up	9357847	0	1	7667	1	0	next	other	0
+MAXED_1010	1329	Pulse	99	9360000	2153	NA
+MAXED_1010	1330	Picture	stage2_lose	9365514	0	1	10167	1	0	next	other	0
+MAXED_1010	1331	Picture	stage1	9375681	0	1	3333	1	0	next	false_alarm	2192
+MAXED_1010	1331	Response	2	9378851	3171	1
+MAXED_1010	1332	Picture	stage1_box	9379014	0	1	7667	1	0	next	other	0
+MAXED_1010	1332	Pulse	99	9380000	986	NA
+MAXED_1010	1333	Picture	stage1_outcome	9386681	0	1	167	1	0	next	other	0
+MAXED_1010	1334	Picture	stage2A	9386847	0	1	2833	1	0	next	false_alarm	2197
+MAXED_1010	1334	Response	2	9389651	2804	1
+MAXED_1010	1335	Picture	stage2_box	9389681	0	1	7667	1	0	next	other	0
+MAXED_1010	1336	Picture	stage2_up	9397347	0	1	7667	1	0	next	other	0
+MAXED_1010	1336	Pulse	99	9400000	2653	NA
+MAXED_1010	1337	Picture	stage2_lose	9405014	0	1	10167	1	0	next	other	0
+MAXED_1010	1338	Picture	stage1	9415181	0	1	1500	1	0	next	false_alarm	2203
+MAXED_1010	1338	Response	2	9416612	1431	1
+MAXED_1010	1339	Picture	stage1_box	9416681	0	1	7667	1	0	next	other	0
+MAXED_1010	1339	Pulse	99	9420000	3319	NA
+MAXED_1010	1340	Picture	stage1_outcome	9424347	0	1	167	1	0	next	other	0
+MAXED_1010	1341	Picture	stage2B	9424514	0	1	2667	1	0	next	false_alarm	2208
+MAXED_1010	1341	Response	1	9427091	2577	1
+MAXED_1010	1342	Picture	stage2_box	9427181	0	1	7667	1	0	next	other	0
+MAXED_1010	1343	Picture	stage2_up	9434847	0	1	7667	1	0	next	other	0
+MAXED_1010	1343	Pulse	99	9440000	5153	NA
+MAXED_1010	1344	Picture	stage2_lose	9442514	0	1	10167	1	0	next	other	0
+MAXED_1010	1345	Picture	stage1	9452681	0	1	3000	1	0	next	false_alarm	2214
+MAXED_1010	1345	Response	2	9455571	2891	1
+MAXED_1010	1346	Picture	stage1_box	9455681	0	1	7667	1	0	next	other	0
+MAXED_1010	1346	Pulse	99	9460000	4319	NA
+MAXED_1010	1347	Picture	stage1_outcome	9463347	0	1	167	1	0	next	other	0
+MAXED_1010	1348	Picture	stage2B	9463514	0	1	2833	1	0	next	false_alarm	2219
+MAXED_1010	1348	Response	2	9466211	2697	1
+MAXED_1010	1349	Picture	stage2_box	9466347	0	1	7667	1	0	next	other	0
+MAXED_1010	1350	Picture	stage2_up	9474014	0	1	7667	1	0	next	other	0
+MAXED_1010	1350	Pulse	99	9480000	5986	NA
+MAXED_1010	1351	Picture	stage2_win	9481681	0	1	10167	1	0	next	other	0
+MAXED_1010	1352	Picture	stage1	9491847	0	1	4167	1	0	next	false_alarm	2225
+MAXED_1010	1352	Response	2	9495971	4124	1
+MAXED_1010	1353	Picture	stage1_box	9496014	0	1	7667	1	0	next	other	0
+MAXED_1010	1353	Pulse	99	9500000	3986	NA
+MAXED_1010	1354	Picture	stage1_outcome	9503681	0	1	167	1	0	next	other	0
+MAXED_1010	1355	Picture	stage2B	9503847	0	1	2667	1	0	next	false_alarm	2230
+MAXED_1010	1355	Response	2	9506451	2604	1
+MAXED_1010	1356	Picture	stage2_box	9506514	0	1	7667	1	0	next	other	0
+MAXED_1010	1357	Picture	stage2_up	9514181	0	1	7667	1	0	next	other	0
+MAXED_1010	1357	Pulse	99	9520000	5819	NA
+MAXED_1010	1358	Picture	stage2_lose	9521847	0	1	10167	1	0	next	other	0
+MAXED_1010	1359	Picture	stage1	9532014	0	1	4333	1	0	next	false_alarm	2236
+MAXED_1010	1359	Response	2	9536211	4197	1
+MAXED_1010	1360	Picture	stage1_box	9536347	0	1	7667	1	0	next	other	0
+MAXED_1010	1360	Pulse	99	9540000	3653	NA
+MAXED_1010	1361	Picture	stage1_outcome	9544014	0	1	167	1	0	next	other	0
+MAXED_1010	1362	Picture	stage2A	9544181	0	1	2500	1	0	next	false_alarm	2241
+MAXED_1010	1362	Response	2	9546532	2351	1
+MAXED_1010	1363	Picture	stage2_box	9546681	0	1	7667	1	0	next	other	0
+MAXED_1010	1364	Picture	stage2_up	9554347	0	1	7667	1	0	next	other	0
+MAXED_1010	1364	Pulse	99	9560000	5653	NA
+MAXED_1010	1365	Picture	stage2_win	9562014	0	1	10167	1	0	next	other	0
+MAXED_1010	1366	Picture	stage1	9572181	0	1	10500	1	0	next	false_alarm	2248
+MAXED_1010	1366	Pulse	99	9580000	7819	NA
+MAXED_1010	1366	Response	2	9582611	10430	1
+MAXED_1010	1367	Picture	stage1_box	9582681	0	1	7667	1	0	next	other	0
+MAXED_1010	1368	Picture	stage1_outcome	9590348	0	1	167	1	0	next	other	0
+MAXED_1010	1369	Picture	stage2A	9590514	0	1	1000	1	0	next	false_alarm	2252
+MAXED_1010	1369	Response	2	9591331	817	1
+MAXED_1010	1370	Picture	stage2_box	9591514	0	1	7667	1	0	next	other	0
+MAXED_1010	1371	Picture	stage2_up	9599181	0	1	7667	1	0	next	other	0
+MAXED_1010	1371	Pulse	99	9600000	819	NA
+MAXED_1010	1372	Picture	stage2_win	9606848	0	1	10167	1	0	next	other	0
+MAXED_1010	1373	Picture	stage1	9617014	0	1	5167	1	0	next	false_alarm	2259
+MAXED_1010	1373	Pulse	99	9620000	2986	NA
+MAXED_1010	1373	Response	2	9622051	5037	1
+MAXED_1010	1374	Picture	stage1_box	9622181	0	1	7667	1	0	next	other	0
+MAXED_1010	1375	Picture	stage1_outcome	9629848	0	1	167	1	0	next	other	0
+MAXED_1010	1376	Picture	stage2B	9630014	0	1	1667	1	0	next	false_alarm	2263
+MAXED_1010	1376	Response	2	9631571	1557	1
+MAXED_1010	1377	Picture	stage2_box	9631681	0	1	7667	1	0	next	other	0
+MAXED_1010	1378	Picture	stage2_up	9639348	0	1	7667	1	0	next	other	0
+MAXED_1010	1378	Pulse	99	9640000	652	NA
+MAXED_1010	1379	Picture	stage2_win	9647014	0	1	10167	1	0	next	other	0
+MAXED_1010	1380	Picture	stage1	9657181	0	1	4167	1	0	next	false_alarm	2270
+MAXED_1010	1380	Pulse	99	9660000	2819	NA
+MAXED_1010	1380	Response	2	9661251	4070	1
+MAXED_1010	1381	Picture	stage1_box	9661348	0	1	7667	1	0	next	other	0
+MAXED_1010	1382	Picture	stage1_outcome	9669014	0	1	167	1	0	next	other	0
+MAXED_1010	1383	Picture	stage2A	9669181	0	1	2833	1	0	next	false_alarm	2274
+MAXED_1010	1383	Response	2	9671891	2710	1
+MAXED_1010	1384	Picture	stage2_box	9672014	0	1	7667	1	0	next	other	0
+MAXED_1010	1385	Picture	stage2_up	9679681	0	1	7667	1	0	next	other	0
+MAXED_1010	1385	Pulse	99	9680000	319	NA
+MAXED_1010	1386	Picture	stage2_win	9687348	0	1	10167	1	0	next	other	0
+MAXED_1010	1387	Picture	stage1	9697514	0	1	4333	1	0	next	false_alarm	2281
+MAXED_1010	1387	Pulse	99	9700000	2486	NA
+MAXED_1010	1387	Response	2	9701811	4297	1
+MAXED_1010	1388	Picture	stage1_box	9701848	0	1	7667	1	0	next	other	0
+MAXED_1010	1389	Picture	stage1_outcome	9709514	0	1	167	1	0	next	other	0
+MAXED_1010	1390	Picture	stage2B	9709681	0	1	2667	1	0	next	false_alarm	2285
+MAXED_1010	1390	Response	2	9712291	2610	1
+MAXED_1010	1391	Picture	stage2_box	9712348	0	1	7667	1	0	next	other	0
+MAXED_1010	1391	Pulse	99	9720000	7652	NA
+MAXED_1010	1392	Picture	stage2_up	9720014	0	1	7667	1	0	next	other	0
+MAXED_1010	1393	Picture	stage2_lose	9727681	0	1	10167	1	0	next	other	0
+MAXED_1010	1394	Picture	stage1	9737848	0	1	2833	1	0	next	false_alarm	2292
+MAXED_1010	1394	Pulse	99	9740000	2152	NA
+MAXED_1010	1394	Response	2	9740611	2764	1
+MAXED_1010	1395	Picture	stage1_box	9740681	0	1	7667	1	0	next	other	0
+MAXED_1010	1396	Picture	stage1_outcome	9748348	0	1	167	1	0	next	other	0
+MAXED_1010	1397	Picture	stage2B	9748514	0	1	2667	1	0	next	false_alarm	2296
+MAXED_1010	1397	Response	2	9751011	2497	1
+MAXED_1010	1398	Picture	stage2_box	9751181	0	1	7667	1	0	next	other	0
+MAXED_1010	1399	Picture	stage2_up	9758848	0	1	7667	1	0	next	other	0
+MAXED_1010	1399	Pulse	99	9760000	1152	NA
+MAXED_1010	1400	Picture	stage2_lose	9766514	0	1	10167	1	0	next	other	0
+MAXED_1010	1401	Picture	stage1	9776681	0	1	3167	1	0	next	false_alarm	2302
+MAXED_1010	1401	Response	2	9779811	3130	1
+MAXED_1010	1402	Picture	stage1_box	9779848	0	1	7667	1	0	next	other	0
+MAXED_1010	1402	Pulse	99	9780000	152	NA
+MAXED_1010	1403	Picture	stage1_outcome	9787515	0	1	167	1	0	next	other	0
+MAXED_1010	1404	Picture	stage2B	9787681	0	1	3333	1	0	next	false_alarm	2307
+MAXED_1010	1404	Response	2	9790931	3250	1
+MAXED_1010	1405	Picture	stage2_box	9791015	0	1	7667	1	0	next	other	0
+MAXED_1010	1406	Picture	stage2_up	9798681	0	1	7667	1	0	next	other	0
+MAXED_1010	1406	Pulse	99	9800000	1319	NA
+MAXED_1010	1407	Picture	stage2_win	9806348	0	1	10167	1	0	next	other	0
+MAXED_1010	1408	Picture	stage1	9816515	0	1	3000	1	0	next	false_alarm	2313
+MAXED_1010	1408	Response	2	9819411	2897	1
+MAXED_1010	1409	Picture	stage1_box	9819515	0	1	7667	1	0	next	other	0
+MAXED_1010	1409	Pulse	99	9820000	485	NA
+MAXED_1010	1410	Picture	stage1_outcome	9827181	0	1	167	1	0	next	other	0
+MAXED_1010	1411	Picture	stage2B	9827348	0	1	2667	1	0	next	false_alarm	2318
+MAXED_1010	1411	Response	2	9829891	2544	1
+MAXED_1010	1412	Picture	stage2_box	9830015	0	1	7667	1	0	next	other	0
+MAXED_1010	1413	Picture	stage2_up	9837681	0	1	7667	1	0	next	other	0
+MAXED_1010	1413	Pulse	99	9840000	2319	NA
+MAXED_1010	1414	Picture	stage2_win	9845348	0	1	10167	1	0	next	other	0
+MAXED_1010	1415	Picture	stage1	9855515	0	1	3167	1	0	next	false_alarm	2324
+MAXED_1010	1415	Response	2	9858531	3017	1
+MAXED_1010	1416	Picture	stage1_box	9858681	0	1	7667	1	0	next	other	0
+MAXED_1010	1416	Pulse	99	9860000	1319	NA
+MAXED_1010	1417	Picture	stage1_outcome	9866348	0	1	167	1	0	next	other	0
+MAXED_1010	1418	Picture	stage2A	9866515	0	1	2667	1	0	next	false_alarm	2329
+MAXED_1010	1418	Response	2	9869091	2577	1
+MAXED_1010	1419	Picture	stage2_box	9869181	0	1	7667	1	0	next	other	0
+MAXED_1010	1420	Picture	stage2_up	9876848	0	1	7667	1	0	next	other	0
+MAXED_1010	1420	Pulse	99	9880000	3152	NA
+MAXED_1010	1421	Picture	stage2_win	9884515	0	1	10167	1	0	next	other	0
+MAXED_1010	1422	Pulse	99	9900000	5319	NA
+MAXED_1010	1422	Pulse	99	9920000	25319	NA
+MAXED_1010	1422	Pulse	99	9940000	45319	NA
+MAXED_1010	1422	Pulse	99	9960000	65319	NA
+MAXED_1010	1422	Response	88	9978852	84170	1

@@ -1,0 +1,27 @@
+﻿raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+srhi_1,NA,Habitual eating is something I do frequently.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_2,NA,Habitual eating is something I do automatically.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_3,NA,Habitual eating is something I do without having to consciously remember.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_4,NA,Habitual eating is something that makes me feel weird if I do not do it.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_5,NA,Habitual eating is something I do without thinking.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_6,NA,Habitual eating is something that would require effort not to do it.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_7,NA,"Habitual eating is something that belongs to my (daily, weekly, monthly) routine.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_8,NA,Habitual eating is something I start doing before I realize I'm doing it,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_9,NA,Habitual eating is something I would find hard not to do.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_10,NA,Habitual eating is something I have no need to think about doing.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_11,NA,"Habitual eating is something that's typically ""me"".",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+srhi_12,NA,Habitual is something I have been doing for a long time.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+"srhi_1,srhi_2,srhi_3,srhi_4,srhi_5,srhi_6,srhi_7,srhi_8,srhi_9,srhi_10,srhi_11,srhi_12",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+srhi_1,srhi_1_frequently,Habitual eating is something I do frequently.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_2,srhi_2_automatically,Habitual eating is something I do automatically.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_3,srhi_3_consciously_remember,Habitual eating is something I do without having to consciously remember.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_4,srhi_4_weird,Habitual eating is something that makes me feel weird if I do not do it.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_5,srhi_5_without_thinking,Habitual eating is something I do without thinking.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_6,srhi_6_effort_not_to,Habitual eating is something that would require effort not to do it.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_7,srhi_7_routine,"Habitual eating is something that belongs to my (daily, weekly, monthly) routine.",recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_8,srhi_8_without_realizing,Habitual eating is something I start doing before I realize I'm doing it,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_9,srhi_9_hard_not_to,Habitual eating is something I would find hard not to do.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_10,srhi_10_no_need_to_think,Habitual eating is something I have no need to think about doing.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_11,srhi_11_typically_me,"Habitual eating is something that's typically ""me"".",recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+srhi_12,srhi_12_long_time,Habitual is something I have been doing for a long time.,recode,2,"Strongly disagree=0, Disagree=1, Neutral=2, Agree=3, Strongly Agree=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+"srhi_1_frequently,srhi_2_automatically,srhi_3_consciously_remember,srhi_4_weird,srhi_5_without_thinking,srhi_6_effort_not_to,srhi_7_routine,srhi_8_without_realizing,srhi_9_hard_not_to,srhi_10_no_need_to_think,srhi_11_typically_me,srhi_12_long_time",srhi_mean,mean of self report habit index ,mean,3,NA,NA,NA,NA,NA,NA

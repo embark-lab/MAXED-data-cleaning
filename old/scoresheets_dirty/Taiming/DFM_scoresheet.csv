@@ -1,0 +1,37 @@
+raw_vars,raw_vars,raw_vars,raw_vars,raw_vars,raw_vars,new_vals,if_condition,if_true_return,else_return,code
+subject_id,NA,NA,raw,0,NA,NA,NA,NA,NA,NA
+muscularity_instruction,NA,"Please read each item carefully then, for each one, choose the item that best applies to you.",raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_1,NA,I wish that I were more muscular.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_2,NA,I lift weights to build up muscle.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_3,NA,I use protein or energy supplements.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_4,NA,I drink weight gain or protein shakes.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_5,NA,I try to consume as many calories as I can in a day.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_6,NA,I feel guilty if I miss a weight training session.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_7,NA,I think I would feel more confident if I had more muscle mass.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_8,NA,Other people think I work out with weights too often.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_9,NA,I think that I would look better if I gained 10 pounds in bulk.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_10,NA,I think about taking anabolic steroids.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_11,NA,I think that I would feel stronger if I gained a little more muscle mass.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_12,NA,I think that my weight training schedule interferes with other aspects of my life.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_13,NA,I think that my arms are not muscular enough.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_14,NA,I think that my chest is not muscular enough.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+muscularity_15,NA,I think that my legs are not muscular enough.,raw,0,"always=1, very often=2, often=3, sometimes=4, rarely=5, never=6",NA,NA,NA,NA,NA
+drive_for_muscularity_scale_complete,NA,Complete?,raw,0,"Incomplete=0, Unverified=1, Complete=2",NA,NA,NA,NA,NA
+"muscularity_1, muscularity_2, muscularity_3, muscularity_4, muscularity_5, muscularity_6, muscularity_7, muscularity_8, muscularity_9, muscularity_10, muscularity_11, muscularity_12, muscularity_13, muscularity_14, muscularity_15, subject_id",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+subject_id,id,NA,rename,2,NA,NA,NA,NA,NA,NA
+muscularity_1,dfm_1_wish,I wish that I were more muscular.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=5","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_2,dfm_2_lift,I lift weights to build up muscle.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=6","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_3,dfm_3_protein,I use protein or energy supplements.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=7","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_4,dfm_4_drink,I drink weight gain or protein shakes.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=8","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_5,dfm_5_consume,I try to consume as many calories as I can in a day.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=9","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_6,dfm_6_guilty,I feel guilty if I miss a weight training session.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=10","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_7,dfm_7_confident,I think I would feel more confident if I had more muscle mass.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=11","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_8,dfm_8_other_people,Other people think I work out with weights too often.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=12","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_9,dfm_9_gain_pounds,I think that I would look better if I gained 10 pounds in bulk.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=13","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_10,dfm_10_steroids,I think about taking anabolic steroids.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=14","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_11,dfm_11_muscle_mass,I think that I would feel stronger if I gained a little more muscle mass.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=15","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_12,dfm_12_weight_train,I think that my weight training schedule interferes with other aspects of my life.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=16","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_13,dfm_13_arms,I think that my arms are not muscular enough.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=17","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_14,dfm_14_chest,I think that my chest is not muscular enough.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=18","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+muscularity_15,dfm_15_legs,I think that my legs are not muscular enough.,recode,2,"always=0, very often=1, often=2, sometimes=3, rarely=4, never=19","1=0, 2=1, 3=2, 4=3, 5=4, 6=5",NA,NA,NA,NA 
+"muscularity_wish, muscularity_lift, muscularity_protein, muscularity_drink, muscularity_consume, muscularity_guilty, muscularity_confident, muscularity_other_people, muscularity_gain_pounds, muscularity_steroids, muscularity_muscle_mass, muscularity_weight_train, muscularity_arms, muscularity_chest, muscularity_legs",dfm_average,average of muscularity,average,3,NA,NA,NA,NA,NA,NA

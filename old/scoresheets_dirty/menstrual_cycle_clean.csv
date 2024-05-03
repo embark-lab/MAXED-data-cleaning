@@ -1,0 +1,53 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+subject_id,NA,ID,raw,0,NA,NA,NA,NA,NA,NA
+mci_date,NA,Today's Date:,row,0,NA,NA,NA,NA,NA,NA
+mci_1,NA,First day of last menstrual period:,row,0,NA,NA,NA,NA,NA,NA
+mci_2,NA,Are your menstrual cycles regular?,row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_irregular,NA,Please Explain:,row,0,NA,NA,NA,NA,NA,NA
+mci_periodamount,NA,How many periods have you had in the past three months?,row,0,NA,NA,NA,NA,NA,NA
+mci_lost,NA,Have you ever lost your period for more than 2 months?,row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_lost_when,NA,When was the last time you lost your period?,row,0,NA,NA,NA,NA,NA,NA
+mci_lost_time,NA,How many months did you lose your period for?,row,0,NA,NA,NA,NA,NA,NA
+mci_2a,NA,How many days is a typical cycle for you?:,row,0,NA,NA,NA,NA,NA,NA
+mci_2b,NA,Can you reliably estimate the stages of your cycle?,row,0,"1 = Yes, 2 = No",NA,NA,NA,NA,NA
+mci_first_period,NA,At what age did you get your first menstrual period?,row,0,NA,NA,NA,NA,NA,NA
+mci_period_peers,NA,"Compared to other girls your age, did your period come...",row,0,"1 = much earlier, 2 = somewhat earlier, 3 = about the same time, 4 = somewhat later, 5 = much later",NA,NA,NA,NA,NA
+mci_breast_devel,NA,At what age did you first notice breast development?,row,0,NA,NA,NA,NA,NA,NA
+mci_breasts_peers,NA,"Compared to other girls your age, did your breasts develop...",row,0,"1 = much earlier, 2 = somewhat earlier, 3 = about the same time, 4 = somewhat later, 5 = much later",NA,NA,NA,NA,NA
+mci_3,NA,Are you on any form of birth control?,row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_3i,NA,"If yes, what type of birth control (i.e.- birth control pill, shot, etc.)?",row,0,NA,NA,NA,NA,NA,NA
+mci_4,NA,Have you had a hysterectomy?,row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_4i,NA,"If yes, do you receive hormone replacement therapy?",row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_5,NA,Have your ovaries been removed (an oophorectomy)?,row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_5i,NA,"If yes, do you receive hormone replacement therapy?",row,0,"0 = No, 1 = Yes",NA,NA,NA,NA,NA
+mci_phair,NA,Public hair development,row,0,"1 = No hair, 2 = Downey hair, 3 = Barely any coarse or thich hair, 4 = Coarse, thick, pigmented hair that fills the entire triangle overlaying the pubic region, 5 = Coarse, thick, pigmented hair that extends onto the thigh",NA,NA,NA,NA,NA
+mci_breast,NA,Breast development,row,0,"1 = No breast tissue, 2 = Breast tissue under nipple, 3 = Breast tissue outside/around nipple, 4 = nipple elevated above contour of the breast, forming ""double scoop"" appearance, 5 = Nipple mound receded back into single breast contour
+
+",NA,NA,NA,NA,NA
+"subject_id,mci_date,mci_1,mci_2,mci_irregular,mci_periodamount,mci_lost,mci_lost_when,mci_lost_time,mci_2a,mci_2b,mci_first_period,mci_period_peers,mci_breast_devel,mci_breasts_peers,mci_3,mci_3i,mci_4,mci_4i,mci_5,mci_5i,mci_phair,mci_breast",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+subject_id,id,NA,rename,2,NA,NA,NA,NA,NA,NA
+mci_date,mci_today,Today's Date:,rename,2,NA,NA,NA,NA,NA,NA
+mci_1,mci_last_period,First day of last menstrual period:,rename,2,NA,NA,NA,NA,NA,NA
+mci_2,mci_regular,Are your menstrual cycles regular?,rename,2,NA,NA,NA,NA,NA,NA
+mci_irregular,mci_reg_explain,Please Explain:,rename,2,NA,NA,NA,NA,NA,NA
+mci_periodamount,mci_period_three_months,How many periods have you had in the past three months?,rename,2,NA,NA,NA,NA,NA,NA
+mci_lost,mci_lost_period,Have you ever lost your period for more than 2 months?,rename,2,NA,NA,NA,NA,NA,NA
+mci_lost_when,mci_last_lost_period_when,When was the last time you lost your period?,rename,2,NA,NA,NA,NA,NA,NA
+mci_lost_time,mci_lost_period_months,How many months did you lose your period for?,rename,2,NA,NA,NA,NA,NA,NA
+mci_2a,mci_cycle_days,How many days is a typical cycle for you?:,rename,2,NA,NA,NA,NA,NA,NA
+mci_2b,mci_estimate,Can you reliably estimate the stages of your cycle?,recode,2,"0 = No, 1 = Yes","1 = 1, 2 = 0",NA,NA,NA,NA
+mci_first_period,mci_first_period_age,At what age did you get your first menstrual period?,rename,2,NA,,NA,NA,NA,NA
+mci_period_peers,mci_period_time_compare,"Compared to other girls your age, did your period come...",recode,2,NA,,NA,NA,NA,NA
+mci_breast_devel,mci_first_breasts,At what age did you first notice breast development?,rename,2,NA,,NA,NA,NA,NA
+mci_breasts_peers,mci_breasts_time_compare,"Compared to other girls your age, did your breasts develop...",recode,2,NA,,NA,NA,NA,NA
+mci_3,mci_birth_control,Are you on any form of birth control?,rename,2,NA,,NA,NA,NA,NA
+mci_3i,mci_birth_control_type,"If yes, what type of birth control (i.e.- birth control pill, shot, etc.)?",rename,2,NA,,NA,NA,NA,NA
+mci_4,mci_hysterectomy,Have you had a hysterectomy?,rename,2,NA,,NA,NA,NA,NA
+mci_4i,mci_hyst_hormone_replace_therapy,"If yes, do you receive hormone replacement therapy?",rename,2,NA,,NA,NA,NA,NA
+mci_5,mci_remove_ovaries,Have your ovaries been removed (an oophorectomy)?,rename,2,NA,,NA,NA,NA,NA
+mci_5i,mci_overy_hormone_replace_therapy,"If yes, do you receive hormone replacement therapy?",rename,2,NA,,NA,NA,NA,NA
+mci_phair,mci_public_hair,Public hair development,recode,2,"0 = No hair, 1 = Downey hair, 2 = Barely any coarse or thich hair, 3 = Coarse, thick, pigmented hair that fills the entire triangle overlaying the pubic region, 4 = Coarse, thick, pigmented hair that extends onto the thigh","1 = 0, 2 = 1, 3 = 2, 4 = 3, 5 = 4",NA,NA,NA,NA
+mci_breast,mci_breasts,Breast development,recode,2,"0 = No breast tissue, 1 = Breast tissue under nipple, 2 = Breast tissue outside/around nipple, 3 = nipple elevated above contour of the breast, forming ""double scoop"" appearance, 4 = Nipple mound receded back into single breast contour
+
+","1 = 0, 2 = 1, 3 = 2, 4 = 3, 5 = 4",NA,NA,NA,NA
+"id,mci_today,mci_last_period,mci_regular,mci_reg_explain,mci_period_three_months,mci_lost_period,mci_last_lost_period_when,mci_lost_period_months,mci_cycle_days,mci_estimate,mci_first_period_age,mci_period_time_compare,mci_first_breasts,mci_breasts_time_compare,mci_birth_control,mci_birth_control_type,mci_hysterectomy,mci_hyst_hormone_replace_therapy,mci_remove_ovaries,mci_overy_hormone_replace_therapy,mci_public_hair,mci_breasts",NA,NA,select,3,NA,NA,NA,NA,NA,NA

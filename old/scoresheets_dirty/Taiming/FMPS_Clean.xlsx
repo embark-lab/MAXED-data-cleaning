@@ -1,0 +1,45 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+subject_id,NA,ID,raw,0,NA,NA,NA,NA,NA,NA
+fmps_parent_standard,NA,My parents set very high standards for me,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_organization,NA,Organization is very important to me,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_punish_less_perfect,NA,"As a child, I was punished for doing things less than perfectly.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_self_standard,NA,"If I do not set the highest standards for myself, I am likely to end up a second-rate person.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_understand_mistake,NA,My parents never tried to understand my mistakes.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_competent,NA,It is important to me that I be thoroughly competent in what I do.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_neat,NA,I am a neat person.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_try_organize,NA,I try to be an organized person.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_work_failure,NA,"If I fail at work/school, I am a failure as a person.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_mistake_upset,NA,I should be upset if I make a mistake.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_parent_best,NA,My parents wanted me to be the best at everything.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_higher_goal,NA,I set higher goals than most people.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_worse_fail,NA,"If someone does a task at work/school better than I do, then I feel as if I failed the whole task.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_partial_fail,NA,"If I fail partly, it is as bad as being a complete failure.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_outstanding,NA,Only outstanding performance is good enough in my family.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_focus,NA,I am very good at focusing my efforts on attaining a goal.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_careful,NA,"Even when I do something very carefully, I often feel that it is not quite right.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_less_best,NA,I hate being less than the best at thi,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_extreme_goal,NA,I have extremely high goals.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_parent_excellent,NA,My parents expect excellence from me.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_negative_mistake,NA,People will probably think less of me if I make a mistake.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_parent_goal_meeting,NA,I never feel that I can meet my parents' expectations,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_inferior,NA,"If I do not do as well as other people, it means I am an inferior being.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_lower_standard,NA,Other people seem to accept lower standards from themselves than I do.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_respect,NA,"If I do not do well all the time, people will not respect me.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_parent_higher_self,NA,My parents have always had higher expectations for my future than I have.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_try_neat,NA,I try to be a neat person.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_doubt,NA,I usually have doubts about the simple everyday things that I do.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_neatness,NA,Neatness is very important to me.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_high_perform,NA,I expect higher performance in my daily tasks than most people.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_organized,NA,I am an organized person.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_repeat,NA,I tend to get behind in my work because I repeat things over and over.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_long_time,NA,"It takes me a long time to do something ""right"".",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_mistake_likeness,NA,"The fewer mistakes I make, the more people will like me.",raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+fmps_parent_standardmeet,NA,I never feel that I can meet my parents' standard.,raw,0,"Strongly disagree=1, Disagree=2, Neutral=3, Agree=4, Strongly Agree=5",NA,NA,NA,NA,NA
+"subject_id,fmps_parent_standard,fmps_organization,fmps_punish_less_perfect,fmps_self_standard,fmps_understand_mistake,fmps_competent,fmps_neat,fmps_try_organize,fmps_work_failure,fmps_mistake_upset,fmps_parent_best,fmps_higher_goal,fmps_worse_fail,fmps_partial_fail,fmps_outstanding,fmps_focus,fmps_careful,fmps_less_best,fmps_extreme_goal,fmps_parent_excellent,fmps_negative_mistake,fmps_parent_goal_meeting,fmps_inferior,fmps_lower_standard,fmps_respect,fmps_parent_higher_self,fmps_try_neat,fmps_doubt,fmps_neatness,fmps_high_perform,fmps_organized,fmps_repeat,fmps_long_time,fmps_mistake_likeness,fmps_parent_standardmeet",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+subject_id,id,NA,rename,2,NA,NA,NA,NA,NA,NA
+"fmps_work_failure,fmps_mistake_upset,fmps_worse_fail,fmps_partial_fail,fmps_careful,fmps_negative_mistake,fmps_respect,fmps_doubt,fmps_repeat,fmps_long_time,fmps_mistake_likeness",fmps_concerns_mistakes,Sum of concern over mistakes and doubts about actions scores,sum,2,NA,NA,NA,NA,NA,NA
+"fmps_parent_standard,fmps_punish_less_perfect,fmps_understand_mistake,fmps_parent_best,fmps_outstanding,fmps_parent_excellent,fmps_parent_goal_meeting,fmps_parent_higher_self,fmps_parent_standardmeet",fmps_excessive_concerns_parents_expectations_evaluation,Sum of excessive concern with parents' expectations and evaluation scores,sum,2,NA,NA,NA,NA,NA,NA
+"fmps_self_standard,fmps_competent,fmps_higher_goal,fmps_focus,fmps_extreme_goal,fmps_lower_standard,fmps_high_perform",fmps_high_personal_standards,Sum of excessively high personal standards scores,sum,2,NA,NA,NA,NA,NA,NA
+"fmps_self_standard,fmps_competent,fmps_higher_goal,fmps_focus,fmps_extreme_goal,fmps_lower_standard,fmps_high_perform",fmps_concerns_precision_order,"Sum of concern with precision, order and organization scores",sum,2,NA,NA,NA,NA,NA,NA
+"fmps_organization,fmps_neat,fmps_try_organize,fmps_try_neat,fmps_neatness,fmps_organized",fmps_total_perfectionism_score,Total perfectionism score,sum,2,NA,NA,NA,NA,NA,NA
+"subject_id,fmps_work_failure,fmps_mistake_upset,fmps_worse_fail,fmps_partial_fail,fmps_careful,fmps_negative_mistake,fmps_respect,fmps_doubt,fmps_repeat,fmps_long_time,fmps_mistake_likeness,fmps_parent_standard,fmps_punish_less_perfect,fmps_understand_mistake,fmps_parent_best,fmps_outstanding,fmps_parent_excellent,fmps_parent_goal_meeting,fmps_parent_higher_self,fmps_parent_standardmeet,fmps_self_standard,fmps_competent,fmps_higher_goal,fmps_focus,fmps_extreme_goal,fmps_lower_standard,fmps_high_perform,fmps_self_standard,fmps_competent,fmps_higher_goal,fmps_focus,fmps_extreme_goal,fmps_lower_standard,fmps_high_perform,fmps_organization,fmps_neat,fmps_try_organize,fmps_try_neat,fmps_neatness,fmps_organized",NA,NA,select,3,NA,NA,NA,NA,NA,NA

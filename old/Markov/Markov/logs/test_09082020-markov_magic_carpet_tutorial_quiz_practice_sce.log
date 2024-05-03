@@ -1,0 +1,421 @@
+Scenario - 
+Logfile written - 09/08/2020 16:01:49
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test_09082020	0	Pulse	99	0	0	NA
+test_09082020	1	Picture	instructions_1	166	0	1	14667	1	0	next	false_alarm	3
+test_09082020	1	Response	88	14667	14501	1
+test_09082020	2	Picture	instructions_2	14833	0	1	11833	1	0	next	false_alarm	6
+test_09082020	2	Pulse	99	20000	5167	NA
+test_09082020	2	Response	88	26507	11674	1
+test_09082020	3	Picture	instructions_3	26666	0	1	58666	1	0	next	false_alarm	11
+test_09082020	3	Pulse	99	40000	13334	NA
+test_09082020	3	Pulse	99	60000	33334	NA
+test_09082020	3	Pulse	99	80000	53334	NA
+test_09082020	3	Response	88	85227	58561	1
+test_09082020	4	Picture	instructions_4	85333	0	1	8000	1	0	next	false_alarm	13
+test_09082020	4	Response	88	93226	7894	1
+test_09082020	5	Picture	instructions_5	93333	0	1	4833	1	0	next	false_alarm	15
+test_09082020	5	Response	88	98027	4694	1
+test_09082020	6	Picture	instructions_6	98166	0	1	2167	1	0	next	false_alarm	18
+test_09082020	6	Pulse	99	100000	1834	NA
+test_09082020	6	Response	88	100106	1940	1
+test_09082020	7	Picture	instructions_7	100333	0	1	1667	1	0	next	false_alarm	20
+test_09082020	7	Response	88	101866	1533	1
+test_09082020	8	Picture	instructions_8	101999	0	1	1667	1	0	next	false_alarm	22
+test_09082020	8	Response	88	103466	1467	1
+test_09082020	9	Picture	instructions_9	103666	0	1	1667	1	0	next	false_alarm	24
+test_09082020	9	Response	88	105227	1561	1
+test_09082020	10	Picture	instructions_10	105333	0	1	1833	1	0	next	false_alarm	26
+test_09082020	10	Response	88	106986	1654	1
+test_09082020	11	Picture	instructions_11	107166	0	1	1667	1	0	next	false_alarm	28
+test_09082020	11	Response	88	108746	1580	1
+test_09082020	12	Picture	instructions_12	108833	0	1	1833	1	0	next	false_alarm	30
+test_09082020	12	Response	88	110506	1674	1
+test_09082020	13	Picture	instructions_13	110666	0	1	1833	1	0	next	false_alarm	32
+test_09082020	13	Response	88	112266	1600	1
+test_09082020	14	Picture	instructions_14	112499	0	1	1667	1	0	next	false_alarm	34
+test_09082020	14	Response	88	114026	1527	1
+test_09082020	15	Picture	instructions_15	114166	0	1	2167	1	0	next	false_alarm	36
+test_09082020	15	Response	88	116106	1940	1
+test_09082020	16	Picture	instructions_16	116333	0	1	1833	1	0	next	false_alarm	38
+test_09082020	16	Response	88	118026	1694	1
+test_09082020	17	Picture	instructions_17	118166	0	1	2167	1	0	next	false_alarm	41
+test_09082020	17	Pulse	99	120000	1834	NA
+test_09082020	17	Response	88	120106	1940	1
+test_09082020	18	Picture	instructions_18	120333	0	1	4000	1	0	next	false_alarm	43
+test_09082020	18	Response	88	124106	3773	1
+test_09082020	19	Picture	instructions_19	124332	0	1	3167	1	0	next	false_alarm	45
+test_09082020	19	Response	88	127306	2974	1
+test_09082020	20	Picture	instructions_20	127499	0	1	3000	1	0	next	false_alarm	47
+test_09082020	20	Response	88	130346	2847	1
+test_09082020	21	Picture	instructions_21	130499	0	1	3500	1	0	next	false_alarm	49
+test_09082020	21	Response	88	133866	3367	1
+test_09082020	22	Picture	instructions_22	133999	0	1	3333	1	0	next	false_alarm	51
+test_09082020	22	Response	88	137226	3227	1
+test_09082020	23	Picture	instructions_23	137332	0	1	4167	1	0	next	false_alarm	54
+test_09082020	23	Pulse	99	140000	2668	NA
+test_09082020	23	Response	88	141386	4054	1
+test_09082020	24	Picture	instructions_24	141499	0	1	5000	1	0	next	false_alarm	56
+test_09082020	24	Response	88	146347	4847	1
+test_09082020	25	Picture	instructions_25	146499	0	1	4500	1	0	next	false_alarm	58
+test_09082020	25	Response	88	150826	4327	1
+test_09082020	26	Picture	instructions_26	150999	0	1	4000	1	0	next	false_alarm	60
+test_09082020	26	Response	88	154826	3827	1
+test_09082020	27	Picture	instructions_27	154999	0	1	4167	1	0	next	false_alarm	62
+test_09082020	27	Response	88	158986	3987	1
+test_09082020	28	Picture	instructions_28	159166	0	1	4667	1	0	next	false_alarm	65
+test_09082020	28	Pulse	99	160000	834	NA
+test_09082020	28	Response	88	163626	4461	1
+test_09082020	29	Picture	instructions_29	163832	0	1	17167	1	0	next	false_alarm	68
+test_09082020	29	Pulse	99	180000	16168	NA
+test_09082020	29	Response	88	180906	17073	1
+test_09082020	30	Picture	instructions_30	180999	0	1	297165	1	0	next	false_alarm	84
+test_09082020	30	Pulse	99	200000	19001	NA
+test_09082020	30	Pulse	99	220000	39001	NA
+test_09082020	30	Pulse	99	240000	59001	NA
+test_09082020	30	Pulse	99	260000	79001	NA
+test_09082020	30	Pulse	99	280000	99001	NA
+test_09082020	30	Pulse	99	300000	119001	NA
+test_09082020	30	Pulse	99	320000	139001	NA
+test_09082020	30	Pulse	99	340000	159001	NA
+test_09082020	30	Pulse	99	360000	179001	NA
+test_09082020	30	Pulse	99	380000	199001	NA
+test_09082020	30	Pulse	99	400000	219001	NA
+test_09082020	30	Pulse	99	420000	239001	NA
+test_09082020	30	Pulse	99	440000	259001	NA
+test_09082020	30	Pulse	99	460000	279001	NA
+test_09082020	30	Response	88	478024	297025	1
+test_09082020	31	Picture	instructions_31	478164	0	1	6500	1	0	next	false_alarm	87
+test_09082020	31	Pulse	99	480000	1836	NA
+test_09082020	31	Response	88	484584	6420	1
+test_09082020	32	Picture	instructions_32	484664	0	1	5833	1	0	next	false_alarm	89
+test_09082020	32	Response	88	490344	5680	1
+test_09082020	33	Picture	instructions_33	490497	0	1	2167	1	0	next	false_alarm	91
+test_09082020	33	Response	88	492584	2086	1
+test_09082020	34	Picture	instructions_34	492664	0	1	2167	1	0	next	false_alarm	93
+test_09082020	34	Response	88	494664	2000	1
+test_09082020	35	Picture	instructions_35	494831	0	1	4667	1	0	next	false_alarm	95
+test_09082020	35	Response	88	499304	4473	1
+test_09082020	36	Picture	instructions_36	499497	0	1	4000	1	0	next	false_alarm	98
+test_09082020	36	Pulse	99	500000	503	NA
+test_09082020	36	Response	88	503304	3806	1
+test_09082020	37	Picture	instructions_37	503497	0	1	29833	1	0	next	false_alarm	101
+test_09082020	37	Pulse	99	520000	16503	NA
+test_09082020	37	Response	88	533224	29727	1
+test_09082020	38	Picture	instructions_38	533330	0	1	17667	1	0	next	false_alarm	104
+test_09082020	38	Pulse	99	540000	6670	NA
+test_09082020	38	Response	88	550824	17493	1
+test_09082020	39	Picture	instructions_39	550997	0	1	49833	1	0	next	false_alarm	109
+test_09082020	39	Pulse	99	560000	9003	NA
+test_09082020	39	Pulse	99	580000	29003	NA
+test_09082020	39	Pulse	99	600000	49003	NA
+test_09082020	39	Response	88	600743	49746	1
+test_09082020	40	Picture	instructions_40	600830	0	1	31000	1	0	next	false_alarm	112
+test_09082020	40	Pulse	99	620000	19170	NA
+test_09082020	40	Response	88	631623	30793	1
+test_09082020	41	Picture	instructions_41	631830	0	1	10000	1	0	next	false_alarm	115
+test_09082020	41	Pulse	99	640000	8170	NA
+test_09082020	41	Response	88	641703	9873	1
+test_09082020	42	Picture	instructions_42	641830	0	1	9333	1	0	next	false_alarm	117
+test_09082020	42	Response	88	650983	9153	1
+test_09082020	43	Picture	instructions_43	651163	0	1	13000	1	0	next	false_alarm	120
+test_09082020	43	Pulse	99	660000	8837	NA
+test_09082020	43	Response	88	664103	12940	1
+test_09082020	44	Picture	instructions_44	664163	0	1	10167	1	0	next	false_alarm	122
+test_09082020	44	Response	88	674183	10020	1
+test_09082020	45	Picture	instructions_45	674330	0	1	7167	1	0	next	false_alarm	125
+test_09082020	45	Pulse	99	680000	5670	NA
+test_09082020	45	Response	88	681383	7053	1
+test_09082020	46	Picture	instructions_46	681496	0	1	12500	1	0	next	false_alarm	127
+test_09082020	46	Response	88	693863	12366	1
+test_09082020	47	Picture	fixation	693996	0	1	5167	1	0	next	other	0
+test_09082020	48	Picture	stage1	699163	0	1	9833	1	0	next	false_alarm	131
+test_09082020	48	Pulse	99	700000	837	NA
+test_09082020	48	Response	1	708903	9740	1
+test_09082020	49	Picture	stage1_box	708996	0	1	7667	1	0	next	other	0
+test_09082020	50	Picture	stage1_outcome	716663	0	1	167	1	0	next	other	0
+test_09082020	51	Picture	stage2A	716830	0	1	6167	1	0	next	false_alarm	136
+test_09082020	51	Pulse	99	720000	3170	NA
+test_09082020	51	Response	1	722823	5993	1
+test_09082020	52	Picture	stage2_box	722996	0	1	7667	1	0	next	other	0
+test_09082020	53	Picture	stage2_up	730663	0	1	7667	1	0	next	other	0
+test_09082020	54	Picture	stage2_lose	738329	0	1	10167	1	0	next	other	0
+test_09082020	54	Pulse	99	740000	1671	NA
+test_09082020	55	Picture	stage1	748496	0	1	4833	1	0	next	false_alarm	142
+test_09082020	55	Response	1	753223	4727	1
+test_09082020	56	Picture	stage1_box	753329	0	1	7667	1	0	next	other	0
+test_09082020	56	Pulse	99	760000	6671	NA
+test_09082020	57	Picture	stage1_outcome	760996	0	1	167	1	0	next	other	0
+test_09082020	58	Picture	stage2B	761163	0	1	4500	1	0	next	false_alarm	147
+test_09082020	58	Response	1	765542	4380	1
+test_09082020	59	Picture	stage2_box	765663	0	1	7667	1	0	next	other	0
+test_09082020	60	Picture	stage2_up	773329	0	1	7667	1	0	next	other	0
+test_09082020	60	Pulse	99	780000	6671	NA
+test_09082020	61	Picture	stage2_lose	780996	0	1	10167	1	0	next	other	0
+test_09082020	62	Picture	stage1	791163	0	1	4833	1	0	next	false_alarm	153
+test_09082020	62	Response	1	795942	4780	1
+test_09082020	63	Picture	stage1_box	795996	0	1	7667	1	0	next	other	0
+test_09082020	63	Pulse	99	800000	4004	NA
+test_09082020	64	Picture	stage1_outcome	803662	0	1	167	1	0	next	other	0
+test_09082020	65	Picture	stage2A	803829	0	1	5833	1	0	next	false_alarm	158
+test_09082020	65	Response	1	809542	5713	1
+test_09082020	66	Picture	stage2_box	809662	0	1	7667	1	0	next	other	0
+test_09082020	67	Picture	stage2_up	817329	0	1	7667	1	0	next	other	0
+test_09082020	67	Pulse	99	820000	2671	NA
+test_09082020	68	Picture	stage2_win	824996	0	1	10167	1	0	next	other	0
+test_09082020	69	Picture	stage1	835162	0	1	3333	1	0	next	false_alarm	164
+test_09082020	69	Response	1	838342	3180	1
+test_09082020	70	Picture	stage1_box	838496	0	1	7667	1	0	next	other	0
+test_09082020	70	Pulse	99	840000	1504	NA
+test_09082020	71	Picture	stage1_outcome	846162	0	1	167	1	0	next	other	0
+test_09082020	72	Picture	stage2A	846329	0	1	4333	1	0	next	false_alarm	169
+test_09082020	72	Response	1	850502	4173	1
+test_09082020	73	Picture	stage2_box	850662	0	1	7667	1	0	next	other	0
+test_09082020	74	Picture	stage2_up	858329	0	1	7667	1	0	next	other	0
+test_09082020	74	Pulse	99	860000	1671	NA
+test_09082020	75	Picture	stage2_lose	865995	0	1	10167	1	0	next	other	0
+test_09082020	76	Picture	stage1	876162	0	1	4333	1	0	next	false_alarm	176
+test_09082020	76	Pulse	99	880000	3838	NA
+test_09082020	76	Response	2	880422	4260	1
+test_09082020	77	Picture	stage1_box	880495	0	1	7667	1	0	next	other	0
+test_09082020	78	Picture	stage1_outcome	888162	0	1	167	1	0	next	other	0
+test_09082020	79	Picture	stage2A	888329	0	1	4833	1	0	next	false_alarm	180
+test_09082020	79	Response	2	893062	4733	1
+test_09082020	80	Picture	stage2_box	893162	0	1	7667	1	0	next	other	0
+test_09082020	80	Pulse	99	900000	6838	NA
+test_09082020	81	Picture	stage2_up	900829	0	1	7667	1	0	next	other	0
+test_09082020	82	Picture	stage2_win	908495	0	1	10167	1	0	next	false_alarm	185
+test_09082020	82	Response	1	913061	4566	1
+test_09082020	83	Picture	stage1	918662	0	1	4667	1	0	next	false_alarm	188
+test_09082020	83	Pulse	99	920000	1338	NA
+test_09082020	83	Response	1	923141	4479	1
+test_09082020	84	Picture	stage1_box	923329	0	1	7667	1	0	next	other	0
+test_09082020	85	Picture	stage1_outcome	930995	0	1	167	1	0	next	other	0
+test_09082020	86	Picture	stage2A	931162	0	1	6500	1	0	next	false_alarm	192
+test_09082020	86	Response	1	937541	6379	1
+test_09082020	87	Picture	stage2_box	937662	0	1	7667	1	0	next	other	0
+test_09082020	87	Pulse	99	940000	2338	NA
+test_09082020	88	Picture	stage2_up	945328	0	1	7667	1	0	next	other	0
+test_09082020	89	Picture	stage2_win	952995	0	1	10167	1	0	next	other	0
+test_09082020	89	Pulse	99	960000	7005	NA
+test_09082020	90	Picture	stage1	963162	0	1	3667	1	0	next	false_alarm	199
+test_09082020	90	Response	2	966661	3500	1
+test_09082020	91	Picture	stage1_box	966828	0	1	7667	1	0	next	other	0
+test_09082020	92	Picture	stage1_outcome	974495	0	1	167	1	0	next	other	0
+test_09082020	93	Picture	stage2A	974662	0	1	5500	1	0	next	false_alarm	204
+test_09082020	93	Pulse	99	980000	5338	NA
+test_09082020	93	Response	2	980101	5439	1
+test_09082020	94	Picture	stage2_box	980162	0	1	7667	1	0	next	other	0
+test_09082020	95	Picture	stage2_up	987828	0	1	7667	1	0	next	other	0
+test_09082020	96	Picture	stage2_win	995495	0	1	10167	1	0	next	other	0
+test_09082020	96	Pulse	99	1000000	4505	NA
+test_09082020	97	Picture	stage1	1005661	0	1	3500	1	0	next	false_alarm	210
+test_09082020	97	Response	2	1009061	3399	1
+test_09082020	98	Picture	stage1_box	1009161	0	1	7667	1	0	next	other	0
+test_09082020	99	Picture	stage1_outcome	1016828	0	1	167	1	0	next	other	0
+test_09082020	100	Picture	stage2B	1016995	0	1	4333	1	0	next	false_alarm	215
+test_09082020	100	Pulse	99	1020000	3005	NA
+test_09082020	100	Response	2	1021221	4226	1
+test_09082020	101	Picture	stage2_box	1021328	0	1	7667	1	0	next	other	0
+test_09082020	102	Picture	stage2_up	1028995	0	1	7667	1	0	next	other	0
+test_09082020	103	Picture	stage2_lose	1036661	0	1	10167	1	0	next	other	0
+test_09082020	103	Pulse	99	1040000	3339	NA
+test_09082020	104	Picture	stage1	1046828	0	1	3500	1	0	next	false_alarm	221
+test_09082020	104	Response	2	1050181	3353	1
+test_09082020	105	Picture	stage1_box	1050328	0	1	7667	1	0	next	other	0
+test_09082020	106	Picture	stage1_outcome	1057995	0	1	167	1	0	next	other	0
+test_09082020	107	Picture	stage2B	1058161	0	1	4833	1	0	next	false_alarm	226
+test_09082020	107	Pulse	99	1060000	1839	NA
+test_09082020	107	Response	2	1062821	4659	1
+test_09082020	108	Picture	stage2_box	1062995	0	1	7667	1	0	next	other	0
+test_09082020	109	Picture	stage2_up	1070661	0	1	7667	1	0	next	other	0
+test_09082020	110	Picture	stage2_lose	1078328	0	1	10167	1	0	next	other	0
+test_09082020	110	Pulse	99	1080000	1672	NA
+test_09082020	111	Picture	stage1	1088494	0	1	3667	1	0	next	false_alarm	232
+test_09082020	111	Response	1	1092100	3606	1
+test_09082020	112	Picture	stage1_box	1092161	0	1	7667	1	0	next	other	0
+test_09082020	113	Picture	stage1_outcome	1099828	0	1	167	1	0	next	other	0
+test_09082020	114	Picture	stage2A	1099994	0	1	6667	1	0	next	false_alarm	237
+test_09082020	114	Pulse	99	1100000	6	NA
+test_09082020	114	Response	1	1106500	6506	1
+test_09082020	115	Picture	stage2_box	1106661	0	1	7667	1	0	next	other	0
+test_09082020	116	Picture	stage2_up	1114328	0	1	7667	1	0	next	other	0
+test_09082020	116	Pulse	99	1120000	5672	NA
+test_09082020	117	Picture	stage2_win	1121994	0	1	10167	1	0	next	other	0
+test_09082020	118	Picture	stage1	1132161	0	1	4000	1	0	next	false_alarm	243
+test_09082020	118	Response	1	1136100	3939	1
+test_09082020	119	Picture	stage1_box	1136161	0	1	7667	1	0	next	other	0
+test_09082020	119	Pulse	99	1140000	3839	NA
+test_09082020	120	Picture	stage1_outcome	1143827	0	1	167	1	0	next	other	0
+test_09082020	121	Picture	stage2B	1143994	0	1	8167	1	0	next	false_alarm	248
+test_09082020	121	Response	1	1152100	8106	1
+test_09082020	122	Picture	stage2_box	1152161	0	1	7667	1	0	next	other	0
+test_09082020	123	Picture	stage2_up	1159827	0	1	7667	1	0	next	other	0
+test_09082020	123	Pulse	99	1160000	173	NA
+test_09082020	124	Picture	stage2_win	1167494	0	1	10167	1	0	next	other	0
+test_09082020	125	Picture	stage1	1177661	0	1	7000	1	0	next	false_alarm	255
+test_09082020	125	Pulse	99	1180000	2339	NA
+test_09082020	125	Response	1	1184580	6919	1
+test_09082020	126	Picture	stage1_box	1184661	0	1	7667	1	0	next	other	0
+test_09082020	127	Picture	stage1_outcome	1192327	0	1	167	1	0	next	other	0
+test_09082020	128	Picture	stage2B	1192494	0	1	5333	1	0	next	false_alarm	259
+test_09082020	128	Response	1	1197700	5206	1
+test_09082020	129	Picture	stage2_box	1197827	0	1	7667	1	0	next	other	0
+test_09082020	129	Pulse	99	1200000	2173	NA
+test_09082020	130	Picture	stage2_up	1205494	0	1	7667	1	0	next	other	0
+test_09082020	131	Picture	stage2_win	1213160	0	1	10167	1	0	next	other	0
+test_09082020	131	Pulse	99	1220000	6840	NA
+test_09082020	132	Picture	stage1	1223327	0	1	4000	1	0	next	false_alarm	266
+test_09082020	132	Response	1	1227140	3813	1
+test_09082020	133	Picture	stage1_box	1227327	0	1	7667	1	0	next	other	0
+test_09082020	134	Picture	stage1_outcome	1234994	0	1	167	1	0	next	other	0
+test_09082020	135	Picture	stage2A	1235160	0	1	5167	1	0	next	false_alarm	271
+test_09082020	135	Pulse	99	1240000	4840	NA
+test_09082020	135	Response	1	1240259	5099	1
+test_09082020	136	Picture	stage2_box	1240327	0	1	7667	1	0	next	other	0
+test_09082020	137	Picture	stage2_up	1247994	0	1	7667	1	0	next	other	0
+test_09082020	138	Picture	stage2_lose	1255660	0	1	10167	1	0	next	other	0
+test_09082020	138	Pulse	99	1260000	4340	NA
+test_09082020	139	Picture	stage1	1265827	0	1	4000	1	0	next	false_alarm	277
+test_09082020	139	Response	2	1269699	3872	1
+test_09082020	140	Picture	stage1_box	1269827	0	1	7667	1	0	next	other	0
+test_09082020	141	Picture	stage1_outcome	1277493	0	1	167	1	0	next	other	0
+test_09082020	142	Picture	stage2B	1277660	0	1	4667	1	0	next	false_alarm	282
+test_09082020	142	Pulse	99	1280000	2340	NA
+test_09082020	142	Response	2	1282179	4519	1
+test_09082020	143	Picture	stage2_box	1282327	0	1	7667	1	0	next	other	0
+test_09082020	144	Picture	stage2_up	1289993	0	1	7667	1	0	next	other	0
+test_09082020	145	Picture	stage2_lose	1297660	0	1	10167	1	0	next	other	0
+test_09082020	145	Pulse	99	1300000	2340	NA
+test_09082020	146	Picture	stage1	1307827	0	1	3500	1	0	next	false_alarm	288
+test_09082020	146	Response	1	1311139	3312	1
+test_09082020	147	Picture	stage1_box	1311327	0	1	7667	1	0	next	other	0
+test_09082020	148	Picture	stage1_outcome	1318993	0	1	167	1	0	next	other	0
+test_09082020	149	Picture	stage2B	1319160	0	1	4333	1	0	next	false_alarm	293
+test_09082020	149	Pulse	99	1320000	840	NA
+test_09082020	149	Response	1	1323299	4139	1
+test_09082020	150	Picture	stage2_box	1323493	0	1	7667	1	0	next	other	0
+test_09082020	151	Picture	stage2_up	1331160	0	1	7667	1	0	next	other	0
+test_09082020	152	Picture	stage2_win	1338826	0	1	10167	1	0	next	other	0
+test_09082020	152	Pulse	99	1340000	1174	NA
+test_09082020	153	Picture	stage1	1348993	0	1	3167	1	0	next	false_alarm	299
+test_09082020	153	Response	1	1352099	3106	1
+test_09082020	154	Picture	stage1_box	1352160	0	1	7667	1	0	next	other	0
+test_09082020	155	Picture	stage1_outcome	1359826	0	1	167	1	0	next	other	0
+test_09082020	156	Picture	stage2B	1359993	0	1	5000	1	0	next	false_alarm	304
+test_09082020	156	Pulse	99	1360000	7	NA
+test_09082020	156	Response	1	1364899	4906	1
+test_09082020	157	Picture	stage2_box	1364993	0	1	7667	1	0	next	other	0
+test_09082020	158	Picture	stage2_up	1372660	0	1	7667	1	0	next	other	0
+test_09082020	158	Pulse	99	1380000	7340	NA
+test_09082020	159	Picture	stage2_win	1380326	0	1	10167	1	0	next	false_alarm	309
+test_09082020	159	Response	1	1384258	3932	1
+test_09082020	160	Picture	stage1	1390493	0	1	4000	1	0	next	false_alarm	311
+test_09082020	160	Response	1	1394338	3846	1
+test_09082020	161	Picture	stage1_box	1394493	0	1	7667	1	0	next	other	0
+test_09082020	161	Pulse	99	1400000	5507	NA
+test_09082020	162	Picture	stage1_outcome	1402160	0	1	167	1	0	next	other	0
+test_09082020	163	Picture	stage2A	1402326	0	1	8833	1	0	next	false_alarm	316
+test_09082020	163	Response	1	1410978	8652	1
+test_09082020	164	Picture	stage2_box	1411159	0	1	7667	1	0	next	other	0
+test_09082020	165	Picture	stage2_up	1418826	0	1	7667	1	0	next	other	0
+test_09082020	165	Pulse	99	1420000	1174	NA
+test_09082020	166	Picture	stage2_win	1426493	0	1	10167	1	0	next	false_alarm	321
+test_09082020	166	Response	1	1431138	4646	1
+test_09082020	167	Picture	stage1	1436659	0	1	4500	1	0	next	false_alarm	324
+test_09082020	167	Pulse	99	1440000	3341	NA
+test_09082020	167	Response	2	1441058	4399	1
+test_09082020	168	Picture	stage1_box	1441159	0	1	7667	1	0	next	other	0
+test_09082020	169	Picture	stage1_outcome	1448826	0	1	167	1	0	next	other	0
+test_09082020	170	Picture	stage2B	1448993	0	1	6500	1	0	next	false_alarm	328
+test_09082020	170	Response	1	1455298	6305	1
+test_09082020	171	Picture	stage2_box	1455493	0	1	7667	1	0	next	other	0
+test_09082020	171	Pulse	99	1460000	4507	NA
+test_09082020	172	Picture	stage2_up	1463159	0	1	7667	1	0	next	other	0
+test_09082020	173	Picture	stage2_lose	1470826	0	1	10167	1	0	next	other	0
+test_09082020	173	Pulse	99	1480000	9174	NA
+test_09082020	174	Picture	stage1	1480992	0	1	4833	1	0	next	false_alarm	335
+test_09082020	174	Response	1	1485698	4705	1
+test_09082020	175	Picture	stage1_box	1485826	0	1	7667	1	0	next	other	0
+test_09082020	176	Picture	stage1_outcome	1493492	0	1	167	1	0	next	other	0
+test_09082020	177	Picture	stage2A	1493659	0	1	9167	1	0	next	false_alarm	340
+test_09082020	177	Pulse	99	1500000	6341	NA
+test_09082020	177	Response	1	1502657	8998	1
+test_09082020	178	Picture	stage2_box	1502826	0	1	7667	1	0	next	other	0
+test_09082020	179	Picture	stage2_up	1510492	0	1	7667	1	0	next	other	0
+test_09082020	180	Picture	stage2_win	1518159	0	1	10167	1	0	next	other	0
+test_09082020	180	Pulse	99	1520000	1841	NA
+test_09082020	181	Picture	stage1	1528326	0	1	8500	1	0	next	false_alarm	346
+test_09082020	181	Response	1	1536738	8412	1
+test_09082020	182	Picture	stage1_box	1536826	0	1	7667	1	0	next	other	0
+test_09082020	182	Pulse	99	1540000	3175	NA
+test_09082020	183	Picture	stage1_outcome	1544492	0	1	167	1	0	next	other	0
+test_09082020	184	Picture	stage2A	1544659	0	1	16500	1	0	next	false_alarm	352
+test_09082020	184	Pulse	99	1560000	15341	NA
+test_09082020	184	Response	1	1561057	16398	1
+test_09082020	185	Picture	stage2_box	1561159	0	1	7667	1	0	next	other	0
+test_09082020	186	Picture	stage2_up	1568825	0	1	7667	1	0	next	other	0
+test_09082020	187	Picture	stage2_lose	1576492	0	1	10167	1	0	next	other	0
+test_09082020	187	Pulse	99	1580000	3508	NA
+test_09082020	188	Picture	stage1	1586659	0	1	333	1	0	next	false_alarm	358
+test_09082020	188	Response	2	1586817	159	1
+test_09082020	189	Picture	stage1_box	1586992	0	1	7667	1	0	next	other	0
+test_09082020	190	Picture	stage1_outcome	1594659	0	1	167	1	0	next	other	0
+test_09082020	191	Picture	stage2B	1594825	0	1	5833	1	0	next	false_alarm	363
+test_09082020	191	Pulse	99	1600000	5175	NA
+test_09082020	191	Response	2	1600577	5752	1
+test_09082020	192	Picture	stage2_box	1600659	0	1	7667	1	0	next	other	0
+test_09082020	193	Picture	stage2_up	1608325	0	1	7667	1	0	next	other	0
+test_09082020	194	Picture	stage2_lose	1615992	0	1	10167	1	0	next	other	0
+test_09082020	194	Pulse	99	1620000	4008	NA
+test_09082020	195	Picture	stage1	1626158	0	1	3333	1	0	next	false_alarm	369
+test_09082020	195	Response	1	1629377	3218	1
+test_09082020	196	Picture	stage1_box	1629492	0	1	7667	1	0	next	other	0
+test_09082020	197	Picture	stage1_outcome	1637158	0	1	167	1	0	next	other	0
+test_09082020	198	Picture	stage2A	1637325	0	1	5833	1	0	next	false_alarm	374
+test_09082020	198	Pulse	99	1640000	2675	NA
+test_09082020	198	Response	1	1642977	5652	1
+test_09082020	199	Picture	stage2_box	1643158	0	1	7667	1	0	next	other	0
+test_09082020	200	Picture	stage2_up	1650825	0	1	7667	1	0	next	other	0
+test_09082020	201	Picture	stage2_lose	1658492	0	1	10167	1	0	next	false_alarm	379
+test_09082020	201	Pulse	99	1660000	1508	NA
+test_09082020	201	Response	1	1661377	2885	1
+test_09082020	202	Picture	stage1	1668658	0	1	5333	1	0	next	false_alarm	381
+test_09082020	202	Response	1	1673857	5198	1
+test_09082020	203	Picture	stage1_box	1673992	0	1	7667	1	0	next	other	0
+test_09082020	203	Pulse	99	1680000	6008	NA
+test_09082020	204	Picture	stage1_outcome	1681658	0	1	167	1	0	next	other	0
+test_09082020	205	Picture	stage2A	1681825	0	1	4500	1	0	next	false_alarm	386
+test_09082020	205	Response	1	1686176	4351	1
+test_09082020	206	Picture	stage2_box	1686325	0	1	7667	1	0	next	other	0
+test_09082020	207	Picture	stage2_up	1693991	0	1	7667	1	0	next	other	0
+test_09082020	207	Pulse	99	1700000	6009	NA
+test_09082020	208	Picture	stage2_lose	1701658	0	1	10167	1	0	next	other	0
+test_09082020	209	Picture	stage1	1711825	0	1	3000	1	0	next	false_alarm	392
+test_09082020	209	Response	2	1714657	2832	1
+test_09082020	210	Picture	stage1_box	1714825	0	1	7667	1	0	next	other	0
+test_09082020	210	Pulse	99	1720000	5175	NA
+test_09082020	211	Picture	stage1_outcome	1722491	0	1	167	1	0	next	other	0
+test_09082020	212	Picture	stage2B	1722658	0	1	3833	1	0	next	false_alarm	397
+test_09082020	212	Response	1	1726336	3678	1
+test_09082020	213	Picture	stage2_box	1726491	0	1	7667	1	0	next	other	0
+test_09082020	214	Picture	stage2_up	1734158	0	1	7667	1	0	next	other	0
+test_09082020	214	Pulse	99	1740000	5842	NA
+test_09082020	215	Picture	stage2_win	1741824	0	1	10167	1	0	next	other	0
+test_09082020	216	Picture	stage1	1751991	0	1	3667	1	0	next	false_alarm	403
+test_09082020	216	Response	2	1755616	3625	1
+test_09082020	217	Picture	stage1_box	1755658	0	1	7667	1	0	next	other	0
+test_09082020	217	Pulse	99	1760000	4342	NA
+test_09082020	218	Picture	stage1_outcome	1763324	0	1	167	1	0	next	other	0
+test_09082020	219	Picture	stage2B	1763491	0	1	6167	1	0	next	false_alarm	408
+test_09082020	219	Response	1	1769536	6045	1
+test_09082020	220	Picture	stage2_box	1769658	0	1	7667	1	0	next	other	0
+test_09082020	221	Picture	stage2_up	1777324	0	1	7667	1	0	next	other	0
+test_09082020	221	Pulse	99	1780000	2676	NA
+test_09082020	222	Picture	stage2_lose	1784991	0	1	10167	1	0	next	other	0
+test_09082020	223	Pulse	99	1800000	4842	NA
+test_09082020	223	Pulse	99	1820000	24842	NA
+test_09082020	223	Pulse	99	1840000	44842	NA
+test_09082020	223	Response	88	1849216	54058	1

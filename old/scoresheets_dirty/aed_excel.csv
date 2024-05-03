@@ -1,0 +1,67 @@
+﻿raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+aed_money1,NA,Would you rather have:,raw,0,"30 mins exercise=1,$1=2",NA,NA,NA,NA,NA
+aed_money2,NA,Would you rather have:,raw,0,"30 mins exercise=1,$2=2",NA,NA,NA,NA,NA
+aed_money3,NA,Would you rather have:,raw,0,"30 mins exercise=1,$5=2",NA,NA,NA,NA,NA
+aed_money4,NA,Would you rather have:,raw,0,"30 mins exercise=1,$8=2",NA,NA,NA,NA,NA
+aed_money5,NA,Would you rather have:,raw,0,"30 mins exercise=1,$10=2",NA,NA,NA,NA,NA
+aed_money6,NA,Would you rather have:,raw,0,"30 mins exercise=1,$15=2",NA,NA,NA,NA,NA
+aed_money7,NA,Would you rather have:,raw,0,"30 mins exercise=1,$20=2",NA,NA,NA,NA,NA
+aed_money8,NA,Would you rather have:,raw,0,"30 mins exercise=1,$25=2",NA,NA,NA,NA,NA
+aed_money9,NA,Would you rather have:,raw,0,"30 mins exercise=1,$50=2",NA,NA,NA,NA,NA
+aed_money10,NA,Would you rather have:,raw,0,"30 mins exercise=1,$100=2",NA,NA,NA,NA,NA
+aed_1hr1,NA,Would you rather have:,raw,0,"one hour exercise=1,$1=2",NA,NA,NA,NA,NA
+aed_1hr2,NA,Would you rather have:,raw,0,"one hour exercise=1,$2=2",NA,NA,NA,NA,NA
+aed_1hr3,NA,Would you rather have:,raw,0,"one hour exercise=1,$5=2",NA,NA,NA,NA,NA
+aed_1hr4,NA,Would you rather have:,raw,0,"one hour exercise=1,$8=2",NA,NA,NA,NA,NA
+aed_1hr5,NA,Would you rather have:,raw,0,"one hour exercise=1,$10=2",NA,NA,NA,NA,NA
+aed_1hr6,NA,Would you rather have:,raw,0,"one hour exercise=1,$15=2",NA,NA,NA,NA,NA
+aed_1hr7,NA,Would you rather have:,raw,0,"one hour exercise=1,$20=2",NA,NA,NA,NA,NA
+aed_1hr8,NA,Would you rather have:,raw,0,"one hour exercise=1,$25=2",NA,NA,NA,NA,NA
+aed_1hr9,NA,Would you rather have:,raw,0,"one hour exercise=1,$50=2",NA,NA,NA,NA,NA
+aed_1hr10,NA,Would you rather have:,raw,0,"one hour exercise=1,$100=2",NA,NA,NA,NA,NA
+aed_snack1,NA,10 kcal,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack2,NA,50 kcal,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack3,NA,100 kcal,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack4,NA,200 kcal,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack5,NA,500 kcal,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack6,NA,2 carrots,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack7,NA,2 grapes,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack8,NA,1 apple,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack9,NA,1 granola bar,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack10,NA,1 granola bar + 1 apple,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+aed_snack11,NA,1 granola bar + 1 apple + 1 tbsp. peanut butter,raw,0,"yes=1,no=2",NA,NA,NA,NA,NA
+"aed_money1,aed_money2,aed_money3,aed_money4,aed_money5,aed_money6,aed_money7,aed_money8,aed_money9,aed_money10,aed_1hr1,aed_1hr2,aed_1hr3,aed_1hr4,aed_1hr5,aed_1hr6,aed_1hr7,aed_1hr8,aed_1hr9,aed_1hr10,aed_snack1,aed_snack2,aed_snack3,aed_snack4,aed_snack5,aed_snack6,aed_snack7,aed_snack8,aed_snack9,aed_snack10,aed_snack11",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+aed_money1,aed_30min1,Would you rather have:,recode,2,"30 mins exercise=1,$1=2",NA,NA,NA,NA,NA
+aed_money2,aed_30min2,Would you rather have:,recode,2,"30 mins exercise=1,$2=2",NA,NA,NA,NA,NA
+aed_money3,aed_30min5,Would you rather have:,recode,2,"30 mins exercise=1,$5=2",NA,NA,NA,NA,NA
+aed_money4,aed_30min8,Would you rather have:,recode,2,"30 mins exercise=1,$8=2",NA,NA,NA,NA,NA
+aed_money5,aed_30min10,Would you rather have:,recode,2,"30 mins exercise=1,$10=2",NA,NA,NA,NA,NA
+aed_money6,aed_30min15,Would you rather have:,recode,2,"30 mins exercise=1,$15=2",NA,NA,NA,NA,NA
+aed_money7,aed_30min20,Would you rather have:,recode,2,"30 mins exercise=1,$20=2",NA,NA,NA,NA,NA
+aed_money8,aed_30min25,Would you rather have:,recode,2,"30 mins exercise=1,$25=2",NA,NA,NA,NA,NA
+aed_money9,aed_30min50,Would you rather have:,recode,2,"30 mins exercise=1,$50=2",NA,NA,NA,NA,NA
+aed_money10,aed_30min100,Would you rather have:,recode,2,"30 mins exercise=1,$100=2",NA,NA,NA,NA,NA
+aed_1hr1,aed_1hr1,Would you rather have:,recode,2,"one hour exercise=1,$1=2",NA,NA,NA,NA,NA
+aed_1hr2,aed_1hr2,Would you rather have:,recode,2,"one hour exercise=1, $2=2",NA,NA,NA,NA,NA
+aed_1hr3,aed_1hr5,Would you rather have:,recode,2,"one hour exercise=1,$5=2",NA,NA,NA,NA,NA
+aed_1hr4,aed_1hr8,Would you rather have:,recode,2,"one hour exercise=1,$8=2",NA,NA,NA,NA,NA
+aed_1hr5,aed_1hr10,Would you rather have:,recode,2,"one hour exercise=1,$10=2",NA,NA,NA,NA,NA
+aed_1hr6,aed_1hr15,Would you rather have:,recode,2,"one hour exercise=1,$15=2",NA,NA,NA,NA,NA
+aed_1hr7,aed_1hr20,Would you rather have:,recode,2,"one hour exercise=1,$20=2",NA,NA,NA,NA,NA
+aed_1hr8,aed_1hr25,Would you rather have:,recode,2,"one hour exercise=1,$25=2",NA,NA,NA,NA,NA
+aed_1hr9,aed_1hr50,Would you rather have:,recode,2,one hour exercise=1 $50=2,NA,NA,NA,NA,NA
+aed_1hr10,aed_1hr100,Would you rather have:,recode,2,"one hour exercise=1,$100=2",NA,NA,NA,NA,NA
+aed_snack1,aed_snack10cal,10 kcal,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack2,aed_snack50cal,50 kcal,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack3,aed_snack100cal,100 kcal,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack4,aed_snack200cal,200 kcal,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack5,aed_snack500cal,500 kcal,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack6,aed_carrots,2 carrots,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack7,aed_grapes,2 grapes,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack8,aed_apple,1 apple,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack9,aed_granola,1 granola bar,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack10,aed_granola_apple,1 granola bar + 1 apple,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+aed_snack11,aed_granola_apple_pb,1 granola bar + 1 apple + 1 tbsp. peanut butter,recode,2,"no=0,yes=1","1=1,2=0",NA,NA,NA,NA
+"aed_30min1,aed_30min2,aed_30min5,aed_30min8,aed_30min10,aed_30min15,aed_30min20,aed_30min25,aed_30min50,aed_30min100,aed_1hr1,aed_1hr2,aed_1hr5,aed_1hr8,aed_1hr10,aed_1hr15,aed_1hr20,aed_1hr25,aed_1hr50,aed_1hr100,aed_snack10cal,aed_snack50cal,aed_snack100cal,aed_snack200cal,aed_snack500cal,aed_carrots,aed_grapes,aed_apple,aed_granola,aed_granola_apple,aed_granola_apple_pb",aed_mean,average of analogue exercise decisions,mean,3,NA,NA,NA,NA,NA,NA
+"aed_30min1,aed_30min2,aed_30min5,aed_30min8,aed_30min10,aed_30min15,aed_30min20,aed_30min25,aed_30min50,aed_30min100,aed_1hr1,aed_1hr2,aed_1hr5,aed_1hr8,aed_1hr10,aed_1hr15,aed_1hr20,aed_1hr25,aed_1hr50,aed_1hr100",aed_ money_mean,average of time exercised vs money ,mean,3,NA,NA,NA,NA,NA,NA
+"aed_snack10cal,aed_snack50cal,aed_snack100cal,aed_snack200cal,aed_snack500cal,aed_carrots,aed_grapes,aed_apple,aed_granola,aed_granola_apple,aed_granola_apple_pb",aed_snacks_mean,average of food vs exercise questions,mean,3,NA,NA,NA,NA,NA,NA

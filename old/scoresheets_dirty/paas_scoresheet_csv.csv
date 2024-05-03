@@ -1,0 +1,22 @@
+raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+pvs_paas_1_pre,NA,Enthusiastic,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_2_pre,NA,Crummy,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_3_pre,NA,Fatigued,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_4_pre,NA,Calm,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_selfreport_states_pre_complete,NA,Complete?,raw,0,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+pvs_paas_1_post,NA,Enthusiastic,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_2_post,NA,Crummy,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_3_post,NA,Fatigued,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_4_post,NA,Calm,raw,0,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_selfreport_states_post_complete,NA,Complete?,raw,0,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+"pvs_paas_1_pre, pvs_paas_2_pre, pvs_paas_3_pre, pvs_paas_4_pre, pvs_selfreport_states_pre_complete, pvs_paas_1_post, pvs_paas_2_post, pvs_paas_3_post, pvs_paas_4_post, pvs_selfreport_states_post_complete",NA,pvs select,select,1,NA,NA,NA,NA,NA,NA
+pvs_paas_1_pre,paas_enthusiastic_pre,Enthusiastic,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_2_pre,paas_crummy_pre,Crummy,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_3_pre,paas_fatigued_pre,Fatigued,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_4_pre,paas_calm_pre,Calm,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_1_post,paas_enthusiastic_post,Enthusiastic,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_2_post,paas_crummy_post,Crummy,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_3_post,paas_fatigued_post,Fatigued,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_paas_4_post,paas_calm_post,Calm,recode,2,"Do not feel = 0, feel slightly = 1, feel moderately = 2, feel strongly = 3, feel very strongly = 5",NA,NA,NA,NA,NA
+pvs_selfreport_states_post_complete,paas_complete_post,Complete?,recode,2,"incomplete = 0, unverified = 1, complete = 2",NA,NA,NA,NA,NA
+"paas_enthusiastic_pre, paas_crummy_pre, paas_fatigued_pre, paas_calm_pre, paas_enthusiastic_post, paas_crummy_post, paas_fatigued_post, paas_calm_post, paas_complete_post",paas_sum,Sum of paas ,sum,3,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,11 @@
+Scenario - 
+Logfile written - 03/09/2022 18:00:55
+
+Subject	Pulse	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+MAXED_1024	1	Pulse	99	0	0	NA
+MAXED_1024	1	Picture	instructions_1	333	333	1	72478	1	0	next	other	0
+MAXED_1024	2	Pulse	99	20000	20000	NA
+MAXED_1024	3	Pulse	99	40000	40000	NA
+MAXED_1024	4	Pulse	99	60000	60000	NA
+MAXED_1024	4	Quit		68498	68498	NA

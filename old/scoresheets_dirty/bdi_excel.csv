@@ -1,0 +1,45 @@
+﻿raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+bdi_1,NA,Sadness,raw,0,"I do not feel sad = 0, I feel sad much of the time = 1, I am sad all of the time = 2, I am so sad or unhappy that I can't stand it =3",NA,NA,NA,NA,NA
+bdi_2,NA,Pessimism,raw,0,"I am not discouraged about my future =0, I feel more discouraged about my future than I used to be = 1, I do not expect things to work out for me = 2, I dislike myself =3",NA,NA,NA,NA,NA
+bdi_3,NA,Past Failure,raw,0,"I do not feel like a failure =0, I have failed more than I should have =1, As I look back, I see a lot of failures = 2, I feel I am a total failure as a person =3",NA,NA,NA,NA,NA
+bdi_4,NA,Loss of Pleasure,raw,0,"I get as much pleasure as I ever did from the things I enjoy =0, I don't enjoy things as much as I used to =1, I get very little pleasure from the things I used to enjoy =2, I can't get any pleasure from the things I used to enjoy =3",NA,NA,NA,NA,NA
+bdi_5,NA,Guilty Feelings,raw,0,"I don't feel particularly guilty =0, I feel guilty over many things I have done or should have done =1, I feel quite guilty most of the time =2, I feel guilty all of the time =3",NA,NA,NA,NA,NA
+bdi_6,NA,Punishment Feelings,raw,0,"I don't feel I am being punished =0, I feel I may be punished =1, I expect to be punished =2, I feel I am being punished =3",NA,NA,NA,NA,NA
+bdi_7,NA,Self-Dislike,raw,0,"I feel the same about myself as ever =0, I have lost confidence in myself =1, I am dissapointed in myself =2, I feel my future is hopeless and will only get worse =3",NA,NA,NA,NA,NA
+bdi_8,NA,Self-Criticalness,raw,0,"I don't criticize or blame myself more than usual =0, I am more critical of myself than I used to be =1, I criticize myself for all of my faults =2, I blame myself for everything bad that happens =3",NA,NA,NA,NA,NA
+bdi_9,NA,Suicidal Thoughts or Wishes,raw,0,"I don't have any thoughts of killing myself =0, I have thoughts of killing myself, but I would not carry them out = 1, I would like to kill myself =2, I would kill myself if I had the chance =3",NA,NA,NA,NA,NA
+bdi_10,NA,Crying,raw,0,"I don't cry anymore than I used to =0, I cry more than I used to =1, I cry over every little thing =2, I feel like crying, but I can't =3",NA,NA,NA,NA,NA
+bdi_11,NA,Agitation,raw,0,"I am no more restless or wound up than usual =0, I feel more restless or wound up than usual =1, I am so restless or agitated that it's hard to stay still =2, I am so restless or agitated that I have to keep moving or doing something =3",NA,NA,NA,NA,NA
+bdi_12,NA,Loss of interest,raw,0,"I have not lost interested in other people or activities =0, I am less interested in other people or things =1, I have lost most of my interest in other people or things =2, It's hard to get interested in anything =3",NA,NA,NA,NA,NA
+bdi_13,NA,Indecisiveness,raw,0,"I make decisions about as well as ever =0, I find it more difficult to make decisions than usual =1, I have much greater difficulty in making decisions than I used to =2, I have trouble making any decisions =3",NA,NA,NA,NA,NA
+bdi_14,NA,Worthlessness,raw,0,"I do not feel I am worthless =0, I don't consider myself as worthwhile and useful as I used to =1, I feel more worthless as compared to other people =2, I feel utterly worthless =3",NA,NA,NA,NA,NA
+bdi_15,NA,Loss of Energy,raw,0,"I have as much energy as ever =0, I have less energy than I used to have =1, I don't have enough energy to do very much =2, I don't have enough energy to do anything =3",NA,NA,NA,NA,NA
+bdi_16,NA,Changes in Sleeping Pattern,raw,0,"I have not expereinced any cahnge in my sleeing pattern=0, I sleep somewhat more than usual=1a, I sleep somewhat less than usual=1b, I sleep a lot more than usual=2a, I sleep a lot less than usual=2b, I sleep most of the day=3a, I wake up 1-2 hours early and can't get back to sleep=3b",NA,NA,NA,NA,NA
+bdi_17,NA,Irritability,raw,0,"I am no more irritable than usual=0, I am more irritable than usual=1, I am much more irritable than usual=2, I am irritable all the time=3",NA,NA,NA,NA,NA
+bdi_18,NA,Changes in Appetite,raw,0,"I have not expereinced any change in my appetite=0, My appetite is somewhat less than usual=1a, My appetite is somewhat greater than usual=1b, My appetite is much less than usual=2a, My appetite is much greater than usual=2b, I have no appetite at all=3a, I crave food all the time=3b ",NA,NA,NA,NA,NA
+bdi_19,NA,Concentration Difficulty,raw,0,"I can concentrate as well as ever=0, I can't concentrate as well as usual=1, It's hard to keep my mind on anything for very long=2, I find I can't concentrate on anything=3",NA,NA,NA,NA,NA
+bdi_20,NA,Tiredness or Fatigue,raw,0,"I am no more tired or fatigued than usual=0, I get more tired or fatigued more easily than usual=1, I am too tired or fatigued to do a lot of the things I used to do=2, I am too tired or fatigured to do most of the things I used to do ",NA,NA,NA,NA,NA
+bdi_21,NA,Loss of Interest in Sex,raw,0,"I have not noticed any recent change in my interest in sex=0, I am less interested in sex than I used to be=1, I am much less interested in sex now=2, I have lost interest in sex completely=3",NA,NA,NA,NA,NA
+"bdi_1,bdi_2,bdi_3,bdi_4,bdi_5,bdi_6,bdi_7,bdi_8,bdi_9,bdi_10,bdi_11,bdi_12,bdi_13,bdi_14,bdi_15,bdi_16,bdi_17,bdi_18,bdi_19,bdi_20,bdi_21",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+bdi_1,bdi_1_sadness,Sadness,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_2,bdi_2_pessimism,Pessimism,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_3,bdi_3_past_failure,Past Failure,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_4,bdi_4_loss_pleasure,Loss of Pleasure,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_5,bdi_5_guilty,Guilty Feelings,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_6,bdi_6_punishment,Punishment Feelings,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_7,bdi_7_self_dislike,Self-Dislike,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_8,bdi_8_self_criticalness,Self-Criticalness,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_9,bdi_9_suicidal,Suicidal Thoughts or Wishes,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_10,bdi_10_crying,Crying,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_11,bdi_11_agitation,Agitation,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_12,bdi_12_loss_interest,Loss of interest,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_13,bdi_13_indecisivenss,Indecisiveness,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_14,bdi_14_worthlessness,Worthlessness,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_15,bdi_15_loss_energy,Loss of Energy,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_16,bdi_16_changes_sleep,Changes in Sleeping Pattern,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_17,bdi_17_irritability,Irritability,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_18,bdi_18_changes_appetite,Changes in Appetite,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_19,bdi_19_concentration_difficulty,Concentration Difficulty,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_20,bdi_20_tiredness,Tiredness or Fatigue,recode ,2,NA,NA,NA,NA,NA,NA
+bdi_21,bdi_21_loss_interest_sex,Loss of Interest in Sex,recode ,2,NA,NA,NA,NA,NA,NA
+"bdi_1_sadness,bdi_2_pessimism,bdi_3_past_failure,bdi_4_loss_pleasure,bdi_5_guilty,bdi_6_punishment,bdi_7_self_dislike,bdi_8_self_criticalness,bdi_9_suicidal,bdi_10_crying,bdi_11_agitation,bdi_12_loss_interest,bdi_13_indecisivenss,bdi_14_worthlessness,bdi_15_loss_energy,bdi_16_changes_sleep,bdi_17_irritability,bdi_18_changes_appetite,bdi_19_concentration_difficulty,bdi_20_tiredness,bdi_21_loss_interest_sex",bdi_sum,sum of BDI_II,sum,3,NA,NA,NA,NA,NA,NA

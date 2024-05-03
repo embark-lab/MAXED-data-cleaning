@@ -1,0 +1,33 @@
+﻿raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
+art_1,NA,I train more than is required by my coach,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_2,NA,I train/exercise against the advice of the medical/training staff,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_3,NA,I train despite being injured,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_4,NA,I feel guilty when I don't train/exercise,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_5,NA,I feel anxious when I don't train/exercise,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_6,NA,It is hard for me to change/alter my training routine/schedule,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_7,NA,It is difficult for me to take a day off from training,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_8,NA,"I get ""overuse"" injuries",raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_9,NA,I exercise outside of team practices,raw,0,"never=1, rarely=2, sometimes=3, often=4, always=5",NA,NA,NA,NA,NA
+art_10,NA,"No matter how hard I train, I am still not lean enough.",raw,0,"strongly agree=1, agree=2, neither agree nor disagree=3, disagree=4, strongly disagree=5",NA,NA,NA,NA,NA
+art_11,NA,"No matter how hard I train, I am still not thin enough.",raw,0,"strongly agree=1, agree=2, neither agree nor disagree=3, disagree=4, strongly disagree=5",NA,NA,NA,NA,NA
+art_12,NA,I prefer to train alone.,raw,0,"strongly agree=1, agree=2, neither agree nor disagree=3, disagree=4, strongly disagree=5",NA,NA,NA,NA,NA
+art_13,NA,"No matter how hard I train, I am not pleased with my body.",raw,0,"strongly agree=1, agree=2, neither agree nor disagree=3, disagree=4, strongly disagree=5",NA,NA,NA,NA,NA
+art_14,NA,I do not feel good if I miss a day of training/exercise.,raw,0,"strongly agree=1, agree=2, neither agree nor disagree=3, disagree=4, strongly disagree=5",NA,NA,NA,NA,NA
+art_15,NA,I exercise outside of practice to build bigger muscles.,raw,0,"strongly agree=1, agree=2, neither agree nor disagree=3, disagree=4, strongly disagree=5",NA,NA,NA,NA,NA
+"art_1,art_2,art_3,art_4,art_5,art_6,art_7,art_8,art_9,art_10,art_11,art_12,art_13,art_14,art_15",NA,NA,select,1,NA,NA,NA,NA,NA,NA
+art_1,art_1_more_required,I train more than is required by my coach,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_2,art_2_against_medical,I train/exercise against the advice of the medical/training staff,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_3,art_3_injured,I train despite being injured,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_4,art_4_guilty,I feel guilty when I don't train/exercise,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_5,art_5_anxious,I feel anxious when I don't train/exercise,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_6,art_6_hard_change,It is hard for me to change/alter my training routine/schedule,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_7,art_7_day_off,It is difficult for me to take a day off from training,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_8,art_8_overuse,"I get ""overuse"" injuries",recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_9,art_9_outside_practice,I exercise outside of team practices,recode,2,"never=0, rarely=1, sometimes=2, often=3, always=4","1=0, 2=1, 3=2, 4=3, 5=4",NA,NA,NA,NA
+art_10,art_10_not_lean,"No matter how hard I train, I am still not lean enough.",recode,2,"strongly agree=4, agree=3, neither agree nor disagree=2, disagree=1, strongly disagree=0","5=0, 4=1, 3=2, 2=3, 1=4",NA,NA,NA,NA
+art_11,art_11_not_thin,"No matter how hard I train, I am still not thin enough.",recode,2,"strongly agree=4, agree=3, neither agree nor disagree=2, disagree=1, strongly disagree=0","5=0, 4=1, 3=2, 2=3, 1=4",NA,NA,NA,NA
+art_12,art_12_alone,I prefer to train alone.,recode,2,"strongly agree=4, agree=3, neither agree nor disagree=2, disagree=1, strongly disagree=0","5=0, 4=1, 3=2, 2=3, 1=4",NA,NA,NA,NA
+art_13,art_13_not_pleased,"No matter how hard I train, I am not pleased with my body.",recode,2,"strongly agree=4, agree=3, neither agree nor disagree=2, disagree=1, strongly disagree=0","5=0, 4=1, 3=2, 2=3, 1=4",NA,NA,NA,NA
+art_14,art_14_missed_day,I do not feel good if I miss a day of training/exercise.,recode,2,"strongly agree=4, agree=3, neither agree nor disagree=2, disagree=1, strongly disagree=0","5=0, 4=1, 3=2, 2=3, 1=4",NA,NA,NA,NA
+art_15,art_15_muscles,I exercise outside of practice to build bigger muscles.,recode,2,"strongly agree=4, agree=3, neither agree nor disagree=2, disagree=1, strongly disagree=0","5=0, 4=1, 3=2, 2=3, 1=4",NA,NA,NA,NA
+"art_1_more_required,art_2_against_medical,art_3_injured,art_4_guilty,art_5_anxious,art_6_hard_change,art_7_day_off,art_8_overuse,art_9_outside_practice,art_10_not_lean,art_11_not_thin,art_12_alone,art_13_not_pleased,art_14_missed_day,art_15_muscles",art_mean,average of athletes relationship with training ,mean,3,NA,NA,NA,NA,NA,NA
